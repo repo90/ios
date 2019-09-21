@@ -1,0 +1,25 @@
+<package>
+	<id>com.shiarahmed.com.opa334.safariplus_1.7.5-3</id>
+	<name>com.opa334.safariplus_1.7.5-3</name>
+	<version>1.7.5-3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>12.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>safariplus tweak</shortDescription>
+	<descriptionlist>
+		<description>aa test</description>
+		<description>Supports iOS 10.0 - 12.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
