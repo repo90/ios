@@ -1,18 +1,18 @@
 
-Package: com.shiarahmed.com.opa334.safariplus_1.7.5-3
-Version: 1.7.5.3
+Package: com.julioverne.mimport
+Version: 0.0b34
 Architecture: iphoneos-arm
 Maintainer: Ali
 Depends: mobilesubstrate
-Filename: ./debs/com.opa334.safariplus_1.7.5-3
-Size: 964
-MD5sum: C88EAB51CA984946B369D3DE56DC17F6
-SHA1: 0DED27F6C9ECC9C43BC99BD4E549A88CD14C362F
-SHA256: 3C9B46E45701C3DB38C0992504683BE3B1B023C345D589801AF26938D3C2F5C2
+Filename: ./debs/com.julioverne.mimport
+Size: 614
+MD5sum: 3fedbab5ccdd1f8e21eb58b779821b62
+SHA1: 31A6664506201F3EB3C2DBB93B275E799910A87A
+SHA256: E6407BB1E4487898BEFE52F8A2FEFDEC39F4EEB00C1B8FBF7C73ACB3AC5E0A64
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Alosh
-Depiction: https://shiarahmed.github.io/test/depictions/?p=test
+Depiction: https://repo90.github.io/ios/depictions/?p=test
 Installed-Size: 84
-Name: safariplus
-SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/snapchat.json
+Name: mimport
+SileoDepiction: https://repo90.github.io/ios/sileodepictions/mimport.json
