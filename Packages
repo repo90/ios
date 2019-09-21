@@ -16,3 +16,22 @@ Depiction: https://repo90.github.io/ios/depictions/?p=test
 Installed-Size: 84
 Name: mimport
 SileoDepiction: https://repo90.github.io/ios/sileodepictions/mimport.json
+
+
+Package: com.AliALbasrawi.safariplus_1.7.5-3
+Version: 1.5.7-3
+Architecture: iphoneos-arm
+Maintainer: Ali
+Depends: mobilesubstrate
+Filename: ./debs/safariplus_1.7.5-3
+Size: 964
+MD5sum: C88EAB51CA984946B369D3DE56DC17F6
+SHA1: 0DED27F6C9ECC9C43BC99BD4E549A88CD14C362F
+SHA256: 3C9B46E45701C3DB38C0992504683BE3B1B023C345D589801AF26938D3C2F5C2
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Alosh
+Depiction: https://repo90.github.io/ios/depictions/?p=test
+Installed-Size: 84
+Name: safariplus
+SileoDepiction: https://repo90.github.io/ios/sileodepictions/safariplus.json
