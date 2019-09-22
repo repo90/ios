@@ -2,8 +2,8 @@ body {
     font-family: 'Karla',  sans-serif;
     overflow-x: hidden;
 }
-   background: url(apple-background.jpg)
-   background: size: cover;
+    background: url(apple-background.jpg)
+    background-size: cover;
 header {
     text-align: center;
     background: none;
@@ -103,5 +103,3 @@ footer .footer-above {
     font-size: 20px;
     line-height: 45px;
 }
-
-
