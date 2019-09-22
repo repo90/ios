@@ -745,16 +745,16 @@ Version: 2.7.4
 Architecture: iphoneos-arm
 Maintainer: Pulandres
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.ouraigua.jodebox
-Conflicts: me.pulandres.dleasy
+Conflicts: me.Albasrawi.dleasy
 Replaces: nono
 Filename: ./debs/me.pulandresk.dleasy_2.7.4.deb
 Size: 3056722
 MD5sum: 3d28947a991c6c9235945bd9eec245c5
 SHA1: bfcf0ac277b2811791e87fe1bd85a92ebedccb78
 SHA256: e486087a251a59e8cc4cc6ad331917bb095378a497310a52cbcce7ac21de836e
-Section: Tweaks
+Section: Tweaks Cracked
 Description: Download images and videos from social apps easily!
-Author: AhmedBafkir <prooxy0@gmail.com>
+Author: Albasrawi <aliiosapp@gmail.com>
 Depiction: https://repo.pulandres.me/index.php?pid=454
 Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
 Installed-Size: 9412
