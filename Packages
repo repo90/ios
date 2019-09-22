@@ -15,23 +15,23 @@ Author: Alosh
 Depiction: https://repo90.github.io/ios/depictions/?p=test
 Installed-Size: 84
 Name: mimport
-SileoDepiction: https://repo90.github.io/ios/sileodepictions/mimport.json
 
 
-Package: com.AliALbasrawi.safariplus_1.7.5-3
-Version: 1.5.7-3
+
+Package: com.arab-cydia.weathervane_1.1.0-1_iphoneos-arm (2)
+Version: 1.1.0-1
 Architecture: iphoneos-arm
 Maintainer: Ali
 Depends: mobilesubstrate
-Filename: ./debs/safariplus_1.7.5-3
-Size: 964
-MD5sum: C88EAB51CA984946B369D3DE56DC17F6
-SHA1: 0DED27F6C9ECC9C43BC99BD4E549A88CD14C362F
-SHA256: 3C9B46E45701C3DB38C0992504683BE3B1B023C345D589801AF26938D3C2F5C2
+Filename: ./debs/1.1.0-1
+Size: 12
+MD5sum: E69ABA00BCFF2CCB5E8A8C9875F88FCE
+SHA1: 731E71D741AE67DC9F75B0DC05FA8425D3137B1B
+SHA256: EC123D6AAD411E9F539C276578DA70D5A94BF74DD2E2CD167D95534E764749A9
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Alosh
 Depiction: https://repo90.github.io/ios/depictions/?p=test
 Installed-Size: 84
-Name: safariplus
-SileoDepiction: https://repo90.github.io/ios/sileodepictions/safariplus.json
+Name: weathervane
+
