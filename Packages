@@ -71,3 +71,25 @@ Author: iOS Creatix
 Name: WeatherVane
 Sponsor: Arab-Cydia <https://www.arab-cydia.com/>
 
+Package: com.opa334.safariplus
+Version: 1.7.5-3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
+Filename: ./debs/safariplus_1.7.5-3.deb
+Size: 987126
+MD5sum: c88eab51ca984946b369d3de56dc17f6
+SHA1: 0ded27f6c9ecc9c43bc99bd4e549a88cd14c362f
+SHA256: 3c9b46e45701c3db38c0992504683be3b1b023c345d589801af26938d3c2f5c2
+Section: Tweaks
+Description: Various enhancements to Safari!
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
+Installed-Size: 4622
+Name: Safari Plus
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+dev: opa334
+
