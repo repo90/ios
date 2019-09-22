@@ -371,6 +371,21 @@ Author: SarahH12099
 Installed-Size: 117
 Name: Darkroom++
 
+Package: dev.ayden.ios.serial
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: firmware (>= 11.0), org.swift.libswift
+Filename: ./debs/dev.ayden.ios.serial_1.0.3.deb
+Size: 1450336
+MD5sum: 16a56da8a269458145daea749eb453a0
+SHA1: 02396bcb2e7f58c04ee4fc7f879cb0d477b01a7e
+SHA256: 7387b62eacee537abdb8659ba37db02bafcfc1a8615fe0a720e5fcc291d47858
+Section: Utilities
+Description: Quickly find information such as the manufacture date and model of an Apple device from its serial number.
+Author: Albasrawi
+Name: Serial
+
 Package: net.hollr2099.dnsoverridepp
 Version: 1.0.0.1
 Architecture: iphoneos-arm
@@ -737,9 +752,9 @@ Size: 3056722
 MD5sum: 3d28947a991c6c9235945bd9eec245c5
 SHA1: bfcf0ac277b2811791e87fe1bd85a92ebedccb78
 SHA256: e486087a251a59e8cc4cc6ad331917bb095378a497310a52cbcce7ac21de836e
-Section: Tweaks++
+Section: Tweaks
 Description: Download images and videos from social apps easily!
-Author: Albasrawi <aliiosapp0@gmail.com>
+Author: AhmedBafkir <prooxy0@gmail.com>
 Depiction: https://repo.pulandres.me/index.php?pid=454
 Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
 Installed-Size: 9412
