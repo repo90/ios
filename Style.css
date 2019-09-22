@@ -71,10 +71,10 @@ header .btn{
 }
 
 .btn-outline {
-    color:#96110c;
-    font-size: 1.4em;
-    border: solid 1.5px #cf8308;
-    background: transparent; 
+    color:#a3c1d5;
+    font-size: 1.2em;
+    border: solid 1.5px #a3c1d5;
+    background: transparent;
     transition: all 0.3s ease-in-out;
     margin-top: 15px;
 }
