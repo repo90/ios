@@ -1,0 +1,23 @@
+<package>
+	<id>com.arab-cydia.weathervane_1.1.0-1_iphoneos-arm (2)</id>
+	<name>weathervane</name>
+	<version>1.1.0-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>9.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>weathervane</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
