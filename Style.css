@@ -45,7 +45,7 @@ header .repo {
     }
 
     header .repo {
-    	color:#edb90e;
+    	color:#40120a;
         padding-top:20px;
         font-size: 4.2em;
     }
@@ -57,7 +57,7 @@ header .repo {
 }
 
 header .donation {
-	color:#edb90e;
+	color:#40120a;
     display: block;
     padding-top:0px;
     font-family: "Karla", sans-serif;
@@ -71,10 +71,10 @@ header .btn{
 }
 
 .btn-outline {
-    color:#edb90e;
-    font-size: 1.2em;
-    border: solid 1.5px #a3c1d5;
-    background: transparent;
+    color:#96110c;
+    font-size: 2.6em;
+    border: solid 1.5px #cf8308;
+    background: transparent; 
     transition: all 0.3s ease-in-out;
     margin-top: 15px;
 }
@@ -84,7 +84,7 @@ header .btn{
 .btn-outline:active,
 .btn-outline.active {
     color: white;
-    background:#a3c1d5;
+    background:#cf8308;
     border: solid 1.5px white;
 }
 
