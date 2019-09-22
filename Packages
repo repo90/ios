@@ -144,28 +144,6 @@ Author: SarahH12099
 Installed-Size: 69
 Name: AppSwitcher Grid
 
-Package: com.flex2areo.apptools
-Version: 1.5.1-3
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/apptools_1.5.1-3.deb
-Size: 492164
-MD5sum: c9b9cdb76d1aab2f3142d39ed4856aa2
-SHA1: a5bcef27e2662f317fe5b2a7915c2d3a43146017
-SHA256: a155c7b0df9405cbf0e0a071c76abcffc538ed692d1e10e477388cef8e3319ec
-Section: Tweaks
-Description: 一款图标增强工具
-Author: aReo <minikissbye@foxmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apptoolsDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apptoolsDp
-Icon: file:///Library/PreferenceBundles/AppTools.bundle/icon@2x.png
-Installed-Size: 1613
-Name: AppTools
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
-dev: areo
-
 Package: net.hollr2099.audiomackpp
 Version: 1.0.0.5
 Architecture: iphoneos-arm
@@ -262,57 +240,6 @@ Description: Free Premium Colorfy
 Author: SarahH12099
 Installed-Size: 117
 Name: Colorfy++
-
-Package: com.arab-cydia.appstoreplusplus
-Version: 0.7-4-1
-Architecture: iphoneos-arm
-Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.appadmin
-Filename: ./debs/com.arab-cydia.appstoreplusplus_0.7-4-1.deb
-Size: 1510742
-MD5sum: f97ba56a83514ac4add02ecb62b4c83e
-SHA1: 7c8dc6949258697fafd24acb522f1f06944d0a05
-SHA256: 6903b1191fedc4961d1779fb1b7b11e702ba0b8a6f709f81064129229f668464
-Section: Tweak_
-Description: الرجوع الى اصدار سابق لاي تطبيق من تطبيقات الاب ستور
-Author: CokePokes
-Icon: 
-Name: AppStore++
-Priority: optional
-Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
-
-Package: com.arab-cydia.sahra
-Version: 1.0-1
-Architecture: iphoneos-arm
-Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.arab-cydia.sahra_1.0-1.deb
-Size: 8831990
-MD5sum: a8c4a729b837c79e3e33272bc4e83511
-SHA1: 8e63f544228bcf0d3f1074aead5ba2fbc43d4d25
-SHA256: 050815e6e1d590096e4c48eb76b187a39ea9dd70e4283a3c2cefff5b5002d4c1
-Section: Applications_
-Description: تطبيق السهرة المدفوع لمشاهدة الافلام والقنوات الرياضية
-Author: αвσ яακαи
-Name: al-Sahra
-Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
-
-Package: com.arab-cydia.weathervane
-Version: 1.1.0-1
-Architecture: iphoneos-arm
-Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.arab-cydia.weathervane_1.1.0-1_iphoneos-arm (1).deb
-Size: 12120
-MD5sum: e69aba00bcff2ccb5e8a8c9875f88fce
-SHA1: 731e71d741ae67dc9f75b0dc05fa8425d3137b1b
-SHA256: ec123d6aad411e9f539c276578da70d5a94bf74dd2e2cd167d95534e764749a9
-Section: Supports IOS12.x
-Description: الوصول السريع لشبكات الواي فاي واجهزة البلوتوث عن طريق مركز التحكم بضغطه مطوله
-Author: iOS Creatix
-Name: WeatherVane
-Sponsor: Arab-Cydia <https://www.arab-cydia.com/>
 
 Package: net.hollr2099.comicboxpp
 Version: 1.0.0.0
@@ -973,28 +900,6 @@ Description: Background Playback On Safari. If you restart your idevice, you wil
 Author: SarahH12099
 Installed-Size: 117
 Name: Safari++
-
-Package: com.opa334.safariplus
-Version: 1.7.5-3
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
-Filename: ./debs/safariplus_1.7.5-3.deb
-Size: 987126
-MD5sum: c88eab51ca984946b369d3de56dc17f6
-SHA1: 0ded27f6c9ecc9c43bc99bd4e549a88cd14c362f
-SHA256: 3c9b46e45701c3db38c0992504683be3b1b023c345d589801af26938d3c2f5c2
-Section: Tweaks
-Description: Various enhancements to Safari!
-Author: opa334 <opa334@protonmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
-Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
-Installed-Size: 4622
-Name: Safari Plus
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
-dev: opa334
 
 Package: net.hollr2099.scannerformepp
 Version: 1.0.0.0
