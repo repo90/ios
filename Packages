@@ -20,10 +20,29 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
 dev: areo
 
+Package: com.arab-cydia.appstoreplusplus
+Version: 0.7-4-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.appadmin
+Filename: ./debs/com.arab-cydia.appstoreplusplus_0.7-4-1.deb
+Size: 1510742
+MD5sum: f97ba56a83514ac4add02ecb62b4c83e
+SHA1: 7c8dc6949258697fafd24acb522f1f06944d0a05
+SHA256: 6903b1191fedc4961d1779fb1b7b11e702ba0b8a6f709f81064129229f668464
+Section: Tweak_
+Description: الرجوع الى اصدار سابق لاي تطبيق من تطبيقات الاب ستور
+Author: CokePokes
+Icon: 
+Name: AppStore++
+Priority: optional
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
 Package: com.arab-cydia.sahra
 Version: 1.0-1
 Architecture: iphoneos-arm
-Maintainer: Albasrawi <repo@Arab-Cydia.com>
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.arab-cydia.sahra_1.0-1.deb
 Size: 8831990
@@ -32,7 +51,7 @@ SHA1: 8e63f544228bcf0d3f1074aead5ba2fbc43d4d25
 SHA256: 050815e6e1d590096e4c48eb76b187a39ea9dd70e4283a3c2cefff5b5002d4c1
 Section: Applications_
 Description: تطبيق السهرة المدفوع لمشاهدة الافلام والقنوات الرياضية
-Author: Albasrawi
+Author: αвσ яακαи
 Name: al-Sahra
 Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
 
@@ -51,3 +70,4 @@ Description: الوصول السريع لشبكات الواي فاي واجهز
 Author: iOS Creatix
 Name: WeatherVane
 Sponsor: Arab-Cydia <https://www.arab-cydia.com/>
+
