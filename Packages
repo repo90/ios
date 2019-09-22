@@ -252,19 +252,19 @@ MD5sum: 4a2933f42b8ba47092d6c559d5af7830
 SHA1: a20e59735393165405f8b5c8d3559d5900c5b6b5
 SHA256: 2b3257b5fd66b141f2cded39e70d6a0223b71f0966b0ec1c40662d4233c98020
 Section: System_
-Description: لاحاجه لتحقق من ملف شهادة التطبيقات او اعادة توقيع التطبيق قبل انتهاء الـ 7 ايام 
+Description: لاحاجه لتحقق من ملف شهادة التطبيقات او اعادة توقيع التطبيق قبل انتهاء الـ 7 ايام
  ( لايوجد اعدادات للاداة )
 Author: 180
 Installed-Size: 136
 Name: Anti Revoke
 Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
 
-Package: com.arab-cydia.sahra
+Package: com.sahra_1.0-1
 Version: 1.0-1
 Architecture: iphoneos-arm
-Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Maintainer: AliAlbasrawi <repo@Arab-Cydia.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.arab-cydia.sahra_1.0-1.deb
+Filename: ./debs/com.sahra_1.0-1.deb
 Size: 8831990
 MD5sum: a8c4a729b837c79e3e33272bc4e83511
 SHA1: 8e63f544228bcf0d3f1074aead5ba2fbc43d4d25
@@ -273,7 +273,7 @@ Section: Applications_
 Description: تطبيق السهرة المدفوع لمشاهدة الافلام والقنوات الرياضية
 Author: αвσ яακαи
 Name: al-Sahra
-Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+Sponsor: AliAlbasrawi <https://repo90.github.io/ios/>
 
 Package: net.hollr2099.comicboxpp
 Version: 1.0.0.0
@@ -1321,4 +1321,3 @@ Description: No ads, background playback, double tap to skip, audio only mode sw
 Author: SarahH12099
 Installed-Size: 69
 Name: YouTube Music++
-
