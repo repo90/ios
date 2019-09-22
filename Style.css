@@ -11,7 +11,7 @@ body {
 header {
     text-align: center;
     background: none;
-    color: #242424;
+    color: #0cc1c7;
 }
 
 header .intromsg {
@@ -45,8 +45,9 @@ header .repo {
     }
 
     header .repo {
+    	color:#edb90e;
         padding-top:20px;
-        font-size: 3.4em;
+        font-size: 4.4em;
     }
 
     header .donation {
@@ -56,11 +57,12 @@ header .repo {
 }
 
 header .donation {
+	color:#edb90e;
     display: block;
     padding-top:0px;
     font-family: "Karla", sans-serif;
     text-transform: none;
-    font-size: 1.2em;
+    font-size: 2.2em;
 }
 
 
@@ -69,7 +71,7 @@ header .btn{
 }
 
 .btn-outline {
-    color:#a3c1d5;
+    color:#edb90e;
     font-size: 1.2em;
     border: solid 1.5px #a3c1d5;
     background: transparent;
