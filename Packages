@@ -241,6 +241,24 @@ Author: SarahH12099
 Installed-Size: 117
 Name: Colorfy++
 
+Package: com.arab-cydia.antirevoke
+Version: 0.0.1-1+debug-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.antirevoke_0.0.1-1+debug-1.deb
+Size: 3418
+MD5sum: 4a2933f42b8ba47092d6c559d5af7830
+SHA1: a20e59735393165405f8b5c8d3559d5900c5b6b5
+SHA256: 2b3257b5fd66b141f2cded39e70d6a0223b71f0966b0ec1c40662d4233c98020
+Section: System_
+Description: لاحاجه لتحقق من ملف شهادة التطبيقات او اعادة توقيع التطبيق قبل انتهاء الـ 7 ايام 
+ ( لايوجد اعدادات للاداة )
+Author: 180
+Installed-Size: 136
+Name: Anti Revoke
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
 Package: com.arab-cydia.sahra
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -253,7 +271,7 @@ SHA1: 8e63f544228bcf0d3f1074aead5ba2fbc43d4d25
 SHA256: 050815e6e1d590096e4c48eb76b187a39ea9dd70e4283a3c2cefff5b5002d4c1
 Section: Applications_
 Description: تطبيق السهرة المدفوع لمشاهدة الافلام والقنوات الرياضية
-Author: AliAlbasrawi
+Author: αвσ яακαи
 Name: al-Sahra
 Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
 
@@ -1303,3 +1321,4 @@ Description: No ads, background playback, double tap to skip, audio only mode sw
 Author: SarahH12099
 Installed-Size: 69
 Name: YouTube Music++
+
