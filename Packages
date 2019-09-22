@@ -1357,3 +1357,22 @@ Description: No ads, background playback, double tap to skip, audio only mode sw
 Author: SarahH12099
 Installed-Size: 69
 Name: YouTube Music++
+
+Package: com.pulandres.mejor
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Depends: mobilesubstrate ,com.ouraigua.jodebox,ws.hbang.common
+Filename: ./debs/com.pulandres.mejor_1.0.5.deb
+Size: 384406
+MD5sum: f73e8e528727b0b361b5401461d1eb1c
+SHA1: f2b0c5abd7dfb828b822e118fdb0f681c5747dd4
+SHA256: d747148003c962cd5058725ae91bbfe7cbe67dc77058944fb2ae823dd2138c5d
+Section: Tweaks Cracked
+Description: Add features to apps beautifully. (Downloads not works well, It is not a crack problem, the same thing happens with the original tweak)
+Author: Ali Albasrawi
+Depiction: https://repo.pulandres.me/index.php?pid=523
+Icon: http://mejor.7it.co/images/icon@2x.png
+Installed-Size: 1256
+Name: Mejor Cracked
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=523
