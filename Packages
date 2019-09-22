@@ -1,3 +1,25 @@
+Package: com.flex2areo.apptools
+Version: 1.5.1-3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/apptools_1.5.1-3.deb
+Size: 492164
+MD5sum: c9b9cdb76d1aab2f3142d39ed4856aa2
+SHA1: a5bcef27e2662f317fe5b2a7915c2d3a43146017
+SHA256: a155c7b0df9405cbf0e0a071c76abcffc538ed692d1e10e477388cef8e3319ec
+Section: Tweaks
+Description: 一款图标增强工具
+Author: aReo <minikissbye@foxmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apptoolsDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apptoolsDp
+Icon: file:///Library/PreferenceBundles/AppTools.bundle/icon@2x.png
+Installed-Size: 1613
+Name: AppTools
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
+dev: areo
+
 Package: com.arab-cydia.weathervane
 Version: 1.1.0-1
 Architecture: iphoneos-arm
@@ -8,7 +30,6 @@ Size: 12120
 MD5sum: e69aba00bcff2ccb5e8a8c9875f88fce
 SHA1: 731e71d741ae67dc9f75b0dc05fa8425d3137b1b
 SHA256: ec123d6aad411e9f539c276578da70d5a94bf74dd2e2cd167d95534e764749a9
-Description:https://repo90.github.io/ios/depictions/?p=WeatherVane
 Section: Supports IOS12.x
 Description: الوصول السريع لشبكات الواي فاي واجهزة البلوتوث عن طريق مركز التحكم بضغطه مطوله
 Author: iOS Creatix
