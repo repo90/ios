@@ -35,3 +35,21 @@ Depiction: https://repo90.github.io/ios/depictions/?p=test
 Installed-Size: 84
 Name: weathervane
 
+
+Package: com.supermamon.newpackage_2.0.0-1_iphoneos-arm
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Ali
+Depends: mobilesubstrate
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm
+Size: 1
+MD5sum: 85A01C41AAAA72B48B08D9D0A67F3016
+SHA1: 46BBCD314F5BCB29E05E287F08FE50E6547EA401
+SHA256: B01C426F4E262C901FD0A9DCE060D89327AF05BDBD203CE7527C133C1BC8CAFD
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Alosh
+Depiction: https://repo90.github.io/ios/depictions/?p=test
+Installed-Size: 84
+Name: newpackage
+
