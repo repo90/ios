@@ -20,6 +20,22 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
 dev: areo
 
+Package: com.arab-cydia.sahra
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <repo@Arab-Cydia.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.sahra_1.0-1.deb
+Size: 8831990
+MD5sum: a8c4a729b837c79e3e33272bc4e83511
+SHA1: 8e63f544228bcf0d3f1074aead5ba2fbc43d4d25
+SHA256: 050815e6e1d590096e4c48eb76b187a39ea9dd70e4283a3c2cefff5b5002d4c1
+Section: Applications_
+Description: تطبيق السهرة المدفوع لمشاهدة الافلام والقنوات الرياضية
+Author: Albasrawi
+Name: al-Sahra
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
 Package: com.arab-cydia.weathervane
 Version: 1.1.0-1
 Architecture: iphoneos-arm
