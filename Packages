@@ -1356,7 +1356,7 @@ Installed-Size: 1256
 Name: Mejor Cracked
 SileoDepiction: https://repo.pulandres.me/sileo.php?pid=523
 
-Package: net.dodgraphics.midevice
+Package: net.Albasrawi.midevice
 Version: 1.0.0-3
 Architecture: iphoneos-arm
 Maintainer: Albasrawi
