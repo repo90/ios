@@ -1340,7 +1340,7 @@ Name: YouTube Music++
 Package: com.pulandres.mejor
 Version: 1.0.5
 Architecture: iphoneos-arm
-Maintainer: Albasrawi 
+Maintainer: Albasrawi
 Depends: mobilesubstrate ,com.ouraigua.jodebox,ws.hbang.common
 Filename: ./debs/com.pulandres.mejor_1.0.5.deb
 Size: 384406
@@ -1355,3 +1355,19 @@ Icon: http://mejor.7it.co/images/icon@2x.png
 Installed-Size: 1256
 Name: Mejor Cracked
 SileoDepiction: https://repo.pulandres.me/sileo.php?pid=523
+
+Package: net.dodgraphics.midevice
+Version: 1.0.0-3
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, me.nepeta.libcolorpicker, applist, com.chpwn.iconsupport
+Filename: ./debs/net.dodgraphics.midevice_1.0.0-3.deb
+Size: 173658
+MD5sum: ca9561fe92a78475591d2a6d038f6a1d
+SHA1: 75c7710bc632e21a2c040006da97aa5bf643230d
+SHA256: ca87798c8542b5d49d4b515d2fb3896e361d187455951e1579f6bc5daed703ed
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Albasrawi
+Installed-Size: 688
+Name: MiDevice
