@@ -1366,7 +1366,7 @@ Size: 173658
 MD5sum: ca9561fe92a78475591d2a6d038f6a1d
 SHA1: 75c7710bc632e21a2c040006da97aa5bf643230d
 SHA256: ca87798c8542b5d49d4b515d2fb3896e361d187455951e1579f6bc5daed703ed
-Section: Tweaks
+Section: Tweaks Device
 Description: An awesome MobileSubstrate tweak!
 Author: Albasrawi
 Installed-Size: 688
