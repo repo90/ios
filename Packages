@@ -40,7 +40,7 @@ Size: 4056
 MD5sum: b3f67b87b1cbf5114f98b78b67eff298
 SHA1: da27f96534d746afd5837ead61c5eeb0213866e4
 SHA256: bbd4ccf1090637cbb28e2511708a7fedfb70df3458af2eed02e96f3b91dbccc9
-Section: Tweaks
+Section: Tweaks++
 Description: No Ads On Activator From Cydia
 Author: Albasrawi
 Installed-Size: 117
@@ -57,7 +57,7 @@ Size: 3066
 MD5sum: ec085f522536c070993cfe13d38d7843
 SHA1: 0c86542d068aea7e536d706bebba9f419292f873
 SHA256: f365fb48f085b183487a6bbd29424e0222f1164d8c2b4d0d895386db76d10aa0
-Section: Tweaks
+Section: Tweaks++
 Description: Free Premium AdGuard
 Author: Albasrawi
 Installed-Size: 69
@@ -73,7 +73,7 @@ Size: 3572
 MD5sum: 79bc240cf7d164f642a9cfb6281fcb6f
 SHA1: 003b29bcea0bf6ba3ec303b770ef8a1b6c401374
 SHA256: 3468da3d938b000d543339a4950d763cd74154fbbed496f1c40cf9fe063a3120
-Section: Tweaks
+Section: Tweaks++
 Description: Free Subscription On Adobe Premiere Rush CC
 Author: Albasrawi
 Installed-Size: 117
