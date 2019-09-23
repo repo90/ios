@@ -1,4 +1,4 @@
-Package: net.hollr2099.1passwordpp
+Package: net.Albasrawi.1passwordpp
 Version: 1.0.0.0
 Architecture: iphoneos-arm
 Maintainer: SarahH12099
@@ -8,9 +8,9 @@ Size: 3264
 MD5sum: 43c2053298df94d36253a04181e6ec64
 SHA1: a9f7a910b16b1af540da7edcf7fef4e134035808
 SHA256: 2d38496fd0e0ca9f20a6c5c615819b81ba04cf95f372cd1200f8479e4732a49d
-Section: Tweaks
+Section: Tweaks++
 Description: Free Premium 1Password
-Author: SarahH12099
+Author: Albasrawi
 Installed-Size: 69
 Name: 1Password++
 
