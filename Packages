@@ -1371,3 +1371,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: Albasrawi
 Installed-Size: 688
 Name: MiDevice
+
+Package: me.Albasrawi.dleasy
+Version: 2.6.6
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.ouraigua.jodebox
+Conflicts: qwewqsdf
+Filename: ./debs/me.Albasrawi.dleasy_2.6.6.deb
+Size: 2454220
+MD5sum: 93eb4b3c2564d27a3905818196cb189a
+SHA1: c062872ab56f047ff6a5f668c52366a71aa5c042
+SHA256: ea57d1c636e7a0849ef416d265c832e327c26a600af4ac4a230213a7c2549745
+Section: Tweaks Download
+Description: Download images and videos from social apps easily!
+Author: Albasrawi <aliiosapp@gmail.com>
+Depiction: https://pulandres.me/repo/index.php?pid=281
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
+Installed-Size: 7492
+Name: DLEasy Cracked
