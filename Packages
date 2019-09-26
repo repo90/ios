@@ -270,6 +270,7 @@ MD5sum: a8c4a729b837c79e3e33272bc4e83511
 SHA1: 8e63f544228bcf0d3f1074aead5ba2fbc43d4d25
 SHA256: 050815e6e1d590096e4c48eb76b187a39ea9dd70e4283a3c2cefff5b5002d4c1
 Section: Applications_
+Icon: C:\Github\ios\debs\com.sahra_1.0-1.deb\data.tar\.\Applications\Sahra.app\flogo.png
 Description: تطبيق السهرة المدفوع لمشاهدة الافلام والقنوات الرياضية
 Author: Albasrawi
 Name: al-Sahra
