@@ -1390,3 +1390,25 @@ Depiction: https://pulandres.me/repo/index.php?pid=281
 Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
 Installed-Size: 7492
 Name: DLEasy Cracked
+
+Package: com.Albasrawi.reprovision
+Version: 0.4.5
+Architecture: iphoneos-arm
+Maintainer: ALI <aliiosapp@gmail.com>
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer
+Filename: ./debs/com.matchstic.reprovision_0.4.5.deb
+Size: 10687828
+MD5sum: 2af870e436036f779fb2720a0b71c1fb
+SHA1: a1d1bb6de53cd73274182243f1f2dc55b5cc0c23
+SHA256: 7aee1fdcb58b591288d7659bf1b4f27514852c4c234701c13d8bfaa26ae7d46e
+Section: System
+Description: Re-sign applications on your device
+Author: ALI <aliiosapp@gmail.com>
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
+Homepage: https://github.com/Matchstic/Extender-Installer
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Name: ReProvision
+Priority: optional
+Provides: com.matchstic.Extender-Installer
+dev: ALI <aliiosapp@gmail.com>
