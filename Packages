@@ -1412,3 +1412,45 @@ Name: ReProvision
 Priority: optional
 Provides: com.matchstic.Extender-Installer
 dev: ALI <aliiosapp@gmail.com>
+
+Package: com.Albasrawi.killx
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Ali Albasrawi
+Depends: mobilesubstrate, applist, ws.hbang.common (>= 1.13), firmware (>= 11.0)
+Conflicts: com.cemck.killx
+Filename: ./debs/com.pulandres.killx_1.1.deb
+Size: 194568
+MD5sum: ec824a3f0c0962d9ee294bb122bb934b
+SHA1: e86a983826c5bd338090817bce845acfb78d1f7c
+SHA256: ce86c47a94b5e4f11de3df434a6e332f499fd9883a6c235869dcdc1ddb3efff9
+Section: Tweaks
+Description: One swipe to kill them all, Swipe down app switcher cards, to kill all apps.
+Author: Ali Albasrawi
+Depiction: https://repo90.github/ios/
+Icon: file:///Library/PreferenceBundles/KillXProPrefs.bundle/icon_pro_big@3x.png
+Installed-Size: 768
+Name: KillX Pro Cracked
+
+
+Package: ru.Albasrawi.bioprotectxs
+Version: 4.0-71
+Architecture: iphoneos-arm
+Maintainer: Ali Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Filename: ./debs/ru.rejail.bioprotectxs_4.0-71.deb
+Size: 574378
+MD5sum: 89cb55d2d6d9e14f5fd95e0dd5017d44
+SHA1: ce0603848ce90f71eedd9a92777ea8d2cb633e5d
+SHA256: 09dae9ee7f9999ca4a549bc7315e7f6bacb6b1f3d03d3432945fbf4bd3a28c1e
+Section: Tweaks
+Description:Ali Albasrawi
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://rejail.ru/depiction.php?file=bioprotectxs
+Homepage: https://rejail.ru/pack/bioprotectxs
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Installed-Size: 1348
+Name: BioProtect XS (iOS 12) Rus
+
+
