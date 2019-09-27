@@ -1770,7 +1770,7 @@ MD5sum: c8dbc2ccf523acaaef62a77ab5526c4b
 SHA1: 486096dcfdf5a58d952b6a40d40535014cd086e2
 SHA256: 88302ed63f5e7dd5774b9aa343750f3e9220f3e47d975a5af560b5458b850754
 Section: Multimedia
-Description: find & use audio from your device files
+Description: find & use audio from your device files -- للبحث عن الملفات الصوتية داخل الجهاز و تخصيص نغمة للجهاز
 Author: Ali Albasrawi
 Depiction: Albasrawi <aliiosapp@gmail.com>
 Homepage: Albasrawi <aliiosapp@gmail.com>
