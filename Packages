@@ -1758,3 +1758,25 @@ Provides: com.ioscreatix.silo
 Sponsor: Albasrawi
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 dev: opa334
+
+Package: net.Albasrawi.audioexplorerplus
+Version: 2.7.1-2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 4.0), applist, com.ouraigua.jodebox, com.rpetrich.rocketbootstrap
+Filename: ./debs/audioexplorerplus_v2.7.1-2.deb
+Size: 1727938
+MD5sum: c8dbc2ccf523acaaef62a77ab5526c4b
+SHA1: 486096dcfdf5a58d952b6a40d40535014cd086e2
+SHA256: 88302ed63f5e7dd5774b9aa343750f3e9220f3e47d975a5af560b5458b850754
+Section: Multimedia
+Description: find & use audio from your device files
+Author: Ali Albasrawi
+Depiction: Albasrawi <aliiosapp@gmail.com>
+Homepage: Albasrawi <aliiosapp@gmail.com>
+Icon: file:///Applications/AudioExplorer+.app/Icon.png
+Installed-Size: 6212
+Name: AudioExplorer+
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+dev: Albasrawi
