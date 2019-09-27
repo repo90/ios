@@ -1453,4 +1453,262 @@ Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProteActPrefs�
 Installed-Size: 1348
 Name: BioProtect XS (iOS 12) 
 
+Package: com.Albasrawi.a-font
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.a-font_1.3.1.deb
+Size: 33572
+MD5sum: 5208210294b42626e947f861c40451bb
+SHA1: 3d5f93a6773c2eb4881a8f65ffde2a168f0dd690
+SHA256: 0baeca1fa2796095b5ae795dddfae803300687b9bd91171597801d419fa3399d
+Section: Supports IOS12.x
+Description: تغيير نوع الخط في الجهاز الى اي خط تريده تدعم اجهزة A12X
+Author: Albasrawi
+Installed-Size: 316
+Name: A-Font
+Sponsor: Ali Albasrawi
 
+Package: com.Albasrawi.alkaline
+Version: 1.3-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.arab-cydia.alkaline_1.3-1.deb
+Size: 172844
+MD5sum: 192c50e51389199c9ebe986ac4a54052
+SHA1: 8c49639bb0f51e195b59a4e2792c7f0455c53f3d
+SHA256: 11b495cac125744f5779bb6fced8762a24b24cc35e4e13344fb51a78d848126e
+Section: Supports IOS12.x
+Description: تغير شكل البطارية الى عدة اشكال جميله                                                                                                                               .
+Author: Albasrawi
+Name: Alkaline
+
+Package: com.Albasrawi.AppCake6
+Version: 6.0.8-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: appsync
+Filename: ./debs/com.arab-cydia.appcake6_6.0.8-1.deb
+Size: 20101252
+MD5sum: 82bc06b8bd524ea08e5b35f13da09806
+SHA1: 6021474d87c56a7d703fd35e415452eb681dcbae
+SHA256: 2fec063c22673ae9d50792d90e341b4f1cce0dfd530bae256fdb69e4d7731ab4
+Section: Supports IOS12.x
+Description: لتحميل التطبيقات المدفوعة والمكررة والالعاب مجاناً .
+Author: hotsjf
+Icon: file:///Applications/AppCake.app/icon57x57.png
+Name: AppCake
+Pre-Depends: firmware (>= 10.0)
+Sponsor: Albasrawi
+
+Package: com.Albasrawi.appcon
+Version: 1.4.4-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 9.0)
+Filename: ./debs/com.arab-cydia.appcon_1.4.4-1.deb
+Size: 273794
+MD5sum: 5cd20256ed48f4d462f924abd0f9cb6a
+SHA1: e3c5ce7ade35eaece23b46145d28ccb9e58c4616
+SHA256: 3a5c52c6d8d3e341d3a4c8a5125e8ed5a22a93bc2864402420476107790f2470
+Section: Supports IOS12.x
+Description: تغير ايقونات البرامج الى اي صورة من اختيارك من البوم الصور
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/appconprefs.bundle/appcon@2x.png
+Name: Appcon
+Sponsor: Albasrawi
+
+Package: com.Albasrawi.Appellancy3
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.appellancy3_0.0.1-1.deb
+Size: 3590
+MD5sum: 21ee87f8235d51d6b0472bba5c4ef080
+SHA1: 0ae2ce3be80d53b99294a7338b1fa0bec5dfb3d4
+SHA256: 89a540c45d7d27390826349ec6444dad408860282496614d47a4d26606bb8629
+Section: Supports IOS12.x
+Description: تعريب Appellancy
+Author: Ali Albasrawi
+Installed-Size: 124
+Name: تعريب Appellancy
+Sponsor: Albasrawi
+
+Package: com.Albasrawi.appshortcut
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./debs/com.arab-cydia.appshortcut_1.0-1.deb
+Size: 46902
+MD5sum: 500c6140256520f97bbac0e5f3a4b3a3
+SHA1: 604249d93ba17e8af87777b931c4f9c364e7e4fa
+SHA256: fa45ebe52fb6257ceb4bb77ff4e5c3aa852cd761feccc5c6811b234e68e63f47
+Section: Supports IOS12.x
+Description: إضافة زر للوصول السريع إلى التطبيقات
+ من اي مكان وبشكل سريع
+Author: db89
+Installed-Size: 312
+Name: AppShortcut
+Pre-Depends: firmware (>= 10.0)
+Sponsor: Albasrawi
+
+Package: com.Albasrawi.appsyncunified
+Version: 40.0
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.4)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50
+Replaces: us.hackulo.appsync50
+Filename: ./debs/com.arab-cydia.appsyncunified_40.0.deb
+Size: 33790
+MD5sum: b965dbc341454a182bfde6feaedb689b
+SHA1: d9bc4d2abff6d1acc8cac1f9c22bcb671e693edd
+SHA256: 44b503f59e65499df95db3b7569c916409c16a67c2047ae8d8cd550da90e54a9
+Section: Supports IOS12.x
+Description: لتحميل التطبيقات المكركه والتطبيقات من خارج AppStore
+Author: Ali Albasrawi
+Installed-Size: 384
+Name: AppSync Unified
+Sponsor: Albasrawi
+
+Package: com.Albasrawi.audiorecorderxs
+Version: 3.0-29-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), com.arab-cydia.limneosos
+Conflicts: net.limneos.callrecorder, com.repo.xarold.com.callrecorder
+Filename: ./debs/com.arab-cydia.audiorecorderxs_3.0-29-1.deb
+Size: 2071022
+MD5sum: 523bdfc297c1316ecbcc5b2fe5b99358
+SHA1: ee520ca489c812beb80a8264dae1e855406bd712
+SHA256: 8b0423bce24587461e81245c3e6bfe037365f59058a2caa7701154f01ec3ac3c
+Section: Supports IOS12.x
+Description: تسجيل المكالمات الصوتية من جميع تطبيقات المكالمات المثبَّتة على جهازك.
+Author: Ali Albasrawi
+Name: AudioRecorder XS Cracked
+Sponsor: Albasrawi
+
+Package: com.Albasrawi.bannersounds12
+Version: 1.0.0~beta2-3
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, applist
+Conflicts: net.tateu.bannersounds, net.tateu.bannersounds10, net.tateu.bannersounds11 , com.arab-cydia.bannersounds10, com.arab-cydia.bannersounds11
+Filename: ./debs/com.arab-cydia.bannersounds12_1.0.0_beta2-3.deb
+Size: 266402
+MD5sum: a2179d66d16499ff073c017bd8b2b6f0
+SHA1: 9545d29eeeae5dbf086f528f0a5553945a604997
+SHA256: da36570e04efa99da66ad1a0d43717adca98d5d32aca3bfd44cd0167a671950c
+Section: Supports IOS12.x
+Description: تغيير نغمة اشعارات التطبيقات لاي نغمة تريدها وتخصيص نغمة لكل تطبيق ايضا
+Author: Ali Albasrawi
+Installed-Size: 1360
+Name: Banner Sounds 12
+Sponsor: Albasrawi
+
+Package: com.Albasrawi.betterccxiweather
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.arab-cydia.betterccxi | com.atwiiks.betterccxi
+Filename: ./debs/com.arab-cydia.betterccxiweather_1.0.1-1.deb
+Size: 13992
+MD5sum: 42b5d73525f999663abf0df573c6bafd
+SHA1: 748b12cabac3c5d5ad519579d6e2207330b90ba6
+SHA256: dd1d7155f92c6c76c7377cc66cfbb200be236af0ccb65d7c19f8b7693da1dbce
+Section: Supports IOS12.x
+Description: اختصار جميل للطقس في مركز التحكم يتم تفعيله والتحكم به عبر اداة BetterCCXI.
+Author: Ali Albasrawi
+Name: BetterCCXI (Weather Addon)
+Sponsor: Albasrawi
+
+Package: com.Albasrawi.betterccxi
+Version: 1.4.8-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debs/com.arab-cydia.betterccxi_1.4.8-1.deb
+Size: 61516
+MD5sum: 60d353832673f82462a3b6ad2f34bc7f
+SHA1: c2affa6a96de3e81ac4f0a3a9900d3d95b2c718e
+SHA256: ddc532d6fb9ff5e06646b886ccf2823a8faeb3212fc9a38256672142d7e914fd
+Section: Supports IOS12.x
+Description: تغيير مظهر control cente
+Author: Ali Albasrawi
+Name: BetterCCXI
+Sponsor: Albasrawi
+
+Package: com.Albasrawi.uaupdatetools
+Version: 1.0r-101-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: it.marcocristalli.asupdatehider, com.repo.xarold.com.asupdatehider
+Filename: ./debs/com.arab-cydia.uaupdatetools_1.0r-101-1.deb
+Size: 861430
+MD5sum: 2a1e70908a1101f18b89c0fe32828e5f
+SHA1: edece3d3318b03b8962d73d54039c60d41146871
+SHA256: ed4306f20856b58b8ab4cbf3fdf4fc424acb881210c774ba609df2686bcb7791
+Section: Supports IOS12.x
+Description: الرجوع للإصدارات القديمه في التطبيقات
+Author: Ali Albasrawi
+Name: App Admin
+Sponsor: Albasrawi
+
+Package: com.Albasrawi.cconandoff
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.jakeashacks.realcc
+Filename: ./debs/com.ps.cconandoff_0.0.1-1.deb
+Size: 3166
+MD5sum: a490fd464d73369bcf6b0ca585ae5f70
+SHA1: 806674f699fd21d61c880c57ca29614b8639e381
+SHA256: 67dc50aa5f8dfb57ebe8dd07940b73fbd91a15b91dd9147f19639dcabd56bf93
+Section: Supports IOS12.x
+Description: إغلاق الواي فاي والبلوتوث من مركز التحكم بشكل كامل دون الحاجة للرجوع إلى الإعدادات لإغلاقهما من هناك.
+Author: Ali Albasrawi
+Installed-Size: 72
+Name: CC On & Off
+
+Package: com.Albasrawi.audiorecorderxs
+Version: 3.0-78
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate, preferenceloader,firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Replaces: net.limneos.audiorecorder, net.limneos.audiorecorderx,net.limneos.audiorecorderxs
+Filename: ./debs/com.pulandres.audiorecorderxs_3.0-78.deb
+Size: 3706196
+MD5sum: 8638669999c1691adce4c1f4c14ec315
+SHA1: 43a236e07396c86ca514499542774ba3d0e450d7
+SHA256: eabd0e3129f5cdc4f3a4d74d98a31eca4a2c538c6d8a0b112fff806250a6f302
+Section: Tweaks
+Description: Most Advanced iOS Call Recorder Ever!
+Author: Ali Albasrawi
+Depiction: https://pulandres.me/repo/index.php?pid=77
+Installed-Size: 7352
+Name: AudioRecorder XS Cracked
+
+Package: com.Albasrawi.boxy3
+Version: 3.6.2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate, preferenceloader, com.chpwn.iconsupport
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders
+Filename: ./debs/com.pulandres.boxy3_3.6.2.deb
+Size: 2798974
+MD5sum: 7a22fe5792844889c0ee6939f70026de
+SHA1: f5cc8212fc15fcf19992754a9d1f8e8da95143b0
+SHA256: 474743dd177bf768a859ccf64d8f2df03495909f64d2aee79f4d019e0e5acc74
+Section: Tweaks
+Description: Modify your icons
+Author: Ali Albasrawi
+Depiction: https://repo.pulandres.me/index.php?pid=423
+Installed-Size: 3528
+Name: Boxy 3 (iOS 11 - 12) R
