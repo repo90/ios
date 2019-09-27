@@ -1451,7 +1451,7 @@ Depiction: https://rejail.ru/depiction.php?file=bioprotectxs
 Homepage: https://rejail.ru/pack/bioprotectxs
 Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProteActPrefsِ@2x.png
 Installed-Size: 1348
-Name: BioProtect XS (iOS 12) 
+Name: BioProtect XS (iOS 12)
 
 Package: com.Albasrawi.a-font
 Version: 1.3.1
@@ -1712,3 +1712,49 @@ Author: Ali Albasrawi
 Depiction: https://repo.pulandres.me/index.php?pid=423
 Installed-Size: 3528
 Name: Boxy 3 (iOS 11 - 12) R
+
+Package: com.Albasrawi.nomoredisabled
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Ali Albasrawi
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/com.cydiageek.nomoredisabled_1.0.2.deb
+Size: 3948
+MD5sum: c7b6e29ee3c716ae5ac66757dfde3252
+SHA1: d9f302f3336b5677ce3d653ea5c077ea5340e366
+SHA256: 22692db24e7a46cada38c24ec9474b2ad8b957a7fc019d6cae50c30ed42c5479
+Section: Tweaks
+Description: Prevent Permanent Passcode Locking by Mistake!
+Author: Albasrawi
+Depiction: Ali <aliiosapp@gmail.com>
+Homepage: Ali <aliiosapp@gmail.com>
+Installed-Size: 199
+Name: NoMoreDisabled
+Priority: optional
+Sponsor: Ali
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
+dev: lucaluca86
+
+Package: com.Albasrawi.ccsupport
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Filename: ./debs/com.opa334.ccsupport_1.2.1.deb
+Size: 35262
+MD5sum: 43abcd3e0f2f40bca25b3101bb06ee1a
+SHA1: 045777be10d82d40c1f1f93f47f978b4eda56844
+SHA256: 82c0a185c575d60a83d79c33ca4ead6d8eaf966a6740c323d4c4832e65956788
+Section: Tweaks
+Description: Support tweak for CC modules!
+Author: Ali Albasrawi
+Depiction: Ali <aliiosapp@gmail.com>
+Homepage:  Ali <aliiosapp@gmail.com>
+Installed-Size: 203
+Name: CCSupport
+Provides: com.ioscreatix.silo
+Sponsor: Albasrawi
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+dev: opa334
