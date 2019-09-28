@@ -23,12 +23,12 @@
 	<screenshots>
 		<screenshot>
 			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			</screenshot>shot1-thumb.jpg</screenshots>
+			<image>shot1.jpg</image>
 		</screenshot>
 		<screenshot>
 			<description>This is a description for screenshot 2. It's another Cydia!</description>
 			<image>shot1.jpg</image>
-		</screenshot>shot1-thumb.jpg</screenshots>
 	<changelog>
 		<change>Second release</change>
 		<change>It has feature 1</change>
