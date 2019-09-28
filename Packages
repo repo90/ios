@@ -1337,25 +1337,6 @@ Author: Albasrawi
 Installed-Size: 69
 Name: YouTube Music++
 
-Package: com.pulandres.mejor
-Version: 1.0.5
-Architecture: iphoneos-arm
-Maintainer: Albasrawi
-Depends: mobilesubstrate ,com.ouraigua.jodebox,ws.hbang.common
-Filename: ./debs/com.pulandres.mejor_1.0.5.deb
-Size: 384406
-MD5sum: f73e8e528727b0b361b5401461d1eb1c
-SHA1: f2b0c5abd7dfb828b822e118fdb0f681c5747dd4
-SHA256: d747148003c962cd5058725ae91bbfe7cbe67dc77058944fb2ae823dd2138c5d
-Section: Tweaks Download
-Description: Add features to apps beautifully. (Downloads not works well, It is not a crack problem, the same thing happens with the original tweak)
-Author: Ali Albasrawi
-Depiction: https://repo.pulandres.me/index.php?pid=523
-Icon: http://mejor.7it.co/images/icon@2x.png
-Installed-Size: 1256
-Name: Mejor Cracked
-SileoDepiction: https://repo.pulandres.me/sileo.php?pid=523
-
 Package: net.Albasrawi.midevice
 Version: 1.0.0-3
 Architecture: iphoneos-arm
@@ -1556,42 +1537,6 @@ Name: AppShortcut
 Pre-Depends: firmware (>= 10.0)
 Sponsor: Albasrawi
 
-Package: com.Albasrawi.appsyncunified
-Version: 40.0
-Architecture: iphoneos-arm
-Maintainer: Albasrawi
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.4)
-Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50
-Replaces: us.hackulo.appsync50
-Filename: ./debs/com.arab-cydia.appsyncunified_40.0.deb
-Size: 33790
-MD5sum: b965dbc341454a182bfde6feaedb689b
-SHA1: d9bc4d2abff6d1acc8cac1f9c22bcb671e693edd
-SHA256: 44b503f59e65499df95db3b7569c916409c16a67c2047ae8d8cd550da90e54a9
-Section: Supports IOS12.x
-Description: لتحميل التطبيقات المكركه والتطبيقات من خارج AppStore
-Author: Ali Albasrawi
-Installed-Size: 384
-Name: AppSync Unified
-Sponsor: Albasrawi
-
-Package: com.Albasrawi.audiorecorderxs
-Version: 3.0-29-1
-Architecture: iphoneos-arm
-Maintainer: Albasrawi
-Depends: mobilesubstrate, preferenceloader, firmware(>=12.0), com.arab-cydia.limneosos
-Conflicts: net.limneos.callrecorder, com.repo.xarold.com.callrecorder
-Filename: ./debs/com.arab-cydia.audiorecorderxs_3.0-29-1.deb
-Size: 2071022
-MD5sum: 523bdfc297c1316ecbcc5b2fe5b99358
-SHA1: ee520ca489c812beb80a8264dae1e855406bd712
-SHA256: 8b0423bce24587461e81245c3e6bfe037365f59058a2caa7701154f01ec3ac3c
-Section: Supports IOS12.x
-Description: تسجيل المكالمات الصوتية من جميع تطبيقات المكالمات المثبَّتة على جهازك.
-Author: Ali Albasrawi
-Name: AudioRecorder XS Cracked
-Sponsor: Albasrawi
-
 Package: com.Albasrawi.bannersounds12
 Version: 1.0.0~beta2-3
 Architecture: iphoneos-arm
@@ -1780,3 +1725,228 @@ Name: AudioExplorer+
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
 dev: Albasrawi
+
+Package: com.Albasrawi.mejor
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: Ali Albasrawi
+Depends: mobilesubstrate ,com.ouraigua.jodebox,ws.hbang.common
+Filename: ./debs/com.pulandres.mejor_1.2.0.deb
+Size: 516642
+MD5sum: fc2a3ae014e7d2a3742250be5b195760
+SHA1: 23121a6da372d70bec5baa10bc42a450cd459955
+SHA256: 58b41e92f725754d07248cb307f40c84f6ebb9238d68416ea5117b0556a47221
+Section: Tweaks download
+Description: Add features to apps beautifully. لتنزيل الصور والفيديوات من التطبيقات
+Author: Azozz ALFiras
+Depiction: https://repo.pulandres.me/index.php?pid=560
+Icon: http://mejor.7it.co/images/icon@2x.png
+Installed-Size: 1876
+Name: Mejor Cracked
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=560
+
+Package: com.Albasrawi.ace12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Ali Albasrawi
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/sileoturkiye.ace12_1.0.deb
+Size: 4941556
+MD5sum: 6d6dd50587ebbd2ffddbf63c036e677e
+SHA1: afc4519b36741c1830d86b38e9945854f3629ab9
+SHA256: ffed3ae65bba6f0f382f3984862f835514d32ec3d048dd1bfab74defacced529
+Section: Themes
+Description: Güzel ve Kaliteli bir Tema.
+Author: iAnas
+Name: Ace iOS 12
+
+Package: com.Albasrawi.appcake6
+Version: 6.1.3
+Architecture: iphoneos-arm
+Maintainer: Ali Albasrawi
+Depends: sileoturkiye.appsyncunified
+Filename: ./debs/sileoturkiye.appcake6_6.1.3.deb
+Size: 20775552
+MD5sum: cbe257971786162c86d27381c7d5c32e
+SHA1: 23b385e65cae736767e33aa7c35331979cc83fbc
+SHA256: 342f4847fde808f4d92b7414f776250847315d04441eb6cd613cb6cdee2fbb9f
+Section: App
+Description: Ücretli uygulamaları ücretsiz yükleme imkanı sunar.
+Author: hotsjf
+Name: AppCake BS
+Pre-Depends: firmware (>= 9.0)
+
+Package: com.Albasrawi.appsyncunified
+Version: 41.1
+Architecture: iphoneos-arm
+Maintainer: Ali Albasrawi
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Replaces: us.hackulo.appsync50
+Filename: ./debs/sileoturkiye.appsyncunified_41.1.deb
+Size: 48912
+MD5sum: 8b196842e8b611c767e8f735f35554ad
+SHA1: 24e050b754023193f775447dcb40899a8151e345
+SHA256: de3d436d048174bac940227e49a2ad7a0431c582d8f95b320cd589d1dffbe417
+Section: System
+Description: تحميل التطبيقات من خارج متجر آبل
+Author: Ali Albasrawi
+Name: AppSync Unified
+Provides: appsync
+
+Package: com.Albasrawi.audiorecorderxs
+Version: 3.0-78k
+Architecture: iphoneos-arm
+Maintainer: Ali Albasrawi
+Depends: mobilesubstrate, preferenceloader, firmware(>=12.0)
+Conflicts: net.limneos.callrecorder
+Replaces: net.limneos.audiorecorder, net.limneos.audiorecorderx, net.limneos.audiorecorderxs
+Filename: ./debs/sileoturkiye.audiorecorderxs_3.0-78k.deb
+Size: 3819000
+MD5sum: eedf7e0e8702a3124e8c24af0881e363
+SHA1: 3ede81a9c2d49a456a95d3e422abf4fe5c0e06a8
+SHA256: 52fd9cf13feafd143298feb79a4312e978c59a25aae2453d63eee050aa28a990
+Section: Supports IOS12.x
+Description: Tüm Zamanların En Gelişmiş iOS Çağrı Kaydedicisi!
+Author: Elias Limneos
+Name: AudioRecorder XS
+
+Package: Albasrawi.blackors2
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Ali Albasrawi
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/sileoturkiye.blackors2_1.4.deb
+Size: 6885506
+MD5sum: d25a50d424c251c045a66a11bf36e4a7
+SHA1: b07adc8b7e153feed4af029773e74adea19bfce9
+SHA256: 79bb9103144e3fc4e51fe6f720a7c0baea341318312c3870f5ddd0539880f937
+Section: Themes
+Description: Güzel ve Kaliteli bir Tema.
+Author: Ali Albasrawi
+Name: BlackOrs 2
+
+Package: Albasrawi.dhelp
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Ali Albasrawi
+Depends: firmware (>= 9.0)
+Conflicts: com.synnyg.dhelper
+Filename: ./debs1sileoturkiye.dhelp_1.0.2.deb
+Size: 5604456
+MD5sum: ae58171ddd6c3f420c693a097a64f413
+SHA1: b244a39b3502bf3bd7050657174474e105294981
+SHA256: 08a24b9856b78c626d699f23ed30049702aaff3439c79dfee1562326809ac3bd
+Section: App
+Description: اداة جميلة للتحميل وأدارة التحميلات من خلالها
+Author: Ali Albasrawi
+Name: DHelper
+
+Package: Albasrawi.elitex
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Ali Albasrawi
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/sileoturkiye.elitex_1.0.deb
+Size: 9781874
+MD5sum: 4aa012d39c86015707948978201a282d
+SHA1: 01baca203e3444442c23f228f00d6af29c816a34
+SHA256: 88ab842c6962cfbac631fc6c7ede60d440cc2cbe17bf5702943bb94b3b206814
+Section: Themes
+Description: ثيم جميل.
+Author: Ali Albasrawi
+Name: Elite X
+
+Package: Albasrawi.ext3nder-installer
+Version: 021a
+Architecture: iphoneos-arm
+Maintainer: Ali Albasrawi
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder, com.repo.xarold.com.ext3nder
+Filename: ./debs/sileoturkiye.ext3nder-installer_021a.deb
+Size: 517310
+MD5sum: b63b09d664cd3e73f715a9aeecc29f03
+SHA1: 767055d6abc814337f89893d45090d9c9d6e84e7
+SHA256: 6ec31a5db63c7a4ea9c50262e3a81bf559153831d7c6b0800b3cdbb2f1082b78
+Section: tweaks Device
+Description: لتثبيت التطبيقات بصيغة ipa دون الحاجة للكمبيوتر.
+Author: Ali Albasrawi
+Name: Ext3nder Installer
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+
+Package: Albasrawi.igameguardian12
+Version: 12.0.1k
+Architecture: iphoneos-arm
+Maintainer: Ali Albasrawi
+Depends: firmware (>= 12.0), mobilesubstrate
+Conflicts: idv.aqua.iGameGuardian.iOS12
+Filename: ./debs/sileoturkiye.igameguardian12_12.0.1k.deb
+Size: 502756
+MD5sum: 74b9e7aea5973b277b2810c136f9e534
+SHA1: bac0a46e879c4a57e130dab34bb7914265a4d00c
+SHA256: 88a2f3b106f4ed7e2eee17d8998cc66704ad57a2339a72314e2c03849dc8c25a
+Section: Tweaks
+Description: أداة تهكير الالعاب.
+Author: Ali Albasrawi
+Name: iGameGuardian 12
+Priority: optional
+
+Package: Albasrawi.irespringex
+Version: 0.1.5
+Architecture: iphoneos-arm
+Maintainer: Ali Albasrawi
+Depends: mobilesubstrate, firmware (>=9.0)
+Filename: ./debs/sileoturkiye.irespringex_0.1.5.deb
+Size: 310640
+MD5sum: c69f6f6df2432ed4ae158fbed2262285
+SHA1: bc4c2902721229e0fd44c4a2f0e24faa45eb580a
+SHA256: a195bda36802caa800f03896f504780a5d7164e68488713a7cd311997a89e919
+Section: tweaks
+Description: Respring/Safe Mode/UiCache/etc...
+Author: Ali Albasrawi
+Name: iRespringEx
+
+Package: Albasrawi.luxury12
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Ali Albasrawi
+Depends: firmware (>= 12.0), firmware (<= 12.4), mobilesubstrate
+Filename: ./debs/sileoturkiye.luxury12_1.1.deb
+Size: 1780388
+MD5sum: 5fc08280e059c5a55493ebeeb783dba0
+SHA1: bfd751c747c862c3c8c268c066f08ced098dd4ba
+SHA256: 8407eb920df5bce19a5c400956cc6a20efd9b85fc77058622e98802e19da35ef
+Section: Themes
+Description: ثيم روعة من علي البصراوي.
+Author: Ali Albasrawi
+Name: Luxury ios 12
+
+Package: Albasrawi.merlen
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Ali Albasrawi
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs/sileoturkiye.merlen_1.3.deb
+Size: 4696970
+MD5sum: b429be5c3e272d4538401ea73d573e1b
+SHA1: 1fe37009e4c00a2e1e80884bb8da6ded74dd39b2
+SHA256: 9fab4c37dbe0c6de549ce5ee3ff40704238f89032e28336e23da945998d53a57
+Section: Themes
+Description: ثيم جديد متوافق مع 12.4.
+Author: @a7lafe
+Name: Merlen
+
+Package: Albasrawi.vayra
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Ali Albasrawi
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: ./debs/sileoturkiye.vayra_1.1.deb
+Size: 10951706
+MD5sum: 9b35119b4ea1f4b5443d418ce1ffe19e
+SHA1: 15740bbc1bd1d7be43c8cf8dc40c1f58cd81ed08
+SHA256: 4c43b1024db93fc7dad171e3ba0428817987bc2efef414467b87aa767be36618
+Section: Themes
+Description: ثيم جديد.
+Author: Ali Albasrawi
+Name: Vayra
