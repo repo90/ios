@@ -1993,7 +1993,7 @@ SHA256: 2c67a360598dd0336a20fe07838f469e9a8e67456b656401ffcc380b54c9a948
 Section: Terminal Support
 Description: A powerful terminal app for iOS
 Author: Albasrawi <aliiosapp@gmail.com>
-Depiction: https://repo.chariz.io/package/ws.Albasrawi.newterm2/
+Depiction: https://repo.chariz.io/package/ws.hbang.newterm2/
 Icon: https://repo.chariz.io/package/ws.hbang.newterm2/icon@3x.png
 Installed-Size: 2200
 Name: NewTerm 2 (iOS 7 – 12)
