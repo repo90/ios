@@ -1977,3 +1977,27 @@ Pre-Depends: firmware (>= 11.0)
 Sponsor: ALbasrawi <aliiosapp@gmail.com>
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 dev: ichitaso
+
+Package: ws.Albasrawi.newterm2
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 7.0), com.modmyi.libswift4 (>= 4.2.1-1), ws.hbang.common (>= 1.11.2), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.Albasrawi.newterm
+Replaces: ws.Albasrawi.newterm
+Filename: ./debs/ws.hbang.newterm2_2.1.deb
+Size: 746792
+MD5sum: e0422f1e3c8f1bbf92cca06e539fea70
+SHA1: 15a405f4f54ea86f6238980823ab51c33eb9a52a
+SHA256: 2c67a360598dd0336a20fe07838f469e9a8e67456b656401ffcc380b54c9a948
+Section: Terminal Support
+Description: A powerful terminal app for iOS
+Author: Albasrawi <aliiosapp@gmail.com>
+Depiction: https://repo.chariz.io/package/ws.Albasrawi.newterm2/
+Icon: https://repo.chariz.io/package/ws.hbang.newterm2/icon@3x.png
+Installed-Size: 2200
+Name: NewTerm 2 (iOS 7 – 12)
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+Support: Albasrawi <aliiosapp@gmail.com>
+Tag: compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+dev: hbang
