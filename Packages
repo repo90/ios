@@ -1954,26 +1954,26 @@ Name: Vayra
 Package: com.Albasrawi.powerselector11
 Version: 1.2.1
 Architecture: iphoneos-arm
-Maintainer: Albasrawi
+Maintainer: ALbasrawi <aliiosapp@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
 Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
 Replaces: com.ichitaso.powerselector11
-Filename: ./debs/com.ichitaso.powerselector11_1.2.1_iphoneos-arm.deb
+Filename: ./debs/com.ichitaso.powerselector11_1.2.1.deb
 Size: 192916
 MD5sum: d1e53297bfbb14674eccf854eea7f7b5
 SHA1: 7f18f282f983f9ce45a50e658d0f1cc81bf4fe5a
 SHA256: a3ce4b5e1ae43870b6dd54811ccadd292394cba6f280004ce4fe0a3c1a10effe
 Section: Utilities
 Description: The power supply relation of a device is operated.
-Author: Albasrawi
-Depiction: http://moreinfo.thebigboss.org/moreinfo/
-depiction. Albasrawi<aliiosapp@gmail.com
-Homepage: Albasrawi<aliiosapp@gmail.com
+Author: ALbasrawi <aliiosapp@gmail.com>
+Depiction: ALbasrawi <aliiosapp@gmail.com>
+depiction.php?file=ccsupportpowerselectorDp
+Homepage: ALbasrawi <aliiosapp@gmail.com>
 depiction.php?file=ccsupportpowerselectorDp
 Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
 Installed-Size: 1712
 Name: PowerSelector (iOS 11 & 12)
 Pre-Depends: firmware (>= 11.0)
-Sponsor: Albasrawi<aliiosapp@gmail.com
+Sponsor: ALbasrawi <aliiosapp@gmail.com>
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 dev: ichitaso
