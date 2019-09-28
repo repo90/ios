@@ -1736,9 +1736,9 @@ Size: 516642
 MD5sum: fc2a3ae014e7d2a3742250be5b195760
 SHA1: 23121a6da372d70bec5baa10bc42a450cd459955
 SHA256: 58b41e92f725754d07248cb307f40c84f6ebb9238d68416ea5117b0556a47221
-Section: Tweaks download
+Section: Tweaks Download
 Description: Add features to apps beautifully. لتنزيل الصور والفيديوات من التطبيقات
-Author: Azozz ALFiras
+Author: Ali Albasrawi
 Depiction: https://repo.pulandres.me/index.php?pid=560
 Icon: http://mejor.7it.co/images/icon@2x.png
 Installed-Size: 1876
@@ -1771,7 +1771,7 @@ MD5sum: cbe257971786162c86d27381c7d5c32e
 SHA1: 23b385e65cae736767e33aa7c35331979cc83fbc
 SHA256: 342f4847fde808f4d92b7414f776250847315d04441eb6cd613cb6cdee2fbb9f
 Section: App
-Description: Ücretli uygulamaları ücretsiz yükleme imkanı sunar.
+Description: متجر تطبيقات رائع.
 Author: hotsjf
 Name: AppCake BS
 Pre-Depends: firmware (>= 9.0)
@@ -1868,7 +1868,7 @@ Size: 517310
 MD5sum: b63b09d664cd3e73f715a9aeecc29f03
 SHA1: 767055d6abc814337f89893d45090d9c9d6e84e7
 SHA256: 6ec31a5db63c7a4ea9c50262e3a81bf559153831d7c6b0800b3cdbb2f1082b78
-Section: tweaks Device
+Section: Tweaks Device
 Description: لتثبيت التطبيقات بصيغة ipa دون الحاجة للكمبيوتر.
 Author: Ali Albasrawi
 Name: Ext3nder Installer
@@ -1901,7 +1901,7 @@ Size: 310640
 MD5sum: c69f6f6df2432ed4ae158fbed2262285
 SHA1: bc4c2902721229e0fd44c4a2f0e24faa45eb580a
 SHA256: a195bda36802caa800f03896f504780a5d7164e68488713a7cd311997a89e919
-Section: tweaks
+Section: Tweaks
 Description: Respring/Safe Mode/UiCache/etc...
 Author: Ali Albasrawi
 Name: iRespringEx
@@ -1933,7 +1933,7 @@ SHA1: 1fe37009e4c00a2e1e80884bb8da6ded74dd39b2
 SHA256: 9fab4c37dbe0c6de549ce5ee3ff40704238f89032e28336e23da945998d53a57
 Section: Themes
 Description: ثيم جديد متوافق مع 12.4.
-Author: @a7lafe
+Author: Ali Albasrawi
 Name: Merlen
 
 Package: Albasrawi.vayra
