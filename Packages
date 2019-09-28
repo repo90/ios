@@ -259,7 +259,7 @@ Installed-Size: 136
 Name: Anti Revoke
 Sponsor: Albasrawi <https://repo90.github.io/ios/>
 
-Package: com.arab-cydia.sahra
+Package: com.Albasrawi.sahra
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi
@@ -269,11 +269,11 @@ Size: 8831990
 MD5sum: a8c4a729b837c79e3e33272bc4e83511
 SHA1: 8e63f544228bcf0d3f1074aead5ba2fbc43d4d25
 SHA256: 050815e6e1d590096e4c48eb76b187a39ea9dd70e4283a3c2cefff5b5002d4c1
-Section: Applications_
+Section: App
 Description: تطبيق السهرة المدفوع لمشاهدة الافلام والقنوات الرياضية
 Author: Albasrawi
 Name: al-Sahra
-Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+Sponsor: Ali Albasrawi
 
 Package: net.hollr2099.comicboxpp
 Version: 1.0.0.0
