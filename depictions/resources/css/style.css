@@ -99,6 +99,11 @@ body {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   margin: 0 auto
+  overflow: hidden;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box
 }
 body.white {
   background-color: #fff
@@ -181,6 +186,13 @@ panel>fieldset {
   position: relative;
   display: block;
   background-color: #fff;
+  margin-top: 9px;
+  margin-bottom: 9px
+}
+panel>fieldset-green {
+  position: relative;
+  display: block;
+  background-color: rgba(38, 166, 91, 0.5);
   margin-top: 9px;
   margin-bottom: 9px
 }
@@ -559,6 +571,19 @@ fieldset>a>div>div>label.detail {
   text-align: right
 }
 fieldset>a>div>div>label.price {
+  display: inline-block;
+  float: right;
+  background-color: #2463de;
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  -ms-border-radius: 9px;
+  -o-border-radius: 9px;
+  border-radius: 9px;
+  color: #fff !important;
+  padding: 0.2em 0.4em;
+  margin: -0.2em -0.4em
+}
+fieldset>a>div>div>label.title {
   display: inline-block;
   float: right;
   background-color: #2463de;
