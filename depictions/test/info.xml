@@ -1,0 +1,25 @@
+<package>
+	<id>com.shiarahmed.apptools</id>
+	<name>apptools</name>
+	<version>1.5.1-3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>12.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>AppTools tweak</shortDescription>
+	<descriptionlist>
+		<description>AppTools To control the features of the device, go short and go to the application paths</description>
+		<description>Supports iOS 10.0 - 12.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

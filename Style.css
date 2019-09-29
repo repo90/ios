@@ -1,17 +1,12 @@
 body {
-	margin: 0;
-	podding: 0;
-	background: url(apple-background-.jpg);
-	background-size: cover;
     font-family: 'Karla',  sans-serif;
     overflow-x: hidden;
 }
-    background-url(apple-background.jpg)
-    background-size: cover;
+
 header {
     text-align: center;
     background: none;
-    color: #0cc1c7;
+    color: #242424;
 }
 
 header .intromsg {
@@ -45,9 +40,8 @@ header .repo {
     }
 
     header .repo {
-    	color:#40120a;
         padding-top:20px;
-        font-size: 4.2em;
+        font-size: 3.4em;
     }
 
     header .donation {
@@ -57,12 +51,11 @@ header .repo {
 }
 
 header .donation {
-	color:#40120a;
     display: block;
     padding-top:0px;
     font-family: "Karla", sans-serif;
     text-transform: none;
-    font-size: 2.2em;
+    font-size: 1.2em;
 }
 
 
@@ -71,9 +64,9 @@ header .btn{
 }
 
 .btn-outline {
-    color:#ad170c;
+    color:#a3c1d5;
     font-size: 1.2em;
-    border: solid 1.5px #ad170c;
+    border: solid 1.5px #a3c1d5;
     background: transparent;
     transition: all 0.3s ease-in-out;
     margin-top: 15px;
@@ -84,7 +77,7 @@ header .btn{
 .btn-outline:active,
 .btn-outline.active {
     color: white;
-    background:#750d06;
+    background:#a3c1d5;
     border: solid 1.5px white;
 }
 
@@ -109,3 +102,5 @@ footer .footer-above {
     font-size: 20px;
     line-height: 45px;
 }
+
+
