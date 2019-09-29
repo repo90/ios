@@ -1,0 +1,30 @@
+<package>
+	<id>com.spark.snowboard_1.2.16_Beta1</id>
+	<name>snowboard</name>
+	<version>1.2.16_Beta1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxios>12.4</maxios>
+			<otherversins>unsupported</otherversins>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Tweaks Themes iphone </shortDescription>
+	<descriptionlist>
+		<description>Test</description>
+		<description>Test 2</description>
+		</descriptionlist>
+	<screenshots>shot1.jpg<screenshot>
+	<screenshots>shot1-thumb.jpg<screenshot>
+	<changelog>
+		<change>initial release</change>
+	</changelog>
+	<links><link>
+			<name>WhatsApp Group</name>
+			<url>https://chat.whatsapp.com/GSHFGcNFPab1LlybO1fwXS</url>
+			<iconclass>fa fa-whatsapp</iconclass>
+		</link></links>
+</package>
