@@ -2002,7 +2002,7 @@ Support: Albasrawi <aliiosapp@gmail.com>
 Tag: compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 dev: hbang
 
-Package: com.Albasrawi.snowboard
+Package: com.spark.snowboard
 Version: 1.2.16~Beta1
 Architecture: iphoneos-arm
 Maintainer: Ali Albasrawi
