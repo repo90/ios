@@ -1694,9 +1694,9 @@ SHA1: 045777be10d82d40c1f1f93f47f978b4eda56844
 SHA256: 82c0a185c575d60a83d79c33ca4ead6d8eaf966a6740c323d4c4832e65956788
 Section: Tweaks
 Description: Support tweak for CC modules!
-Author: Ali Albasrawi
-Depiction: Ali <aliiosapp@gmail.com>
-Homepage:  Ali <aliiosapp@gmail.com>
+Author: Albasrawi
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 Installed-Size: 203
 Name: CCSupport
 Provides: com.ioscreatix.silo
