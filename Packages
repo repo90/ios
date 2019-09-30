@@ -5,10 +5,10 @@ Architecture: iphoneos-arm
 Description: Free Premium 1Password
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 69
-Filename: debs/1Password.deb
+Filename: ./debs/1Password.deb
 Size: 3264
 MD5sum: 43c2053298df94d36253a04181e6ec64
 SHA1: a9f7a910b16b1af540da7edcf7fef4e134035808
@@ -21,10 +21,10 @@ Architecture: iphoneos-arm
 Description: No ads on 365Scores
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/365Scores.deb
+Filename: ./debs/365Scores.deb
 Size: 3736
 MD5sum: 3a0a37d8bccf092c5e5e699aaa0dc31d
 SHA1: a61bcf51eab3734f65d7d163e8e0ac339cb7c11d
@@ -37,10 +37,10 @@ Architecture: iphoneos-arm
 Description: No Ads On Activator From Cydia
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.3
 Installed-Size: 117
-Filename: debs/Activator.deb
+Filename: ./debs/Activator.deb
 Size: 4056
 MD5sum: b3f67b87b1cbf5114f98b78b67eff298
 SHA1: da27f96534d746afd5837ead61c5eeb0213866e4
@@ -54,10 +54,10 @@ Architecture: iphoneos-arm
 Description: Free Premium AdGuard
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 69
-Filename: debs/AdGuard.deb
+Filename: ./debs/AdGuard.deb
 Size: 3066
 MD5sum: ec085f522536c070993cfe13d38d7843
 SHA1: 0c86542d068aea7e536d706bebba9f419292f873
@@ -70,10 +70,10 @@ Architecture: iphoneos-arm
 Description: Free Subscription On Adobe Premiere Rush CC
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/AdobePremiereRushCC.deb
+Filename: ./debs/AdobePremiereRushCC.deb
 Size: 3572
 MD5sum: 79bc240cf7d164f642a9cfb6281fcb6f
 SHA1: 003b29bcea0bf6ba3ec303b770ef8a1b6c401374
@@ -86,10 +86,10 @@ Architecture: iphoneos-arm
 Description: Free Premium AlertsPro
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 69
-Filename: debs/AlertsPro.deb
+Filename: ./debs/AlertsPro.deb
 Size: 3070
 MD5sum: da17d0feb7d65d375c8631248d31d02d
 SHA1: ee2e5bac62ac5df865c1564f1e71238aed993179
@@ -102,10 +102,10 @@ Architecture: iphoneos-arm
 Description: Free Pro AllTrails
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 69
-Filename: debs/AllTrails.deb
+Filename: ./debs/AllTrails.deb
 Size: 3076
 MD5sum: e413661b133d25499633c24a832e4eb3
 SHA1: f3015c541014e4e857cb56369e5bfd57b17d296b
@@ -118,10 +118,10 @@ Architecture: iphoneos-arm
 Description: No Ads And No Update History On AppStore
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.2
 Installed-Size: 117
-Filename: debs/AppStore.deb
+Filename: ./debs/AppStore.deb
 Size: 2912
 MD5sum: 050c5201b53b72aa5119f365f0fdfc54
 SHA1: b7d2ec9b42882a397e8e94eaa0d463fcdd021b48
@@ -135,10 +135,10 @@ Architecture: iphoneos-arm
 Description: Turns AppSwitcher into a 2x2 grid
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 69
-Filename: debs/AppSwitcherGrid.deb
+Filename: ./debs/AppSwitcherGrid.deb
 Size: 1976
 MD5sum: c33f9d74501345a357c16792cfd5d74a
 SHA1: 1d4825792a85e569693dd5323df791e475e02557
@@ -152,10 +152,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Audiomack
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.5
 Installed-Size: 69
-Filename: debs/Audiomack.deb
+Filename: ./debs/Audiomack.deb
 Size: 3090
 MD5sum: e1bba9b8d4dfd0e9916e755a07cfb276
 SHA1: 304e032d1ff7800cffbb49ef383e67adb072f79c
@@ -168,10 +168,10 @@ Architecture: iphoneos-arm
 Description: Free Pro Bear
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/Bear.deb
+Filename: ./debs/Bear.deb
 Size: 3494
 MD5sum: e1fc0c0ab5a07ccd61f0a0cfa57ff81f
 SHA1: c9c18733614885ce5ff6124a7f746b2aa38a4e3b
@@ -184,10 +184,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Betternet
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.1.4
 Installed-Size: 69
-Filename: debs/Betternet.deb
+Filename: ./debs/Betternet.deb
 Size: 3840
 MD5sum: 070bce82306c590441ae6bd616be3094
 SHA1: e853edaf80915182ee13127219fc76ac276a1dee
@@ -200,10 +200,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Calm
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/Calm.deb
+Filename: ./debs/Calm.deb
 Size: 3638
 MD5sum: c4a125365bc07c52360393b26d0c1ba4
 SHA1: ee6332addb132ea926a2e8863bcf10c43bea042e
@@ -216,10 +216,10 @@ Architecture: iphoneos-arm
 Description: Everything Unlocked on Carbon - B&W Photo Editor
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/Carbon.deb
+Filename: ./debs/Carbon.deb
 Size: 4376
 MD5sum: db57ccc70e6e0fa6ac8b51b4207a300b
 SHA1: df521037192529a1c594f04ed4869ce6e92f8439
@@ -232,10 +232,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Colorfy
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/Colorfy.deb
+Filename: ./debs/Colorfy.deb
 Size: 4594
 MD5sum: 2500379c24a207e995571a007db61e15
 SHA1: c56b3ba3a8faa0024bbbf8aaac995096cdc9c538
@@ -248,10 +248,10 @@ Architecture: iphoneos-arm
 Description: No ads on Comic Box
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/ComicBox.deb
+Filename: ./debs/ComicBox.deb
 Size: 4538
 MD5sum: 3b9327ab6dda695c4a21de5a43aa07a5
 SHA1: 694c351d183dac8312aa88293d2dcd6039699acd
@@ -264,10 +264,10 @@ Architecture: iphoneos-arm
 Description: No Ads, Fixed High Quality on Crunchyroll
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.3
 Installed-Size: 117
-Filename: debs/Crunchyroll.deb
+Filename: ./debs/Crunchyroll.deb
 Size: 4302
 MD5sum: 55fa51965604e9b923864d5cdd64bb6b
 SHA1: 23d7e704fafd270a16eb588dc363d3db25a606f0
@@ -280,10 +280,10 @@ Architecture: iphoneos-arm
 Description: Free Pro Cute CUT
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.2
 Installed-Size: 117
-Filename: debs/CuteCUT.deb
+Filename: ./debs/CuteCUT.deb
 Size: 3632
 MD5sum: e52178fa2ed076b47b322e7b827e50dd
 SHA1: 44212b835783d420f70ab7679ed4dbaff76fba1d
@@ -296,10 +296,10 @@ Architecture: iphoneos-arm
 Description: Enable background refresh on Cydia
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 117
-Filename: debs/CydiaBackground.deb
+Filename: ./debs/CydiaBackground.deb
 Size: 2678
 MD5sum: 86d9ffb3dfad4e43371898c6a649aa09
 SHA1: 368dd8e6a315e57511fb4194dbaee9abf7289486
@@ -312,10 +312,10 @@ Architecture: iphoneos-arm
 Description: View hidden packages on Cydia
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 117
-Filename: debs/CydiaView.deb
+Filename: ./debs/CydiaView.deb
 Size: 2534
 MD5sum: 4687a9ec0206cd81efbf4e1e971811f6
 SHA1: 5b2db96bf0f60dbd0b8a0fcf7fdc16a4137f37f7
@@ -328,10 +328,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Darkroom - Photo Editor
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.3
 Installed-Size: 117
-Filename: debs/Darkroom.deb
+Filename: ./debs/Darkroom.deb
 Size: 3620
 MD5sum: a484748330a6bbe39322c252673fa143
 SHA1: d2860b837659445d519d2ce13970ef774ac8460f
@@ -344,10 +344,10 @@ Architecture: iphoneos-arm
 Description: Free Premium DNS Override
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 117
-Filename: debs/DNSOverride.deb
+Filename: ./debs/DNSOverride.deb
 Size: 3690
 MD5sum: 9e8d09bedcfbe20beb2e1b5ec057210f
 SHA1: cbcdf300e3f17746e8d5b5bb23a1888bd236cbf6
@@ -360,10 +360,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Eggzy - Focus & Time Keeper
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/Eggzy.deb
+Filename: ./debs/Eggzy.deb
 Size: 3890
 MD5sum: 736d31182273fe42ff45f67f5d87213f
 SHA1: 24d9ee367e81752258920f27e2a616d97e343103
@@ -376,10 +376,10 @@ Architecture: iphoneos-arm
 Description: Free Pro Emulsio
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 117
-Filename: debs/Emulsio.deb
+Filename: ./debs/Emulsio.deb
 Size: 4176
 MD5sum: 202b2bb4d20b42145cd0ff0033979559
 SHA1: 7b4e9237d3032c8997e80e18c4f99110f2221824
@@ -392,10 +392,10 @@ Architecture: iphoneos-arm
 Description: Free Premium & All Gems Unlocked on Eve - Period Tracker App
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.2
 Installed-Size: 69
-Filename: debs/Eve.deb
+Filename: ./debs/Eve.deb
 Size: 3314
 MD5sum: 14d944e3081952725082f7aeeed5004d
 SHA1: 1a09fe811cd959dbea34f582b065c43285c436ae
@@ -408,10 +408,10 @@ Architecture: iphoneos-arm
 Description: Free Premium, All Worlds, All Clothes
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 117
-Filename: debs/FancyPants.deb
+Filename: ./debs/FancyPants.deb
 Size: 3474
 MD5sum: 80aa14519ab3883fcb959b27dbdeec3b
 SHA1: 58e616b29b002e8ed78b4d3c144436e5f7c16ff2
@@ -424,10 +424,10 @@ Architecture: iphoneos-arm
 Description: Free Premium FirstVPN
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.6
 Installed-Size: 117
-Filename: debs/FirstVPN.deb
+Filename: ./debs/FirstVPN.deb
 Size: 4986
 MD5sum: 4bb84fb5be8e98883d03ad3f969f415e
 SHA1: 771bd4ddba508722253360f36dbb2660fca3ffab
@@ -440,10 +440,10 @@ Architecture: iphoneos-arm
 Description: No ads, no upgrade button, all features in settings unlocked, more flight details, unlimited flight playback and a few more things. This doesn't bypass thing like alert limits and etc because of subscription issues.
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/Flightradar24.deb
+Filename: ./debs/Flightradar24.deb
 Size: 4510
 MD5sum: e24bc90931a5c7ddd1a22df45911e7f2
 SHA1: fd046eb798001d0f62377258b30418707ef65421
@@ -456,10 +456,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Flo Period & Ovulation Tracker
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.6
 Installed-Size: 69
-Filename: debs/Flo.deb
+Filename: ./debs/Flo.deb
 Size: 3180
 MD5sum: 5e6134eb96c738be6228e8c32298dd03
 SHA1: c3efb92b0b00870ff5120798c96aa654929386b1
@@ -472,10 +472,10 @@ Architecture: iphoneos-arm
 Description: Free Premium GeoZilla
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/GeoZilla.deb
+Filename: ./debs/GeoZilla.deb
 Size: 3704
 MD5sum: 40d0fff0951a464af17050e93b97918f
 SHA1: 1408af483cf5e5200a178472a57cb930df913186
@@ -488,10 +488,10 @@ Architecture: iphoneos-arm
 Description: No startup ad and no banner ad on Happy Chick Emulator
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.3
 Installed-Size: 117
-Filename: debs/HappyChick.deb
+Filename: ./debs/HappyChick.deb
 Size: 3908
 MD5sum: 70bec5f5cd77dfb8961c7513d9bab08a
 SHA1: 011cff9b83a41c64803ac659c13e24b907a5fc71
@@ -504,10 +504,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Hexatech
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.9
 Installed-Size: 69
-Filename: debs/Hexatech.deb
+Filename: ./debs/Hexatech.deb
 Size: 3740
 MD5sum: 32667fda2e7ba8c3c2cb225a3cf8ccc1
 SHA1: 54213939e904316a9475de941b711a4422369726
@@ -520,10 +520,10 @@ Architecture: iphoneos-arm
 Description: No Ads On hiMusic
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.2
 Installed-Size: 117
-Filename: debs/hiMusic.deb
+Filename: ./debs/hiMusic.deb
 Size: 4954
 MD5sum: 8cb882b580697bb20228bf3470d68129
 SHA1: b09af4606253514684794d8e65f6f78828bcb2f5
@@ -537,10 +537,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Hotspot Shield
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.2.5
 Installed-Size: 69
-Filename: debs/HotspotShield.deb
+Filename: ./debs/HotspotShield.deb
 Size: 3774
 MD5sum: 324ac7495e26136d52a82044ce50a652
 SHA1: 65e79f506e4c4d8d4674f9dda4c3622d6f8b33b5
@@ -553,10 +553,10 @@ Architecture: iphoneos-arm
 Description: Free Pro Infuse 5
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/Infuse5.deb
+Filename: ./debs/Infuse5.deb
 Size: 3812
 MD5sum: a18fe70401ac10a167e7529fedfabfea
 SHA1: bff33167d49c04fcf4ae33b7d6efc34d157478c0
@@ -570,10 +570,10 @@ Architecture: iphoneos-arm
 Description: Free Pro Infuse 6
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 69
-Filename: debs/Infuse6.deb
+Filename: ./debs/Infuse6.deb
 Size: 3234
 MD5sum: 6ff2bdccfe8a3cfdd1c282c961d63c94
 SHA1: 15a40a9b391189bbc1c6a023112db515d3ee1d05
@@ -586,10 +586,10 @@ Architecture: iphoneos-arm
 Description: No ads on iTerminal
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 117
-Filename: debs/iTerminal.deb
+Filename: ./debs/iTerminal.deb
 Size: 4356
 MD5sum: 448efcc0670bed0a6a41906a77ecc13f
 SHA1: d568876b6c0430fdb67b537656cf38a8cde64fba
@@ -602,10 +602,10 @@ Architecture: iphoneos-arm
 Description: Free Paid Subscription On KineMaster
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/KineMaster.deb
+Filename: ./debs/KineMaster.deb
 Size: 3682
 MD5sum: 4e37c67150c31aee9bbd88b493cb75a5
 SHA1: 3540cec6bdf0ff2b1a177563eba1d1e965737293
@@ -618,10 +618,10 @@ Architecture: iphoneos-arm
 Description: Free Premium LastPass
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 69
-Filename: debs/LastPass.deb
+Filename: ./debs/LastPass.deb
 Size: 3038
 MD5sum: 399d3792a5c143ccc7184307d637b2f4
 SHA1: 495cf53266aadc4e3c572e93b2b0d979968d0719
@@ -634,10 +634,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Life - Period Tracker Calendar
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 69
-Filename: debs/Life.deb
+Filename: ./debs/Life.deb
 Size: 3050
 MD5sum: a251047dacde8343662d3c3d6061662f
 SHA1: be33931d290d1a72781710eddfc4fcaf7688eb6c
@@ -650,10 +650,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Life Cycle
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 117
-Filename: debs/LifeCycle.deb
+Filename: ./debs/LifeCycle.deb
 Size: 3794
 MD5sum: 24d1196e40c423b3bf3f247d5794f8f5
 SHA1: 9c4947105596ff962bed671e299ff52c2b35bd1c
@@ -666,10 +666,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Live Wallpapers for Me
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/LiveWallpapersforMe.deb
+Filename: ./debs/LiveWallpapersforMe.deb
 Size: 4246
 MD5sum: c8be05f91e67f49b761ef3cd2d65ec71
 SHA1: 3b3e1846b5ec5053a1c6c3f97cc14814f6640afb
@@ -682,10 +682,10 @@ Architecture: iphoneos-arm
 Description: No ads on Magic Cleaner
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 117
-Filename: debs/MagicCleaner.deb
+Filename: ./debs/MagicCleaner.deb
 Size: 3650
 MD5sum: 22fa6bed33ea650e1b7587abc19fbdef
 SHA1: 728be8a3f817c57a1143cacd98368203949064d4
@@ -699,10 +699,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Memorado
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.4
 Installed-Size: 69
-Filename: debs/Memorado.deb
+Filename: ./debs/Memorado.deb
 Size: 3432
 MD5sum: 7b154fba9556673a09398d0edf6e5f16
 SHA1: 969f774acf1be5a4c67fce1465e1cc43282df7dd
@@ -715,10 +715,10 @@ Architecture: iphoneos-arm
 Description: iPhone X style dock for other iDevices
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/ModernDock.deb
+Filename: ./debs/ModernDock.deb
 Size: 2552
 MD5sum: f016db46b8f84fc7e0dddf2980786db2
 SHA1: 1206f761fae3f0cf7b63d22640e5949ef38ef796
@@ -732,10 +732,10 @@ Architecture: iphoneos-arm
 Description: More Modern Status Bar for iPhone
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 69
-Filename: debs/ModernStatusBar.deb
+Filename: ./debs/ModernStatusBar.deb
 Size: 1964
 MD5sum: fffc23eca87a5b6a261c9a66c1061da0
 SHA1: 53d3a2f9248924e0473378110f9548834a0bbc83
@@ -748,10 +748,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Night Sky
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/NightSky.deb
+Filename: ./debs/NightSky.deb
 Size: 4044
 MD5sum: c67e27bf56d9d0988c1a34cdacfbc5bd
 SHA1: 44ecc2ce7654f67f6ee89ad9aedcdcb67384e829
@@ -764,10 +764,10 @@ Architecture: iphoneos-arm
 Description: No Blue Dots on Homescreen (Blue Dots are from app updates).
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/NoBlueDotsHomescreen.deb
+Filename: ./debs/NoBlueDotsHomescreen.deb
 Size: 2560
 MD5sum: 0c181c02201ba9eca791e8fe18e32930
 SHA1: 04fadb7d8a2eef5d43d478886f7bbd4dc7c66158
@@ -780,10 +780,10 @@ Architecture: iphoneos-arm
 Description: No Carrier in the Status Bar
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/NoCarrierStatusBar.deb
+Filename: ./debs/NoCarrierStatusBar.deb
 Size: 2722
 MD5sum: 68fd93a0f41080f09bbbf9db48e3c1e7
 SHA1: 3fc0a525366087a7cd9027a02183d963183e86e9
@@ -796,10 +796,10 @@ Architecture: iphoneos-arm
 Description: No Do Not Disturb notification on lockscreen
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/NoDNDLockscreen.deb
+Filename: ./debs/NoDNDLockscreen.deb
 Size: 2608
 MD5sum: 6950d13e279e39bc27827771606a3bde
 SHA1: 84b7b6cab0ac108389e492a126dd355ad38a8a78
@@ -812,10 +812,10 @@ Architecture: iphoneos-arm
 Description: Free Premium OfficeSuite & PDF editor
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 69
-Filename: debs/OfficeSuite.deb
+Filename: ./debs/OfficeSuite.deb
 Size: 3442
 MD5sum: 95e747e800d501ce192de02268b4127b
 SHA1: 0ec134b9b85bb935bfed92ccdb9c3258d5a475b8
@@ -828,10 +828,10 @@ Architecture: iphoneos-arm
 Description: Free Pro Over Edit
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 117
-Filename: debs/Over.deb
+Filename: ./debs/Over.deb
 Size: 4042
 MD5sum: ab2ba3a25637e5fe55d68acf86be99b6
 SHA1: 595f42ec3fb977c5994c6fb083704bd74a1a5f6a
@@ -844,10 +844,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Paloma: Period Tracker & Diary
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 69
-Filename: debs/Paloma.deb
+Filename: ./debs/Paloma.deb
 Size: 3130
 MD5sum: b6fd558aebbf0f9e1d3e07321bd2b04a
 SHA1: f47feed0d9ea326ae1778a79712f20eb97d8e31b
@@ -860,10 +860,10 @@ Architecture: iphoneos-arm
 Description: Unlimited Playback on Plex
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 117
-Filename: debs/Plex.deb
+Filename: ./debs/Plex.deb
 Size: 3528
 MD5sum: 9b4e93862d6df8e3af90b87c6f9a313a
 SHA1: 1317da72b4de998b771aea8c3a91c692ac82f509
@@ -876,10 +876,10 @@ Architecture: iphoneos-arm
 Description: Free VIP RainbowKey
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 69
-Filename: debs/RainbowKey.deb
+Filename: ./debs/RainbowKey.deb
 Size: 3152
 MD5sum: af53583ed535ad053be074ca3853dfe4
 SHA1: 1b4a57efe80f8b87eefc632ab361a467ad593ae3
@@ -892,10 +892,10 @@ Architecture: iphoneos-arm
 Description: Background Playback On Safari. If you restart your idevice, you will have to reinstall the tweak in order for it to work again.
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 117
-Filename: debs/Safari.deb
+Filename: ./debs/Safari.deb
 Size: 2680
 MD5sum: 39cc152976c85968c02388260263c26a
 SHA1: 5de282250d7f2a6d27346f529e943c9192e34ef7
@@ -908,10 +908,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Scanner for Me: Scan to PDF
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/ScannerforMe.deb
+Filename: ./debs/ScannerforMe.deb
 Size: 4068
 MD5sum: ffbef2f7df4063327d3da886118edd68
 SHA1: 1479c16388fae2afc1a1aaa175c7aa015eb9a8a7
@@ -924,10 +924,10 @@ Architecture: iphoneos-arm
 Description: Free Pro Secure Onion (Web Browser)
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/SecureOnion.deb
+Filename: ./debs/SecureOnion.deb
 Size: 3568
 MD5sum: 01332f7fc39e9e6535e7a1c51396c2a4
 SHA1: 445e8641717e533d7c41dcd5ea17cb5629e1529d
@@ -940,10 +940,10 @@ Architecture: iphoneos-arm
 Description: No third party apps in list, no search bar, no hold highlighting, no carrier box
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.2
 Installed-Size: 117
-Filename: debs/Settings.deb
+Filename: ./debs/Settings.deb
 Size: 3030
 MD5sum: 4718297f43e4cf41050a845f165579dd
 SHA1: 2f404922c1581bfae55b261f7e21a76c3135c756
@@ -956,10 +956,10 @@ Architecture: iphoneos-arm
 Description: Everything unlocked on Simple Radio - Music & News
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/SimpleRadio.deb
+Filename: ./debs/SimpleRadio.deb
 Size: 3704
 MD5sum: 02a5324156c0b4c021f5a77dd1af4b67
 SHA1: 81cb1fdf590c5bc22024c8be39c01b2c5838d77a
@@ -972,10 +972,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Sleep Cycle
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 117
-Filename: debs/SleepCycle.deb
+Filename: ./debs/SleepCycle.deb
 Size: 3778
 MD5sum: f00a2eefff5c4510a59fa40b165b9cab
 SHA1: 322b4d751abd31ecf83246f8f12599444310d243
@@ -988,10 +988,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Sleepzy
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/Sleepzy.deb
+Filename: ./debs/Sleepzy.deb
 Size: 3936
 MD5sum: 49c1ad154059ee569cebc01b6b8d2346
 SHA1: 901e66908f41564a264d0cf016ecafddadb68da4
@@ -1004,10 +1004,10 @@ Architecture: iphoneos-arm
 Description: Free Premium SnapCal - Math Problem Solver
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/SnapCal.deb
+Filename: ./debs/SnapCal.deb
 Size: 3914
 MD5sum: 718465cc7a054fd1147adaf6eb909e41
 SHA1: a10fafb907db099a6000496075fe798e4ee43cb0
@@ -1020,10 +1020,10 @@ Architecture: iphoneos-arm
 Description: No ads on Speedtest
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 117
-Filename: debs/Speedtest.deb
+Filename: ./debs/Speedtest.deb
 Size: 3574
 MD5sum: 632ab742962b71920bbc4e262d2e2e06
 SHA1: 1bfbc5c4fee6354a1042c1ef65e1b7b23097f482
@@ -1037,10 +1037,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Star VPN
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.3
 Installed-Size: 69
-Filename: debs/StarVPN.deb
+Filename: ./debs/StarVPN.deb
 Size: 3552
 MD5sum: 5a788aa2521e5f12978d3d1106763811
 SHA1: ad55cd64042f49776ca1223a465070d0d2623e5a
@@ -1053,10 +1053,10 @@ Architecture: iphoneos-arm
 Description: Free Elite Touch VPN
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/TouchVPN.deb
+Filename: ./debs/TouchVPN.deb
 Size: 3806
 MD5sum: b16e925ad21459f22c3874521d522029
 SHA1: c381f00f1cc0e2d3e7258ec3e633bd94d787ce2f
@@ -1069,10 +1069,10 @@ Architecture: iphoneos-arm
 Description: Free VIP Turbo VPN
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.3
 Installed-Size: 69
-Filename: debs/TurboVPN.deb
+Filename: ./debs/TurboVPN.deb
 Size: 4240
 MD5sum: 10edec82b82de78b77badc1a5cc9e4ac
 SHA1: 2566691001fc18c61c1acd7f750e21b4ac9ab95d
@@ -1085,10 +1085,10 @@ Architecture: iphoneos-arm
 Description: No ads on Twitterrific
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 117
-Filename: debs/Twitterrific.deb
+Filename: ./debs/Twitterrific.deb
 Size: 3518
 MD5sum: a1db7c505de2e3af705d7011af2005eb
 SHA1: b0edfb24e336ed38e1d3a4aaf3b6959c8361f993
@@ -1101,10 +1101,10 @@ Architecture: iphoneos-arm
 Description: Free Pro Video Crop
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/VideoCrop.deb
+Filename: ./debs/VideoCrop.deb
 Size: 3638
 MD5sum: e7c3d6213170290be099300a8806ff88
 SHA1: 077fb1149070f00e32787ac3d6ecb018df9c988e
@@ -1117,10 +1117,10 @@ Architecture: iphoneos-arm
 Description: Free Pro Videoshop
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/Videoshop.deb
+Filename: ./debs/Videoshop.deb
 Size: 4258
 MD5sum: df0eb745e21cbbee2f0dea3b219c02b8
 SHA1: ac225a8e889220b79c4ffc66913129154d4cfdfc
@@ -1133,10 +1133,10 @@ Architecture: iphoneos-arm
 Description: Free Premium #VPN - Wi-Fi Hotspot Security
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/VPN.deb
+Filename: ./debs/VPN.deb
 Size: 3950
 MD5sum: 8ee39dc997616035373be88e1cba22a7
 SHA1: ad9c73c042c0ab94d6371915aabda1b22fc0f493
@@ -1149,10 +1149,10 @@ Architecture: iphoneos-arm
 Description: Free Premium VPN Aegis
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.2
 Installed-Size: 117
-Filename: debs/VPNAegis.deb
+Filename: ./debs/VPNAegis.deb
 Size: 3774
 MD5sum: 4644720945f5a7076af9e45b16c239e5
 SHA1: 112065765a4c5e052d2263fa63ccb18c98fabaaf
@@ -1165,10 +1165,10 @@ Architecture: iphoneos-arm
 Description: No ads on VPN cat master - express web proxy
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/VPNCat.deb
+Filename: ./debs/VPNCat.deb
 Size: 3550
 MD5sum: 6edfcc4897d2df0400af20c8f90f4e67
 SHA1: 5a472f7fad65dd50dd062c561e0325a8bf4090a6
@@ -1181,10 +1181,10 @@ Architecture: iphoneos-arm
 Description: Free Premium VPN in Touch, It doesn't bypass the data limit, only cracks premium.
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.0
 Installed-Size: 117
-Filename: debs/VPNinTouch.deb
+Filename: ./debs/VPNinTouch.deb
 Size: 3694
 MD5sum: 472823d94c51e28248b73bf13d953a52
 SHA1: 16af3b2aac9caecee478ab739f784f7c6ca7dd72
@@ -1198,10 +1198,10 @@ Architecture: iphoneos-arm
 Description: Free Premium VPN Proxy Master
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.9
 Installed-Size: 69
-Filename: debs/VPNProxyMaster.deb
+Filename: ./debs/VPNProxyMaster.deb
 Size: 4422
 MD5sum: 897d0beb39f188402e20bd6c1a6235b4
 SHA1: 400419119b02462b4773c79c82baa730235b7599
@@ -1214,10 +1214,10 @@ Architecture: iphoneos-arm
 Description: Free Premium Weather Live
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.3
 Installed-Size: 117
-Filename: debs/WeatherLive.deb
+Filename: ./debs/WeatherLive.deb
 Size: 4480
 MD5sum: 0f194b2fc2c0bbe5f5dc128d6ae51271
 SHA1: 5aa13242e6d4f91b2911c5badf652ead872f98da
@@ -1230,10 +1230,10 @@ Architecture: iphoneos-arm
 Description: Free Pro Windy
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.1
 Installed-Size: 117
-Filename: debs/Windy.deb
+Filename: ./debs/Windy.deb
 Size: 3946
 MD5sum: 2b53c477d2c8b8765776e41c0ac6e4bf
 SHA1: 9e43c933430ce134e2af6a36c8a370197daecf98
@@ -1246,10 +1246,10 @@ Architecture: iphoneos-arm
 Description: Free Pro YouCam Makeup
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.3
 Installed-Size: 117
-Filename: debs/YouCamMakeup.deb
+Filename: ./debs/YouCamMakeup.deb
 Size: 3792
 MD5sum: 4816b86f738650ab2b7138887a086c99
 SHA1: 5621d82e6e41b039c9185ed96b7389adb2611eaf
@@ -1262,10 +1262,10 @@ Architecture: iphoneos-arm
 Description: Free Pro YouCam Perfect
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.0.4
 Installed-Size: 117
-Filename: debs/YouCamPerfect.deb
+Filename: ./debs/YouCamPerfect.deb
 Size: 4368
 MD5sum: 64e45e84fa7174ffffeeee6b688f645f
 SHA1: ee29e36e0ab3c97226c2209d163e57c96778fc1c
@@ -1279,10 +1279,10 @@ Architecture: iphoneos-arm
 Description: No ads, background playback, double tap to skip, audio only mode switch/buttons, no get premium banner in account settins, no upsell notifications, no upsell popups on YouTube Music
 Maintainer: Ali Albasrawi
 Author: Ali Albasrawi
-Section: Tweaks
+Section: Tweaks++
 Version: 1.0.2.1
 Installed-Size: 69
-Filename: debs/YouTubeMusic.deb
+Filename: ./debs/YouTubeMusic.deb
 Size: 4120
 MD5sum: 49975e0d1c959da9a46db2dcf3ec8587
 SHA1: 1a2cb41d42cc8cbd9904a1bc2e5e8735e6aca18d
@@ -1323,7 +1323,7 @@ Name: MediaBoxPlus
 Package: com.Albasrawi.AppCake6
 Version: 6.0.8-1
 Architecture: iphoneos-arm
-Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Maintainer: Ali Albasrawi
 Depends: appsync
 Filename: ./debs/com.arab-cydia.appcake6_6.0.8-1.deb
 Size: 20101252
