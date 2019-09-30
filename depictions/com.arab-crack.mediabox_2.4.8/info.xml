@@ -1,0 +1,25 @@
+<package>
+	<id>com.arab-crack.mediabox_2.4.8</id>
+	<name>com.arab-crack.mediabox_2.4.8</name>
+	<version>2.4.8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>12.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>AppTools tweak</shortDescription>
+	<descriptionlist>
+		<description>AppTools To control the features of the device, go short and go to the application paths</description>
+		<description>Supports iOS 10.0 - 12.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
