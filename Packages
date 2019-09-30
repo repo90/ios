@@ -49,3 +49,17 @@ Name: AppCake
 Pre-Depends: firmware (>= 10.0)
 Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
 
+Package: Albasrawi.cercube
+Version: 5.1.0k
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.7~beta3), sileoturkiye.adblockplus
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, sileoturkiye.youtubetools, com.justinpetkovic.youtubetools
+Filename: ./debs/sileoturkiye.cercube_5.1.0k.deb
+Size: 14561848
+MD5sum: ada3381ca9c9ef5f5abdfe5fc39dcde3
+SHA1: a1987d5ad55f464fb4be22b25caf08f7e27e92a5
+SHA256: 3c7a3cb1f85359c0a3076d10ec6cab4a793f746a7efc7b9fc9ab720ed706739a
+Section: Tweaks
+Description: YouTube'den videolar ile daha fazlasını indirin!
+Name: Cercube for YouTube
+
