@@ -41,7 +41,7 @@ Size: 20101252
 MD5sum: 82bc06b8bd524ea08e5b35f13da09806
 SHA1: 6021474d87c56a7d703fd35e415452eb681dcbae
 SHA256: 2fec063c22673ae9d50792d90e341b4f1cce0dfd530bae256fdb69e4d7731ab4
-Section: Supports IOS12.x
+Section: App
 Description: لتحميل التطبيقات المدفوعة والمكررة والالعاب مجاناً .
 Author: Ali Albasrawi
 Icon: file:///Applications/AppCake.app/icon57x57.png
