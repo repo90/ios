@@ -695,3 +695,149 @@ Author: Frozen Penguin
 Installed-Size: 1448
 Name: PhotoManager (iOS 12) Rus
 
+Package: com.Albasrawi.cydown
+Version: 6.9.7-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Filename: ./debs/com.arab-cydia.cydown_6.9.7-1.deb
+Size: 1546762
+MD5sum: 355ef11b5180345fa86c25608bf06c81
+SHA1: e292303505244ffe3dbd1c3f96d52e091a4b27ff
+SHA256: 9d73a9dfd590a6606fbaa49af0f81fe5e1e320018bf30669492d7c5068a0569a
+Section: Supports IOS12.x
+Description: لتحميل أدوات السيديا المدفوعة مجاناً
+Author: Albasrawi <aliiosapp@gmail.com>
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown 
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+
+Package: com.Albasrawi.apptools
+Version: 1.6.0
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.flex2areo.apptools_1.6.0.deb
+Size: 586810
+MD5sum: 12bcaaec697ca2f273e158ad9664ef9d
+SHA1: 11dce7557e62b60652cf8db102847dbb514fee05
+SHA256: 25d4a9c3e37113435788b5cac413a7165dbaa12171741f6cd244741c7d978482
+Section: Tweaks
+Description: اداة تساعدك على الوصول الى ملفات اي تطبيق  و تغيير اسم  التطبيقات والكثير من الخصائص
+Author: Albasrawi <aliiosapp@gmail.com>
+Icon: file:///Library/PreferenceBundles/AppTools.bundle/icon@2x.png
+Installed-Size: 1913
+Name: AppTools
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
+dev: areo
+
+Package: it.Albasrawi.ft
+Version: 0.0.6b2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0)
+Filename: ./debs/it.dreamcode.ft_0.0.6b2.deb
+Size: 18984
+MD5sum: f8d05a63030381a86081750ca0ecf146
+SHA1: a891f64a641873acd3f1f4ae306a545b75c442c6
+SHA256: 1dac53db24d6a31012256a7fb7442dbc9c02a43323bcb5765500eca66035a44c
+Section: Tweaks
+Description: Touch ID gestures اداة تساعدك على استخدام البصمة بدا الضغط على زر الهوم 
+Author: Albasrawi <aliiosapp@gmail.com>
+Icon: file:///Library/PreferenceBundles/fingertouchprefs.bundle/icon@2x.png
+Installed-Size: 257
+Name: FingerTouch
+Priority: optional
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+Tag: purpose::extension, compatible::ios10, compatible::ios11
+dev: dreamcode
+
+Package: net.Albasrawi.midevice
+Version: 1.0.0-3
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, me.nepeta.libcolorpicker, applist, com.chpwn.iconsupport
+Filename: ./debs/net.dodgraphics.midevice_1.0.0-3.deb
+Size: 173658
+MD5sum: ca9561fe92a78475591d2a6d038f6a1d
+SHA1: 75c7710bc632e21a2c040006da97aa5bf643230d
+SHA256: ca87798c8542b5d49d4b515d2fb3896e361d187455951e1579f6bc5daed703ed
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Albasrawi
+Installed-Size: 688
+Name: MiDevice
+
+Package: net.Albasrawi.audioexplorerplus
+Version: 2.7.1-2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 4.0), applist, com.ouraigua.jodebox, com.rpetrich.rocketbootstrap
+Filename: ./debs/net.erike.audioexplorerplus_2.7.1-2.deb
+Size: 1727938
+MD5sum: c8dbc2ccf523acaaef62a77ab5526c4b
+SHA1: 486096dcfdf5a58d952b6a40d40535014cd086e2
+SHA256: 88302ed63f5e7dd5774b9aa343750f3e9220f3e47d975a5af560b5458b850754
+Section: Multimedia
+Description: find & use audio from your device files
+Author: Albasrawi
+Icon: file:///Applications/AudioExplorer+.app/Icon.png
+Installed-Size: 6212
+Name: AudioExplorer+
+Sponsor: Albasrawi
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+dev: Ali
+
+Package: Albasrawi.appsyncunified
+Version: 41.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Replaces: us.hackulo.appsync50
+Filename: ./debs/sileoturkiye.appsyncunified_41.1.deb
+Size: 48912
+MD5sum: 8b196842e8b611c767e8f735f35554ad
+SHA1: 24e050b754023193f775447dcb40899a8151e345
+SHA256: de3d436d048174bac940227e49a2ad7a0431c582d8f95b320cd589d1dffbe417
+Section: System
+Description: Ability to install applications from external sources القدرة على تثبيت التطبيقات من المصادر الخارجية.
+Author: Albasrawi
+Name: AppSync Unified
+Provides: appsync
+
+Package: Albasrawi.onlinenotify
+Version: 3.0.3k
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Conflicts: com.f0u4d.onlinenotifybeta, com.f0u4d.onlinenotify2, com.imokhles.waquickreply.bb, com.f0u4d.onlinenotify
+Filename: ./debs/sileoturkiye.onlinenotify_3.0.3k.deb
+Size: 649810
+MD5sum: ec3380e160214286e7d23066acb182d8
+SHA1: 0bf57e0bca5b79a9f1e6e7b9174980d28b57b10b
+SHA256: 3d2e80d16be9bca0f82340c0463e58941fadf1292f97a6727f2e5f6c05514766
+Section: Tweaks
+Description: اداة تمكنكة من متابعة ظهور الاشخاص في تطبيق الواتساب
+Author: Albasrawi
+Name: OnlineNotify
+Pre-Depends: Albasrawi.watusitools
+
+Package: Albasrawi.watusitools
+Version: 2.1.1~1k
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 8.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.f0u4d.watusitools, com.pulandres.whatshack, ru.rejail.whatshack, com.hackyouriphone.whatshack
+Replaces: com.f0u4d.watusitools, com.pulandres.watools
+Filename: ./debs/sileoturkiye.watusitools_2.1.1_1k.deb
+Size: 13486136
+MD5sum: 1226a0d4d70659c15b1a19aba100e5cd
+SHA1: 78c6c43028cff8ad2512d75cdb26bbb550b4cc1a
+SHA256: 0b07d41023f9999ffff6523e4e95145ba1673a7583c4a1ca0f4e75816b70b106
+Section: System
+Description: اداة مساعدة لتطبيق الواتساب  لأضافة تعديلات على التطبيق.
+Author: Albasrawi
+Name: WatusiTools
+
