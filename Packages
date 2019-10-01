@@ -168,7 +168,7 @@ Size: 3418
 MD5sum: 4a2933f42b8ba47092d6c559d5af7830
 SHA1: a20e59735393165405f8b5c8d3559d5900c5b6b5
 SHA256: 2b3257b5fd66b141f2cded39e70d6a0223b71f0966b0ec1c40662d4233c98020
-Section: System_
+Section: System
 Description: لاحاجه لتحقق من ملف شهادة التطبيقات او اعادة توقيع التطبيق قبل انتهاء الـ 7 ايام 
  ( لايوجد اعدادات للاداة )
 Author: 180
