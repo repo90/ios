@@ -730,3 +730,24 @@ Author: Albasrawi <aliiosapp@gmail.com>
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
 Sponsor: Albasrawi <aliiosapp@gmail.com>
+
+
+Package: com.Albasrawi.apptools
+Version: 1.6.0
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.flex2areo.apptools_1.6.0.deb
+Size: 586810
+MD5sum: 12bcaaec697ca2f273e158ad9664ef9d
+SHA1: 11dce7557e62b60652cf8db102847dbb514fee05
+SHA256: 25d4a9c3e37113435788b5cac413a7165dbaa12171741f6cd244741c7d978482
+Section: Tweaks
+Description: اداة تساعدك على الوصول الى ملفات اي تطبيق  و تغيير اسم  التطبيقات والكثير من الخصائص
+Author: Albasrawi <aliiosapp@gmail.com>
+Icon: file:///Library/PreferenceBundles/AppTools.bundle/icon@2x.png
+Installed-Size: 1913
+Name: AppTools
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
+dev: areo
