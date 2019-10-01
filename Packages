@@ -840,3 +840,59 @@ Section: System
 Description: اداة مساعدة لتطبيق الواتساب  لأضافة تعديلات على التطبيق.
 Author: Albasrawi
 Name: WatusiTools
+
+Package: co.Albasrawi.nosubstitute
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Filename: ./debs/co.vexation.nosubstitute_1.0-1.deb
+Size: 8790
+MD5sum: e9fb543667d840f95f4248f908a5822b
+SHA1: b033abcf767ba3c46f211fe1e3364e415ea254bd
+SHA256: dba9753adfe2900b3047dc48c24ab615a4491d1319939916936c763f449865a7
+Section: Tweaks
+Description: Disables substitute in apps.
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/NoSubstitute.bundle/Card@2x.png
+Installed-Size: 155
+Name: NoSubstitute 11/12
+Priority: optional
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+Tag: purpose::extension, compatible::ios11
+dev: Albasrawi
+
+Package: com.Albasrawi.lpp
+Version: 1.6.7
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.repo.xarold.com.chargemode, com.julioverne.chargemode, com.brunonfl.s8edge, sadasf
+Filename: ./debs/com.pulandres.lpp_1.6.7.deb
+Size: 18764170
+MD5sum: c6500593522ab6b8e49b39441c495090
+SHA1: eded1123d2395ba6f6d28c431abf5e7df8993117
+SHA256: 5078bf114adbed95fcae799db0d5e60f49f8ef938215d2f37d3fa22b46faba55
+Section: Tweaks
+Description: The ultimate lock screen tweak! أداة لأضافة ويدجيت لشاشة القفل
+Author: Albasrawi
+Installed-Size: 42504
+Name: LockPlus Pro Cracked
+
+Package: ru.Albasrawi.libertylite
+Version: 0.2.10
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty
+Filename: ./debs/ru.rejail.libertylite_0.2.10.deb
+Size: 78602
+MD5sum: 12bde394100f7013052a452ca8d6f279
+SHA1: 4bf79231f639df0e3291e89d68fb9e06d3eeaf99
+SHA256: 3fa7b7704f3f86365d372bb87051c1ebf1a6d5f0ea882d36fc0734638f54de8e
+Section: Tweaks
+Description: أداة لأخفاء الجيلبريك و ايهام التطبيقات بعدم وجود جيلبريك في الجهاز
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Installed-Size: 476
+Name: Liberty Lite
