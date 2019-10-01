@@ -623,7 +623,7 @@ Size: 549066
 MD5sum: 256835c3550118f327aefe18af1c6542
 SHA1: 322e4599e4365590378a66d63f0ead9443eac6e9
 SHA256: 38a1421dcbf79ca6cc474e50fdc83fc9625336b6a190d89dccdece6716eb77e7
-Section: iOS 12
+Section: i0S 12
 Author: Albasrawi
 Installed-Size: 2524
 Name: PhoneCaller2
