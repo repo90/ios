@@ -64,25 +64,6 @@ Section: Tweaks
 Description: YouTube'den videolar ile daha fazlasını indirin!
 Name: Cercube for YouTube
 
-ckage: applist
-Version: 1.5.14
-Architecture: iphoneos-arm
-Maintainer: Albasrawi <aliiosapp@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.6~beta) | firmware (<< 7.0)
-Conflicts: com.a3tweaks.polus (<< 2.0.7)
-Filename: ./debs/applist_1.5.14.deb
-Size: 93138
-MD5sum: cd8cc24cb82a6714a6a1a41424d72e22
-SHA1: d7883ca1eb96611d9856f17c3510872decfce0eb
-SHA256: 81ad24dd58694e8b6b72706b108f75a51d8eb049c856975e9fc86b1976a25b1e
-Section: System
-Description: Allow extensions to read the list of installed apps
-Author: Albasrawi <aliiosapp@gmail.com>
-Installed-Size: 600
-Name: AppList
-Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
-dev: rpetrich
-
 Package: co.xrepo.Albasrawi.pasitheaios12
 Version: 2.1.4
 Architecture: iphoneos-arm
