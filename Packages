@@ -169,7 +169,7 @@ MD5sum: 4a2933f42b8ba47092d6c559d5af7830
 SHA1: a20e59735393165405f8b5c8d3559d5900c5b6b5
 SHA256: 2b3257b5fd66b141f2cded39e70d6a0223b71f0966b0ec1c40662d4233c98020
 Section: System
-Description: لاحاجه لتحقق من ملف شهادة التطبيقات او اعادة توقيع التطبيق قبل انتهاء الـ 7 ايام 
+Description: لاحاجه لتحقق من ملف شهادة التطبيقات او اعادة توقيع التطبيق قبل انتهاء الـ 7 ايام
  ( لايوجد اعدادات للاداة )
 Author: 180
 Installed-Size: 136
@@ -190,7 +190,7 @@ SHA256: 6903b1191fedc4961d1779fb1b7b11e702ba0b8a6f709f81064129229f668464
 Section: Tweaks
 Description: الرجوع الى اصدار سابق لاي تطبيق من تطبيقات الاب ستور
 Author: Albasrawi
-Icon: 
+Icon:
 Name: AppStore++
 Priority: optional
 Sponsor: Albasrawi <aliiosapp@gmail.com>
@@ -299,7 +299,7 @@ Architecture: iphoneos-arm
 Maintainer: Albasrawi
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
-Replaces: 
+Replaces:
 Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.7.deb
 Size: 1320492
 MD5sum: b3201af1744133cb79bf080c145998ea
@@ -308,11 +308,11 @@ SHA256: daab5e2b1b0a6d644fb8ad560571208decce4b510f5741193e0892f0806a632c
 Section: Tweaks
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.2
 Author: Albasrawi <aliiosapp@gmail.com>
-Homepage: 
-Icon: 
+Homepage:
+Icon:
 Name: AppStore++
 Priority: optional
-dev: 
+dev:
 
 Package: com.Albasrawi.libcscolorpicker
 Version: 1.0.3
@@ -350,10 +350,10 @@ Author: Albasrawi
 Installed-Size: 240
 Name: CColor
 
-Package: com.Albasrawi.utilities 
+Package: com.Albasrawi.utilities
 Version: 1:0.4.2
 Architecture: iphoneos-arm
-Maintainer: Albasrawi <aliiosapp@gmail.com> 
+Maintainer: Albasrawi <aliiosapp@gmail.com>
 Filename: ./debs/com.ericasadun.utilities_0.4.2.deb
 Size: 55410
 MD5sum: 89a3bb9791c2deee6f530773089ee43d
@@ -361,10 +361,10 @@ SHA1: b57904d5171e56cd559c798d277ccf9f8d45c556
 SHA256: 4e8e98895576e985be5a50070c96403a2ce2b577eb2267649853686a2ad99f56
 Section: Utilities
 Description: A collection of command-line utilities for various purposes.
-Author: Albasrawi <aliiosapp@gmail.com> 
+Author: Albasrawi <aliiosapp@gmail.com>
 Depiction: http://modmyi.com/info/ericautilities.d.php
-Homepage: http://modmyi.com/info/ericautilities.php  
-Name: Erica Utilities 
+Homepage: http://modmyi.com/info/ericautilities.php
+Name: Erica Utilities
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 
 Package: com.Albasrawi.powerselector11
@@ -709,7 +709,7 @@ Section: Supports IOS12.x
 Description: لتحميل أدوات السيديا المدفوعة مجاناً
 Author: Albasrawi <aliiosapp@gmail.com>
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
-Name: CyDown 
+Name: CyDown
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 
 Package: com.Albasrawi.apptools
@@ -743,7 +743,7 @@ MD5sum: f8d05a63030381a86081750ca0ecf146
 SHA1: a891f64a641873acd3f1f4ae306a545b75c442c6
 SHA256: 1dac53db24d6a31012256a7fb7442dbc9c02a43323bcb5765500eca66035a44c
 Section: Tweaks
-Description: Touch ID gestures اداة تساعدك على استخدام البصمة بدا الضغط على زر الهوم 
+Description: Touch ID gestures اداة تساعدك على استخدام البصمة بدل الضغط على زر الهوم 
 Author: Albasrawi <aliiosapp@gmail.com>
 Icon: file:///Library/PreferenceBundles/fingertouchprefs.bundle/icon@2x.png
 Installed-Size: 257
@@ -819,7 +819,7 @@ MD5sum: ec3380e160214286e7d23066acb182d8
 SHA1: 0bf57e0bca5b79a9f1e6e7b9174980d28b57b10b
 SHA256: 3d2e80d16be9bca0f82340c0463e58941fadf1292f97a6727f2e5f6c05514766
 Section: Tweaks
-Description: اداة تمكنكة من متابعة ظهور الاشخاص في تطبيق الواتساب
+Description: اداة تمكنك من متابعة ظهور الاشخاص في تطبيق الواتساب
 Author: Albasrawi
 Name: OnlineNotify
 Pre-Depends: Albasrawi.watusitools
@@ -840,4 +840,3 @@ Section: System
 Description: اداة مساعدة لتطبيق الواتساب  لأضافة تعديلات على التطبيق.
 Author: Albasrawi
 Name: WatusiTools
-
