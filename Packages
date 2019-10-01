@@ -712,3 +712,21 @@ Author: Albasrawi
 Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
 Installed-Size: 476
 Name: Liberty Lite
+
+
+Package: com.Albasrawi.cydown
+Version: 6.9.7-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Filename: ./debs/com.arab-cydia.cydown_6.9.7-1.deb
+Size: 1546762
+MD5sum: 355ef11b5180345fa86c25608bf06c81
+SHA1: e292303505244ffe3dbd1c3f96d52e091a4b27ff
+SHA256: 9d73a9dfd590a6606fbaa49af0f81fe5e1e320018bf30669492d7c5068a0569a
+Section: Supports IOS12.x
+Description: لتحميل أدوات السيديا المدفوعة مجاناً
+Author: Albasrawi <aliiosapp@gmail.com>
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown
+Sponsor: Albasrawi <aliiosapp@gmail.com>
