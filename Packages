@@ -751,3 +751,24 @@ Name: AppTools
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
 dev: areo
+
+Package: it.Albasrawi.ft
+Version: 0.0.6b2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0)
+Filename: ./debs/it.dreamcode.ft_0.0.6b2.deb
+Size: 18984
+MD5sum: f8d05a63030381a86081750ca0ecf146
+SHA1: a891f64a641873acd3f1f4ae306a545b75c442c6
+SHA256: 1dac53db24d6a31012256a7fb7442dbc9c02a43323bcb5765500eca66035a44c
+Section: Tweaks
+Description: Touch ID gestures اداة تساعدك على استخدام البصمة بدل الضغط على زر الهوم
+Author: Albasrawi <aliiosapp@gmail.com>
+Icon: file:///Library/PreferenceBundles/fingertouchprefs.bundle/icon@2x.png
+Installed-Size: 257
+Name: FingerTouch
+Priority: optional
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+Tag: purpose::extension, compatible::ios10, compatible::ios11
+dev: dreamcode
