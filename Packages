@@ -95,7 +95,7 @@ Size: 534886
 MD5sum: 2327871ad654229f761870d1de40c25e
 SHA1: 0d7a2d9f1d1dae94232d70721a89967f342b23ba
 SHA256: 32315a46999811f292e5f35141716c5f2992a20af8ba1204e2d67dff392adffb
-Section: i0S12
+Section: i0S 12
 Author: Albasrawi <aliiosapp@gmail.com>
 Icon: file:///Library/PreferenceBundles/PasitheaSettings.bundle/Pasithea@2x.png
 Installed-Size: 1808
