@@ -772,3 +772,19 @@ Priority: optional
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 Tag: purpose::extension, compatible::ios10, compatible::ios11
 dev: dreamcode
+
+Package: net.Albasrawi.midevice
+Version: 1.0.0-3
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, me.nepeta.libcolorpicker, applist, com.chpwn.iconsupport
+Filename: ./debs/net.dodgraphics.midevice_1.0.0-3.deb
+Size: 173658
+MD5sum: ca9561fe92a78475591d2a6d038f6a1d
+SHA1: 75c7710bc632e21a2c040006da97aa5bf643230d
+SHA256: ca87798c8542b5d49d4b515d2fb3896e361d187455951e1579f6bc5daed703ed
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Albasrawi
+Installed-Size: 688
+Name: MiDevice
