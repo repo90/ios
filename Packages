@@ -64,3 +64,634 @@ Section: Tweaks
 Description: YouTube'den videolar ile daha fazlasını indirin!
 Name: Cercube for YouTube
 
+ckage: applist
+Version: 1.5.14
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.6~beta) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Filename: ./debs/applist_1.5.14.deb
+Size: 93138
+MD5sum: cd8cc24cb82a6714a6a1a41424d72e22
+SHA1: d7883ca1eb96611d9856f17c3510872decfce0eb
+SHA256: 81ad24dd58694e8b6b72706b108f75a51d8eb049c856975e9fc86b1976a25b1e
+Section: System
+Description: Allow extensions to read the list of installed apps
+Author: Albasrawi <aliiosapp@gmail.com>
+Installed-Size: 600
+Name: AppList
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+dev: rpetrich
+
+Package: co.xrepo.Albasrawi.pasitheaios12
+Version: 2.1.4
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5001), preferenceloader (>= 2.2.2), applist (>= 1.5.9), net.angelxwind.karenlocalizer, firmware (>= 11.0) | com.ichitaso.pasithea2flipswitch
+Conflicts: com.ichitaso.pasteboardswitch, com.ichitaso.pasithea
+Replaces: com.ichitaso.pasithea2
+Filename: ./debs/co.albasrawi.pasitheaios12_2.1.4.deb
+Size: 534886
+MD5sum: 2327871ad654229f761870d1de40c25e
+SHA1: 0d7a2d9f1d1dae94232d70721a89967f342b23ba
+SHA256: 32315a46999811f292e5f35141716c5f2992a20af8ba1204e2d67dff392adffb
+Section: i0S12
+Author: Albasrawi <aliiosapp@gmail.com>
+Icon: file:///Library/PreferenceBundles/PasitheaSettings.bundle/Pasithea@2x.png
+Installed-Size: 1808
+Name: Pasithea ios10/11/12 Cracked
+Source: Awesome ClipBoard with crack 100%
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+
+Package: com.Albasrawi.anemone
+Version: 2.1.8-2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, pincrush
+Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, com.codethemed.iconbundles, com.idd.iconomatic
+Filename: ./debs/com.anemonetheming.anemone_2.1.8-2.deb
+Size: 1857818
+MD5sum: 528a922eb2c41c23c0240c53b685a18d
+SHA1: cdb3f85a2fac3dd8fd0fc05647e6e58fe4573c84
+SHA256: ea2200f6e0e93a1d5b7ee53bcbf46e5b6700a7706ecbf71842426df51a8ee6a0
+Section: Tweaks
+Description: اداة لتشغيل الثيمات والخطوط
+Author: Albasrawi <aliiosapp@gmail.com>
+Icon: file:///Applications/Anemone.app/icon.png
+Installed-Size: 8112
+Name: Anemone
+Priority: optional
+Provides: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, org.coolstar.customclock, com.codethemed.iconbundles, com.idd.iconomatic
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+dev: anemonetheming
+
+Package: com.Albasrawi.365scorescrazymind90
+Version: 2.0-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.365scorescrazymind90_2.0-1.deb
+Size: 4244
+MD5sum: dacf7612711ca76966edb3d8d74c393d
+SHA1: bfefb8328fa424a64c2cf027b1bce5dbc29a5dad
+SHA256: ceb9905cd91d833669432ae7bb130829a63ef709bc25a8853c16d8f7506703e9
+Section: Apps Hack
+Description: ازالة الاعلانات من تطبيق 365Scores
+Author: Albasrawi
+Name: 365Scores Hack
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+
+Package: com.Albasrawi.adan
+Version: 3.6.4-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.adan_3.6.4-1.deb
+Size: 29363706
+MD5sum: 75579939372047c1cba88c7f8f7a7c08
+SHA1: cf48602aa95fdfd95e5d1ea49340756e49392e19
+SHA256: ef0cdafc39b8415200d7caea2c239f62282fa5f447b7dd93f5fe668d654e92ec
+Section: App
+Description: تطبيق مؤذن السعودية المدفوع في الاب ستور
+Author: Albasrawi
+Name: مؤذن السعودية ( Adan )
+
+Package: com.Albasrawi.antirevoke
+Version: 0.0.1-1+debug-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.antirevoke_0.0.1-1+debug-1.deb
+Size: 3418
+MD5sum: 4a2933f42b8ba47092d6c559d5af7830
+SHA1: a20e59735393165405f8b5c8d3559d5900c5b6b5
+SHA256: 2b3257b5fd66b141f2cded39e70d6a0223b71f0966b0ec1c40662d4233c98020
+Section: System_
+Description: لاحاجه لتحقق من ملف شهادة التطبيقات او اعادة توقيع التطبيق قبل انتهاء الـ 7 ايام 
+ ( لايوجد اعدادات للاداة )
+Author: 180
+Installed-Size: 136
+Name: Anti Revoke
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+
+Package: com.Albasrawi.appstoreplusplus
+Version: 0.7-4-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.appadmin
+Filename: ./debs/com.arab-cydia.appstoreplusplus_0.7-4-1.deb
+Size: 1510742
+MD5sum: f97ba56a83514ac4add02ecb62b4c83e
+SHA1: 7c8dc6949258697fafd24acb522f1f06944d0a05
+SHA256: 6903b1191fedc4961d1779fb1b7b11e702ba0b8a6f709f81064129229f668464
+Section: Tweaks
+Description: الرجوع الى اصدار سابق لاي تطبيق من تطبيقات الاب ستور
+Author: Albasrawi
+Icon: 
+Name: AppStore++
+Priority: optional
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+
+Package: com.Albasrawi.betterccxiweather
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.arab-cydia.betterccxi | com.atwiiks.betterccxi
+Filename: ./debs/com.arab-cydia.betterccxiweather_1.0.1-1.deb
+Size: 13992
+MD5sum: 42b5d73525f999663abf0df573c6bafd
+SHA1: 748b12cabac3c5d5ad519579d6e2207330b90ba6
+SHA256: dd1d7155f92c6c76c7377cc66cfbb200be236af0ccb65d7c19f8b7693da1dbce
+Section: Supports IOS12.x
+Description: اختصار جميل للطقس في مركز التحكم يتم تفعيله والتحكم به عبر اداة BetterCCXI.
+Author: Albasrawi
+Name: BetterCCXI (Weather Addon)
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+
+Package: com.Albasrawi.betterccxi
+Version: 1.4.8-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debs/com.arab-cydia.betterccxi_1.4.8-1.deb
+Size: 61516
+MD5sum: 60d353832673f82462a3b6ad2f34bc7f
+SHA1: c2affa6a96de3e81ac4f0a3a9900d3d95b2c718e
+SHA256: ddc532d6fb9ff5e06646b886ccf2823a8faeb3212fc9a38256672142d7e914fd
+Section: Supports IOS12.x
+Description: تغيير مظهر control cente
+Author: Albasrawi
+Name: BetterCCXI
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+
+Package: com.Albasrawi.bobbymoviebox
+Version: 3.2.4-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Filename: ./debs/com.arab-cydia.bobbymoviebox_3.2.4-1.deb
+Size: 7178182
+MD5sum: 9224f9ee6432df2a2bacc32a94908a68
+SHA1: b8472b3da693c8b039e221b7e50de4bf67dcc3da
+SHA256: 311282a4484c65a22d3fe3701b1f12ca39551468c22f75a42b938e3b851734c6
+Section: App
+Description: اقوى تطبيق لمشاهدة احدث الافلام والمسلسلات
+Author: Albasrawi
+Name: Bobby Movie Box
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+
+Package: com.Albasrawi.copysources
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.arab-cydia.copysources_1.0-1.deb
+Size: 15360
+MD5sum: b149e5e6231b478d7ef593c30a4fc16e
+SHA1: 473b31f8cd8969ba154cc00450946b8e8df5c499
+SHA256: 4d715f99315b8b64f2985c759bf448c97837d11f5e69fc2752253f410ef65b0c
+Section: Tweaks
+Description: نسخ أو مشاركة السورسات الخاصة بك من داخل السيديا
+Author: Albasrawi <aliiosapp@gmail.com>
+Installed-Size: 124
+Name: CopySources
+Priority: optional
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+
+Package: com.Albasrawi.sahra
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.sahra_1.0-1.deb
+Size: 8831990
+MD5sum: a8c4a729b837c79e3e33272bc4e83511
+SHA1: 8e63f544228bcf0d3f1074aead5ba2fbc43d4d25
+SHA256: 050815e6e1d590096e4c48eb76b187a39ea9dd70e4283a3c2cefff5b5002d4c1
+Section: App
+Description: تطبيق السهرة المدفوع لمشاهدة الافلام والقنوات الرياضية
+Author: Albasrawi
+Name: al-Sahra
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+
+Package: com.Albasrawi.weathervane
+Version: 1.1.0-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.weathervane_1.1.0-1.deb
+Size: 12120
+MD5sum: e69aba00bcff2ccb5e8a8c9875f88fce
+SHA1: 731e71d741ae67dc9f75b0dc05fa8425d3137b1b
+SHA256: ec123d6aad411e9f539c276578da70d5a94bf74dd2e2cd167d95534e764749a9
+Section: Supports IOS12.x
+Description: الوصول السريع لشبكات الواي فاي واجهزة البلوتوث عن طريق مركز التحكم بضغطه مطوله
+Author: Albasrawi
+Name: WeatherVane
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+
+Package: com.Albasrawi.appstoreplusplus
+Version: 0.9.7
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces: 
+Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.7.deb
+Size: 1320492
+MD5sum: b3201af1744133cb79bf080c145998ea
+SHA1: 1159e548602d57603473c374f4e1a03e97fb5850
+SHA256: daab5e2b1b0a6d644fb8ad560571208decce4b510f5741193e0892f0806a632c
+Section: Tweaks
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.2
+Author: Albasrawi <aliiosapp@gmail.com>
+Homepage: 
+Icon: 
+Name: AppStore++
+Priority: optional
+dev: 
+
+Package: com.Albasrawi.libcscolorpicker
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0.3.deb
+Size: 91720
+MD5sum: a0de0dfa95c57622bf72251e80f607c4
+SHA1: f5db2554715c00624f5dc3913f2241bcd9e2f9dc
+SHA256: 18de07f1278bb5c8b3bbe087b3c93fb44fbf87f68153050fe830cb0f2e87bc1e
+Section: System
+Description: A minimal color picker library for developers
+Author: Albasrawi <aliiosapp@gmail.com>
+Depiction: https://repo.kenhtao.net/view/467
+Icon: file:///Applications/Cydia.app/Sections/hethong.png
+Installed-Size: 460
+Name: libCSColorPicker
+Pre-Depends: firmware (>= 7.0)
+Sileodepiction: https://repo.kenhtao.net/sileo-depiction/libcscolorpicker
+Tag: purpose::extension, compatible_min::iosiOS7
+
+Package: com.Albasrawi.ccolor
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.dpkg.ccolor_1.0-1.deb
+Size: 22916
+MD5sum: eb956ff21dbab17dbbda77b6d0cbc4e4
+SHA1: 574defa5f836348dc7c6465c01b091cc6afdda70
+SHA256: 46aaa85c891a0e597eab3368d05c52180089db70ebde8308583de4af39da699e
+Section: Tweaks
+Description: Custom CC background color.
+Author: Albasrawi
+Installed-Size: 240
+Name: CColor
+
+Package: com.Albasrawi.utilities 
+Version: 1:0.4.2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com> 
+Filename: ./debs/com.ericasadun.utilities_0.4.2.deb
+Size: 55410
+MD5sum: 89a3bb9791c2deee6f530773089ee43d
+SHA1: b57904d5171e56cd559c798d277ccf9f8d45c556
+SHA256: 4e8e98895576e985be5a50070c96403a2ce2b577eb2267649853686a2ad99f56
+Section: Utilities
+Description: A collection of command-line utilities for various purposes.
+Author: Albasrawi <aliiosapp@gmail.com> 
+Depiction: http://modmyi.com/info/ericautilities.d.php
+Homepage: http://modmyi.com/info/ericautilities.php  
+Name: Erica Utilities 
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+
+Package: com.Albasrawi.powerselector11
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/com.ichitaso.powerselector11_1.2.1.deb
+Size: 192916
+MD5sum: d1e53297bfbb14674eccf854eea7f7b5
+SHA1: 7f18f282f983f9ce45a50e658d0f1cc81bf4fe5a
+SHA256: a3ce4b5e1ae43870b6dd54811ccadd292394cba6f280004ce4fe0a3c1a10effe
+Section: Utilities
+Description: The power supply relation of a device is operated.اداة  لعمل ريسبنغ  او سيف مود او اعادة تشغيل
+Author: Albasrawi <aliiosapp@gmail.com>
+Installed-Size: 1712
+Name: PowerSelector (iOS 11 & 12)
+Pre-Depends: firmware (>= 11.0)
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+dev: ichitaso
+
+Package: com.Albasrawi.safeccmodules
+Version: 1.4-3
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/com.jailbreak365.safeccmodules_1.4-3.deb
+Size: 1118058
+MD5sum: 8d1a3e4aa22fc7e202f9a4bd31782edf
+SHA1: 6969ec4aab57e24711b90df7fd5c1128cc1c9006
+SHA256: 88d8f780da26286c30eaf56631466a4dd50ca9736f1fbe06b7b0476dbff9a20c
+Section: Addons (ControlCenter)
+Description: More control center modules for iOS 11/12
+Author: Albasrawi <aliiosapp@gmail.com>
+Installed-Size: 4721
+Name: CCModules
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+dev: jailbreak365
+
+Package: com.Albasrawi.mimport
+Version: 0.0~beta34a
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 6.0), unzip, unrar
+Filename: ./debs/com.julioverne.mimport_0.0_beta34a.deb
+Size: 628510
+MD5sum: 3fedbab5ccdd1f8e21eb58b779821b62
+SHA1: 31a6664506201f3eb3c2dbb93b275e799910a87a
+SHA256: e6407bb1e4487898befe52f8a2fefdec39f4eeb00c1b8fbf7c73acb3ac5e0a64
+Section: Tweaks
+Description: Media Importer Directly From Music App مستورد الوسائط مباشرة من تطبيق الموسيقى
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
+Name: MImport Albasrawi
+
+Package: com.Albasrawi.pimport
+Version: 0.0~beta3b
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./debs/com.julioverne.pimport_0.0_beta3b.deb
+Size: 474934
+MD5sum: 7b0d865d5c707e0faee5a4bbacdc6d9d
+SHA1: b3deee5a435a8ea1965312e025d57e185e8fc99c
+SHA256: 8c7f19171046053a4e3f3532a3d9d8d1d61de2aee8e918340ff29895e809c622
+Section: Tweaks
+Description: Photo Importer Directly From Photo App
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/PImport.bundle/icon@2x.png
+Name: PImport Albasrawi
+
+Package: com.Albasrawi.ccsupport
+Version: 1.2-3
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Filename: ./debs/com.opa334.ccsupport_1.2-3.deb
+Size: 35506
+MD5sum: 5bdf900d2f1e3f7b8dca06696892ef8a
+SHA1: 869427d61a45e0f6bf9803628aa0555e630d0fa8
+SHA256: fd79a3b14797b0ed8b3e3eebbcb71f51e446a374307990f2ed58b3fb5982e04a
+Section: Tweaks
+Description: Support tweak for CC modules!
+Author: Albasrawi
+Installed-Size: 203
+Name: CCSupport
+Provides: com.ioscreatix.silo
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+dev: opa334
+
+Package: com.Albasrawi.safariplus
+Version: 1.7.5-3
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.opa334.safariplus_1.7.5-3.deb
+Size: 987126
+MD5sum: c88eab51ca984946b369d3de56dc17f6
+SHA1: 0ded27f6c9ecc9c43bc99bd4e549a88cd14c362f
+SHA256: 3c9b46e45701c3db38c0992504683be3b1b023c345d589801af26938d3c2f5c2
+Section: Tweaks
+Description: Various enhancements to Safari!
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
+Installed-Size: 4622
+Name: Safari Plus
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+dev: opa334
+
+Package: com.Albasrawi.snowboard
+Version: 1.1.7
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, jp.ashikase.techsupport, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.spark.snowboard_1.1.7.deb
+Size: 446594
+MD5sum: e6c62c15fa51c33a2c9b8a94ec71a108
+SHA1: fd67de0dcaa2c90d0058f4200b3af904c0353af1
+SHA256: eedd421f56a6e6d3670107b8a68ead333844e49337ccdb7247b3f85c4eaf2a79
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/SnowboardPrefs.bundle/icon@2x.png
+Installed-Size: 1652
+Name: SnowBoard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Tag: compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+
+Package: com.Albasrawi.floatydock
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.chpwn.iconsupport, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.synnyg.floatydock_1.5.deb
+Size: 70024
+MD5sum: db13005a1d18ce08fd0eb0383072c1ff
+SHA1: 8f2d226db7d59921cafe3ab350fb788e572f493f
+SHA256: 6bd905a786d0cf8e8b3fd59f2f8842538c3184730530bdd2b103032c8d445d23
+Section: Tweaks
+Description: iPad dock power, for all !
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/FloatyDockPrefs.bundle/icon@2x.png
+Installed-Size: 412
+Name: FloatyDock
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+Tag: purpose::uikit, compatible::ios11, compatible::ios12
+dev: synnyg
+
+Package: com.Albasrawi.eztweaklist
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>=9.0), mobilesubstrate, dpkg, cydia
+Filename: ./debs/com.thecomputerwhisperer.eztweaklist_1.0.1-1.deb
+Size: 17286
+MD5sum: 2e8685907f37faf8d9bc86bed3614be3
+SHA1: 5e0643a229694b90fa03dc2f72969c4b58265ab9
+SHA256: 93e09a941d28e659cde1cfda41275e530bc8ccd91d2ff52a1cd6367dbc13e5b0
+Section: Addons
+Description: Easily export and share your tweak list.
+Author: Albasrawi
+Dev: Alosh
+Installed-Size: 140
+Name: EZTweakList
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+
+Package: com.Albasrawi.filza
+Version: 3.7.0-18
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./debs/com.tigisoftware.filza_3.7.0-18.deb
+Size: 12422828
+MD5sum: 8f779746763a14d186bd0a3d8b7ebad9
+SHA1: 9af030dd3f01871f3f02e109a416b560ed4571c3
+SHA256: b7bfae29efee9133a62513475e6b9800ed935e70a2c0d17241c9fc2196b09703
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Author: Albasrawi
+Installed-Size: 29668
+Name: Filza File Manager
+
+Package: com.Albasrawi.jerem10.nrc
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 7.0), com.anemonetheming.anemone
+Filename: ./debs/com.yourepo.jerem10.nrc_0.0.5.deb
+Size: 2447674
+MD5sum: 1f0560f44b99bc27f6115267d39f1c8c
+SHA1: b00b7395d86c3b071619759ae1def19d72dfdeb5
+SHA256: 53d4628ac5eb4597bd26dfe994688646356a0bbc2caec6f0412c830c50829e6c
+Section: Themes
+Description: Thème Sombre au icon arrondie ( Marche avec Anemone )
+Author: Jeremy DECHELLE <jeremy.dechelle@icloud.com>
+Installed-Size: 10912
+Name: NrC
+Priority: optional
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+Tag: compatible::ios11
+dev: Ali
+
+Package: cydia.Albasrawi.icleanerpro10
+Version: 7.7.5k
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7, org.cydia.kiimo.crackicleanerpro
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/cydia.kiiimo.org.icleanerpro10_7.7.5k.deb
+Size: 5385468
+MD5sum: b820a767f1f98634b89c7b45965e7ff8
+SHA1: 5f354d6304449d33d71d3c05d8c18f9d4d6ab136
+SHA256: fe51d2aa9748aa025d7dc2fd774a1495d724925804808a52e041077584a0ec33
+Section: Utilities
+Description: أداة لتنظيف الجهاز من مخلفات التطبيقات والادوات
+Author: Albasrawi <aliiosapp@gmail.com>
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro Cracked
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+
+Package: me.Albasrawi.translomatic
+Version: 1.2.10
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, me.pulandres.foxforttools, me.pulandres.libfoxfortutils64, com.rpetrich.rocketbootstrap (>= 1.0.3)
+Filename: ./debs/me.pulandres.translomatic_1.2.10.deb
+Size: 227680
+MD5sum: fb635bdab86e5ac76a4bdc924c19c21b
+SHA1: 59f0cdca616e2c79153ce9ba29a5a64312fdfc87
+SHA256: ece2c8feb6a9c72ce1a05c326a77ca563cb4c322dbaefcbbdb91f9c24052425d
+Section: Tweaks
+Description: Quickly translate any text ترجمة أي نص بسرعة
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+Installed-Size: 976
+Name: Translomatic (arm64) Cracked
+
+Package: org.Albasrawi.phonecaller2
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 7.0), com.rpetrich.rocketbootstrap (>= 1.0.7~), mobilesubstrate
+Filename: ./debs/org.cydia.kiimo.phonecaller2_2.0.1.deb
+Size: 549066
+MD5sum: 256835c3550118f327aefe18af1c6542
+SHA1: 322e4599e4365590378a66d63f0ead9443eac6e9
+SHA256: 38a1421dcbf79ca6cc474e50fdc83fc9625336b6a190d89dccdece6716eb77e7
+Section: iOS 12
+Author: Albasrawi
+Installed-Size: 2524
+Name: PhoneCaller2
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+
+Package: ru.Albasrawi.adblockplus
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Filename: ./debs/ru.rejail.adblockplus_1.1.1.deb
+Size: 18330
+MD5sum: ec2c86926d64b32e855cdfe728b83a2e
+SHA1: cb6a4a2cec7ab42a94dc5ee6a40138ad78a3adb2
+SHA256: 361f3cd820ed3f79719a1fed8c6198329c717fb402e0c8dbe352eb263c83aedd
+Section: Tweaks
+Description: أداة منع الاعلانات من التطبيقات و المتصفحات
+Author: Albasrawi <aliiosapp@gmail.com>
+Installed-Size: 264
+Name: AdBlock ++
+Priority: optional
+
+Package: ru.Albasrawi.bioprotectxs
+Version: 4.0-69
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Filename: ./debs/ru.rejail.bioprotectxs_4.0-69.deb
+Size: 571964
+MD5sum: cfdd91c71330b7dac8745363bae76c1c
+SHA1: 6c0206ee0261a8c77d7e6355ab8579490281b575
+SHA256: 258835f3a80718978c679bc9ac5a0dd1266d6065466ed199dd9728a8794263b0
+Section: Tweaks
+Description: لقفل التطبيقات والملفات بالبصمة او بصمة الوجه
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Installed-Size: 1348
+Name: BioProtect XS (iOS 12) Rus
+
+Package: ru.Albasrawi.cacheclearer
+Version: 0.1a
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001)
+Filename: ./debs/ru.rejail.cacheclearer_0.1a.deb
+Size: 9284
+MD5sum: 04fbe3b9ebd06f19898cdb5af66c6334
+SHA1: c468c749f19a48b92b197d6e11a963c65fd25e82
+SHA256: b9c1c6b5c31b91c4a76c6b68aaaa58bf05de53748900d9a47ad478ac748451db
+Section: Tweaks
+Description: لحذف مخلفات التطبيقات تشبه عمل حذف المخلفات في الاندرويد
+Author: Albasrawi <aliiosapp@gmail.com>
+Installed-Size: 72
+Name: CacheClearer
+
+Package: ru.Albasrawi.photomanager12
+Version: 1.0.7-1+debug
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Filename: ./debs/ru.rejail.photomanager12_1.0.7-1+debug.deb
+Size: 449642
+MD5sum: c82ad1458bb79d622aba52170c885175
+SHA1: fa094ec4d6d4919fae4e7488518e19f61d7be02d
+SHA256: eead90e7debe32ab94439323038fd580530d5051247163251d7c2db3bfbcb7b4
+Section: Tweaks
+Description: لأدارة الصور وانشاء ملفات مع امكانية قفلها
+Author: Frozen Penguin
+Installed-Size: 1448
+Name: PhotoManager (iOS 12) Rus
+
