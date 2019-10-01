@@ -157,25 +157,6 @@ Installed-Size: 136
 Name: Anti Revoke
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 
-Package: com.Albasrawi.appstoreplusplus
-Version: 0.7-4-1
-Architecture: iphoneos-arm
-Maintainer: Albasrawi <aliiosapp@gmail.com>
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.appadmin
-Filename: ./debs/com.arab-cydia.appstoreplusplus_0.7-4-1.deb
-Size: 1510742
-MD5sum: f97ba56a83514ac4add02ecb62b4c83e
-SHA1: 7c8dc6949258697fafd24acb522f1f06944d0a05
-SHA256: 6903b1191fedc4961d1779fb1b7b11e702ba0b8a6f709f81064129229f668464
-Section: Tweaks
-Description: الرجوع الى اصدار سابق لاي تطبيق من تطبيقات الاب ستور
-Author: Albasrawi
-Icon:
-Name: AppStore++
-Priority: optional
-Sponsor: Albasrawi <aliiosapp@gmail.com>
-
 Package: com.Albasrawi.betterccxiweather
 Version: 1.0.1-1
 Architecture: iphoneos-arm
