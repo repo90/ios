@@ -713,25 +713,6 @@ Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
 Installed-Size: 476
 Name: Liberty Lite
 
-
-Package: com.Albasrawi.cydown
-Version: 6.9.7-1
-Architecture: iphoneos-arm
-Maintainer: Albasrawi <aliiosapp@gmail.com>
-Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Filename: ./debs/com.arab-cydia.cydown_6.9.7-1.deb
-Size: 1546762
-MD5sum: 355ef11b5180345fa86c25608bf06c81
-SHA1: e292303505244ffe3dbd1c3f96d52e091a4b27ff
-SHA256: 9d73a9dfd590a6606fbaa49af0f81fe5e1e320018bf30669492d7c5068a0569a
-Section: Supports IOS12.x
-Description: لتحميل أدوات السيديا المدفوعة مجاناً
-Author: Albasrawi <aliiosapp@gmail.com>
-Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
-Name: CyDown
-Sponsor: Albasrawi <aliiosapp@gmail.com>
-
-
 Package: com.Albasrawi.apptools
 Version: 1.6.0
 Architecture: iphoneos-arm
@@ -826,3 +807,202 @@ Description: Ability to install applications from external sources القدرة 
 Author: Albasrawi
 Name: AppSync Unified
 Provides: appsync
+
+Package: com.Albasrawi.angelblack
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Filename: ./debs/com.arab-cydia.angelblack_1.2.deb
+Size: 3764098
+MD5sum: 444faff959a6bfba215764f6b2e755a7
+SHA1: 85d12d9e6d2d1964d2f71ffa92357b0ee7f9e6d3
+SHA256: 087b4fe24fb37898cce498d3a9a66173082a9249d2f5606379634e57a565b3fe
+Section: Themes
+Description: THEME الثيم الأسود
+Author: Albasrawi
+Name: Angel Black
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+
+Package: com.Albasrawi.libnotifications
+Version: 0.2-2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 8.0)
+Filename: ./debs/com.cokepokes.libnotifications_0.2-2.deb
+Size: 66374
+MD5sum: 2ea7ed852f989d52f77da3430a8f0306
+SHA1: 40ec97a72467cee7218742a6b7dc267b88ca4396
+SHA256: 576a97de7118c3a392870f04212e38e8451616a9a396fba72e6c9bd39c945ddd
+Section: Development
+Description: App notification library.
+Author: Albasrawi
+Installed-Size: 968
+Name: libnotifications
+Priority: optional
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+dev: Ali
+
+Package: com.Albasrawi.browserdefault
+Version: 1.9.7
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate,preferenceloader
+Filename: ./debs/com.lpane.browserdefault_1.9.7.deb
+Size: 581022
+MD5sum: 33f202efc32bb5e422450199d1d3f589
+SHA1: 12668bd8c561eefb077543de21ad06af64627f78
+SHA256: fa4c2a5ffd6912e29e5f0844b6bd9c5401e3bb7567cecb800041e527c0096efb
+Section: Tweaks
+Description: BrowserDefault allows users to choose the browser links are opened in.
+Author: Albasrawi
+Installed-Size: 884
+Name: BrowserDefault
+
+Package: com.Albasrawi.cr4shed
+Version: 3.0.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1) | firmware (<< 12.0), com.cokepokes.libnotifications (>= 0.2-2), cy+cpu.arm64 | cy+cpu.arm64e
+Filename: ./debs/com.muirey03.cr4shed_3.0.1.deb
+Size: 56714
+MD5sum: 2c117d8baa1af4c2ca29f3a14876fbf4
+SHA1: 208796877544dfd9ec620043df2b19e305a914de
+SHA256: e122f57cee3725b0d27f321d62486c0163a2b3b676d7d55134d4a05d287740c5
+Section: Tweaks
+Description: More useful crash logs أداة لمعرفة الاداة المسببة للكراش  مفيدة جدا
+Author: Albasrawi
+Installed-Size: 536
+Name: Cr4shed
+
+Package: com.Albasrawi.nicenotes
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>=1.1), preferenceloader
+Filename: ./debs/com.muirey03.nicenotes_1.0.4.deb
+Size: 64428
+MD5sum: 6fec2e7848290053e280cf96ec02fbe0
+SHA1: cc59d240ecbc8b6fe2a08b620b43e9365c74c302
+SHA256: b64f8828b2a7bb5857330ae39046acabe4bd2c7027ed933a1af8f91f8f8a8058
+Section: Tweaks
+Description: Customize the stock Notes app to your liking تغيير ألوان تطبيق الملاحظات حسب اختيارك.
+Author: Albasrawi
+Installed-Size: 327
+Name: NiceNotes
+
+Package: com.Albasrawi.boxy3
+Version: 3.6.2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.chpwn.iconsupport
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders
+Filename: ./debs/com.pulandres.boxy3_3.6.2.deb
+Size: 2798974
+MD5sum: 7a22fe5792844889c0ee6939f70026de
+SHA1: f5cc8212fc15fcf19992754a9d1f8e8da95143b0
+SHA256: 474743dd177bf768a859ccf64d8f2df03495909f64d2aee79f4d019e0e5acc74
+Section: Tweaks
+Description: Modify your icons أداة للتحكم بالايقونات وطريقة عرضها
+Author: Albasrawi
+Installed-Size: 3528
+Name: Boxy 3 (iOS 11 - 12) R
+
+Package: com.Albasrawi.actionbar
+Version: 1.3.7
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.restiveconch.actionbar_1.3.7.deb
+Size: 46876
+MD5sum: 9f71ecfead0e6d7cb62078fb27f02f4f
+SHA1: d45990a79ae5c9b26be989a1faf4527e4d4dcd73
+SHA256: c961b27670c1b3d20da0d5c4ebe630f269dced2c798aae8a35a0b5fa4a61c7e6
+Section: Tweaks
+Description: Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. أضافة ازرار اسفل الكيبورد للنسخ واللصق والتحديد
+Author: Albasrawi
+Installed-Size: 416
+Name: ActionBar
+
+Package: me.Albasrawi.azinstaller
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Filename: ./debs/me.a1iraqi.azinstaller_1.0.deb
+Size: 7787160
+MD5sum: 580409f40f5bd713623311bafeed19d4
+SHA1: 72404421b44166ac2dc4f75fe4dc93d918fb60b5
+SHA256: 38d8b44ecac75e9b4afed9e7302da5b6ea024a0c206ff2b2c8b4d4f8b7b1437e
+Section: Tweaks
+Description: install Application without Computer تثبيت التطبيق دون الكمبيوتر
+Author: Albasrawi
+Icon: https://1.top4top.net/p_1359v7toi0.png
+Name: AZinstaller
+
+Package: ru.Albasrawi.colorbanners2
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5.000), org.thebigboss.libcolorpicker (>= 1.1)
+Conflicts: com.golddavid.colorbanners, com.golddavid.colorbanners-cb, com.golddavid.colorbanners2
+Replaces: com.golddavid.colorbanners, com.golddavid.colorbanners-cb, com.golddavid.colorbanners2
+Filename: ./debs/ru.rejail.colorbanners2_1.2.4.deb
+Size: 730240
+MD5sum: 7079fe37847aa3430a9c5f1a6fa58e87
+SHA1: 6cb5338f6dcab553293f6d497658ec3d28dcd17c
+SHA256: 02782a4eb90aafc4b4d4f719150e241ee788b62047031294a1ad9bc833c69f27
+Section: Tweaks
+Description: تغيير لون  وترتيب الاشعارات حسب لون التطبيق
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/ColorBanners2Prefs.bundle/ColorBanners@3x.png
+Installed-Size: 1268
+Name: ColorBanners 2 Rus
+
+Package: ru.Albasrawi.copypasta
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debs/ru.rejail.copypasta_0.1.4.deb
+Size: 56290
+MD5sum: 4302e9464f0bdf5c8b27a21e772ab70b
+SHA1: 71cd96932de5c05a8f64b3de33311d8b1525db26
+SHA256: 1a45ec3f9435bce33d0bd760b91e2ff2b56e990a948d58c548c5538e966f3731
+Section: Tweaks
+Description: أداة مفيدة لحفظ النصوص المنسوخة والرجوع اليها في اي وقت مع عمل اختصار في الكيبورد للصق  والنسخ
+Author: Albasrawi
+Installed-Size: 376
+Name: Copypasta Rus
+
+Package: ru.Albasrawi.cydown
+Version: 7.0.0
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Filename: ./debs/ru.rejail.cydown_7.0.0.deb
+Size: 2117920
+MD5sum: 44e54432342ccd0be72067f25da54661
+SHA1: 6b3effb77f1048f20847063007a2a99fea592687
+SHA256: a6f20e02201d360e94006927af3049172522bac2267afb9224697e6c34527905
+Section: Tweaks
+Description: الأداة الرهيبة لتثبيت الادوات المدفوعة مجانا مع وظائف اضافية  مفيدة
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown 
+
+Package: Albasrawi.carplay
+Version: 1.0.9k
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap (>> 1.0.6) | mobilesubstrate (>= 99.0), preferenceloader, ws.hbang.common, ldid
+Conflicts: com.eason.carplay, com.eason.carplay.ios11, ch.ringwald.hidsupport, com.modmyi.boxy3, com.irepo.boxy3
+Filename: ./debs/sileoturkiye.carplay_1.0.9k.deb
+Size: 3322942
+MD5sum: ac5d1c9466d7b83b87b64fa07036a02c
+SHA1: 0d286540e54d9368d4a6c3b7a2d8d644a33a9ff4
+SHA256: 86bcc5b0c3ed7e33c40a1ebe22fe9eafabd16fbf945a701064f6024bca743224
+Section: Tweaks
+Description: تشغيل أي تطبيق في جهازك على شاشة CarPlay.
+Author: Albasrawi
+Name: CarBridge IQ
+
