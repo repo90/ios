@@ -1006,3 +1006,19 @@ Description: تشغيل أي تطبيق في جهازك على شاشة CarPlay.
 Author: Albasrawi
 Name: CarBridge IQ
 
+Package: ru.Albasrawi.snapper2
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debs/ru.rejail.snapper2_2.2.1.deb
+Size: 408772
+MD5sum: 756a49c6aa29f2623aed667a711f6c26
+SHA1: c56ba3563867aded6da34479d4fb5271c5ae80fa
+SHA256: a24a8656bddd9f3410f590e19f7ca7b1618cb5fa139cd7af97991f780d17e974
+Section: Tweaks
+Description: لتصوير أي جزء من الشاشة
+Author: Albasrawi
+Installed-Size: 1464
+Name: Snapper 2 IQ
