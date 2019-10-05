@@ -1022,3 +1022,308 @@ Description: لتصوير أي جزء من الشاشة
 Author: Albasrawi
 Installed-Size: 1464
 Name: Snapper 2 IQ
+
+Package: com.Albasrawi.flipswitch
+Version: 1.0.15
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.5) | firmware (<< 7.0)
+Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch
+Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Filename: ./debs/com.a3tweaks.flipswitch_1.0.15.deb
+Size: 378790
+MD5sum: 4f469c1b734e9d9b7d0f93d74594f278
+SHA1: 85bd0215da9ced88453870b383b2abcbf613a310
+SHA256: 56fc28e8870064417be85d927c25c747d6b9072c87f9016d07e9c405d0b042a4
+Section: System
+Description: Centralized toggle system for iOS
+Author: Albasrawi <aliiosapp@gmail.com>
+Icon: file:///Applications/Preferences.app/icon-table.png
+Installed-Size: 2012
+Name: Flipswitch
+Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Tag: purpose::extension, role::developer
+dev: Ali
+
+Package: com.Albasrawi.spaces
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Filename: ./debs/com.arab-cydia.spaces_1.1.deb
+Size: 2595476
+MD5sum: 7af00916bffc4d4ca22e2e979aa1da3f
+SHA1: 3d6c2d882cfad4800c297ed1bcbef454caef3552
+SHA256: 13366d63a5353fa60773a06443ddcbde981b2814ac0f8b7121820440b186a1f0
+Section: Themes
+Description: THEME
+Author: Albasrawi
+Name: Spaces
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+
+Package: com.Albasrawi.veno
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Filename: ./debs/com.arab-cydia.veno_1.0.deb
+Size: 2393312
+MD5sum: d156d7d987606da6b3e075b3853d861f
+SHA1: b782002c0bf55fb29dd0cc99176430731d02d28f
+SHA256: 366e7b7d11d70da4887bebc126477ed2fe47bdecc8c3b76c002166076d5e6740
+Section: Themes
+Description: THEME
+Author: Albasrawi
+Name: Veno
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+
+Package: com.Albasrawi.cosette
+Version: 1.0.2-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 11.0)
+Conflicts: com.sassoty.pulltorespring
+Filename: ./debs/com.ikilledappl3.cosette_1.0.2-1.deb
+Size: 814140
+MD5sum: a75286cd0690728c10ed5b871231e10a
+SHA1: 619e4a37c18e0cae4b81c4b9ac54bc0daaa7d2eb
+SHA256: d5b0e0f45239a29390b72d3330f2197e02f91468695c3cf6fa89504330bed822
+Section: Tweaks
+Description: SBReload from Settings أضافة زر ريسبنغ في اعلى الاعدادات
+Author: Albasrawi
+Installed-Size: 1020
+Name: Cosette
+
+Package: com.Albasrawi.ccmodulespro
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.opa334.ccsupport (>= 1.2.1), ws.hbang.common
+Filename: ./debs/com.jailbreak365.ccmodulespro_1.0.0.deb
+Size: 89244
+MD5sum: ea2630f898af202dc67f7234d40581e0
+SHA1: 6a6534feadea7299823f4a838069f45b0ff9f738
+SHA256: e7ea2c3d12a6e23428230ed315f760900c3ad08884474bd8248df872873db21f
+Section: Tweaks
+Description: Increase the usability of your control center. أداة لتغير شكل بوكس مراكز التحكم وجعلها اشبه ب3D عند الضغط مطولا
+Author: Albasrawi <aliiosapp@gmail.com>
+Installed-Size: 1484
+Name: CCModules Pro
+
+Package: com.Albasrawi.lotus
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: winterboard
+Filename: ./debs/com.macciti.lotus_1.0.deb
+Size: 6861500
+MD5sum: 446f37a1bc11e8293b5e85a2d574df7e
+SHA1: 4ea8354aa42f97723cca4314e4aa73362f555e7b
+SHA256: a399e164a77691b05e478bea94080b1d48d63bf4695d47e3dd415310401788c5
+Section: Themes (SpringBoard)
+Description: A simple subtle theme
+Author: Albasrawi <aliiosapp@gmail.com>
+Name: Lotus
+Sponsor: Albasrawi
+
+Package: com.Albasrawi.siliqua2
+Version: 2.3.3
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, com.laughingquoll.prefixui
+Filename: ./debs/com.pulandres.siliqua2_2.3.3.deb
+Size: 60734
+MD5sum: bc03f1282a86bf25bd51d5be6776d319
+SHA1: 1e4bb0b13783bf097bd30cc96885aa5199c8e5c4
+SHA256: 8ce4303624b6a57beedfe025779758ddf7869f5b05cba8c59cdd856843b94e44
+Section: Tweaks
+Description: AirPods Gestures and New Features. أضافة مميزات للتحكم في الأيربود عند اللمس
+Author: Albasrawi
+Installed-Size: 324
+Name: Siliqua 2
+
+
+Package: com.Albasrawi.sideloadmanager
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Filename: ./debs/com.rowl.sideloadmanager_0.0.2.deb
+Size: 796992
+MD5sum: 190c27d81af86c4f5f66b5fc5a7c64c7
+SHA1: 0911a75958dfbfb8c62d2388152d769c8ebad465
+SHA256: 77727e08cf55dafdabcbc6f1a59bc32d1b00418b490c82bb310ad4d0873ed183
+Section: Utilities
+Description: Easily access the side road site. تطبيق يوفر لك مواقع تطبيقات الجيلبريك وتطبيقات اخرى
+Author: Albasrawi
+Installed-Size: 912
+Name: Sideload Manager
+
+Package: com.Albasrawi.successionrestore
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware-sbin, rsync
+Filename: ./debs/com.samgisaninja.successionrestore_1.4.deb
+Size: 1017310
+MD5sum: 88c37f754716f4bd7eb501a1eba8d9a0
+SHA1: fafc053d1ca6c5bd1ff1d6bf95397f3948cb6325
+SHA256: 9d6d714f02edcce5826f13c8df1701e202120297b9256fe5f54cf609acb4d258
+Section: Utilities
+Description: Restore without updating via rootfilesystem DMG
+Author: Albasrawi
+Icon: file:///Applications/SuccessionRestore.app/AppIcon20x20@3x.png
+Installed-Size: 2812
+Name: Succession
+Priority: optional
+Sponsor: Albasrawi
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+dev: stgardner4
+
+Package: com.Albasrawi.libsparkapplist
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Filename: ./debs/com.spark.libsparkapplist_1.0.3.deb
+Size: 67850
+MD5sum: d4a8dac933c64be3968e8e3daf44b76d
+SHA1: 803b7dbe37bccacd4da14a5755fd895d9fdf61a6
+SHA256: 4e5b42a661432d9b173ff3f3ee8abf2cead717be377761f7c9582979101ff63c
+Section: System
+Description: AppList alternative
+Author: Albasrawi
+Installed-Size: 596
+Name: libSparkAppList
+
+Package: com.Albasrawi.snowboard
+Version: 1.2.22~Beta1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.spark.snowboard_1.2.22_Beta1.deb
+Size: 756354
+MD5sum: bba89886fdd8eecf49e49bebb7ac6a74
+SHA1: c0a58b47b1abda694cd058671c8a546006f741ac
+SHA256: 9903478252c5b84c9e197e056fbcad097254e748f5f29579a0f938df400e30b4
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Albasrawi
+Installed-Size: 3056
+Name: SnowBoard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+
+Package: com.Albasrawi.elasticfolders
+Version: 0.0.4-2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.withertech.elasticfolders_0.0.4-2.deb
+Size: 53580
+MD5sum: 4003799f9154ae99070441811b78c31f
+SHA1: 09c34a93a80173cd8ea7eb3fdfb4b9702bee4047
+SHA256: e73a5b86532e7ec4e67fe255728f256e7495034aef27e0a8e411a5aebfd45f75
+Section: Tweaks
+Description: Nice smooth customizable elastic Folder icons and background animation
+Author: Albasrawi
+Name: Elastic Folder Animations
+
+Package: com.Albasrawi.filzatm
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.withertech.filzatm_0.0.5.deb
+Size: 48402
+MD5sum: 2f85a0390e04b13f15847fdf223f7e7c
+SHA1: 4e3dd7fd58efafc02cd2de9d3f07939b07e68109
+SHA256: 6d9688bd610f7f59b1864e5b05af7b076a3972e80dec926f37a9fddf2da7ed4d
+Section: Tweaks
+Description: Theme Manager for Filza
+Author: Albasrawi
+Name: Filza Theme Manager
+
+Package: libactivator
+Version: 1.9.12
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.15), com.rpetrich.rocketbootstrap (>= 1.0.5) | firmware (<< 7.0)
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch
+Filename: ./debs/libactivator_1.9.12.deb
+Size: 1176614
+MD5sum: 8a7c566035e623cacddf24f687a510ae
+SHA1: e910c6678a9609c0db975a6e48572aac473da5f3
+SHA256: 7ede883993ba708095c826cb2b62e1dfcde3b93688b8002da3e4f25833b96abb
+Section: System
+Description: Centralized gestures, button and shortcut management for iOS
+Author: Albasrawi
+Icon: file:///Applications/Activator.app/Icon-Small-modern@2x.png
+Installed-Size: 4612
+Name: Activator
+Priority: optional
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+dev: Ali
+
+Package: network-cmds
+Version: 543-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 9.0) | rtadvd
+Filename: ./debs/network-cmds_543-1.deb
+Size: 142520
+MD5sum: 795ccf9c6d53dd60d2f74f7a601f474f
+SHA1: 962f08d6b22bcdd1e9cea3d9b324e861d1630a66
+SHA256: 67173fd3be61683edc54c52ee1c89272bd8a30aec77cc8ed5a2d2c25d1fece8d
+Section: Networking
+Description: arp, ifconfig, netstat, route, traceroute
+Installed-Size: 1968
+Name: Network Commands
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: important
+
+Package: openssh
+Version: 7.9p1-3
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: libssl1.0
+Filename: ./debs/openssh_7.9p1-3.deb
+Size: 612852
+MD5sum: 6ff3a2ff19b7d26c781347b8b8609140
+SHA1: ee950b1fceaa8b9c3adfe4cab3f50cf6a11b41a8
+SHA256: 6732ca4ff67f0c5fb024fd622ed826b6c30a8d72bdf79a091c14abf830ab2d2c
+Section: Networking
+Description: secure remote access between machines
+Installed-Size: 9496
+Name: OpenSSH
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: important
+
+Package: rsync
+Version: 3.1.3-2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Filename: ./debs/rsync_3.1.3-2.deb
+Size: 204536
+MD5sum: b2dd5ce3b38d3dda17367f88d7e37b2d
+SHA1: 7caf0f654bbb562baba0bc8100c38b55ae29fbf8
+SHA256: 7b9442cc2b4b633103437f9eb2293d3d2aade68a836f808aea9aa2fb143ce69b
+Section: Networking
+Description: synchronize files between computers
+Installed-Size: 1056
+Pre-Depends: dpkg (>= 1.14.25-8)
+Priority: important
+
+Package: ru.rejail.harpy
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: network-cmds
+Filename: ./debs/ru.rejail.harpy_2.0.1.deb
+Size: 4916322
+MD5sum: e80aa36c982988bd06bfb7c010d08b83
+SHA1: 331dba78f199bcf988b6d43c01544615e0c5c648
+SHA256: 5fc211342035b3d58a0a0a8e0afe36f003bfbef292f40c381adbdc8da02c4891
+Section: System
+Description: أداة للتحكم بWIFI والمتصلين الذين معك على نفس الشبكة وقطع الاتصال عليهم
+Author: Albasrawi
+Installed-Size: 12848
+Name: Harpy
+
