@@ -988,7 +988,7 @@ Section: Tweaks
 Description: الأداة الرهيبة لتثبيت الادوات المدفوعة مجانا مع وظائف اضافية  مفيدة
 Author: Albasrawi
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
-Name: CyDown 
+Name: CyDown
 
 Package: Albasrawi.carplay
 Version: 1.0.9k
@@ -1102,7 +1102,7 @@ MD5sum: ea2630f898af202dc67f7234d40581e0
 SHA1: 6a6534feadea7299823f4a838069f45b0ff9f738
 SHA256: e7ea2c3d12a6e23428230ed315f760900c3ad08884474bd8248df872873db21f
 Section: Tweaks
-Description: Increase the usability of your control center. أداة لتغير شكل بوكس مراكز التحكم وجعلها اشبه ب3D عند الضغط مطولا
+Description: Increase the usability of your control center. أداة لتغير شكل بوكس مراكز التحكم وجعلها اشبه ب3دي عند الضغط مطولا عليها
 Author: Albasrawi <aliiosapp@gmail.com>
 Installed-Size: 1484
 Name: CCModules Pro
@@ -1322,8 +1322,7 @@ MD5sum: e80aa36c982988bd06bfb7c010d08b83
 SHA1: 331dba78f199bcf988b6d43c01544615e0c5c648
 SHA256: 5fc211342035b3d58a0a0a8e0afe36f003bfbef292f40c381adbdc8da02c4891
 Section: System
-Description: أداة للتحكم بWIFI والمتصلين الذين معك على نفس الشبكة وقطع الاتصال عليهم
+Description: أداة للتحكم  بشبكة الوايفاي والمتصلين معك على نفس الشبكة وامكانية عمل حظر لهم 
 Author: Albasrawi
 Installed-Size: 12848
 Name: Harpy
-
