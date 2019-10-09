@@ -906,7 +906,7 @@ Section: Tweaks
 Description: Modify your icons أداة للتحكم بالايقونات وطريقة عرضها
 Author: Albasrawi
 Installed-Size: 3528
-Name: Boxy 3 
+Name: Boxy3 
 
 Package: com.Albasrawi.actionbar
 Version: 1.3.7
