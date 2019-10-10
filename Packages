@@ -974,22 +974,6 @@ Author: Albasrawi
 Installed-Size: 376
 Name: Copypasta BY ALI
 
-Package: ru.rejail.cydown
-Version: 7.0.0
-Architecture: iphoneos-arm
-Maintainer: Albasrawi <aliiosapp@gmail.com>
-Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Filename: ./debs/ru.rejail.cydown_7.0.0.deb
-Size: 2117920
-MD5sum: 44e54432342ccd0be72067f25da54661
-SHA1: 6b3effb77f1048f20847063007a2a99fea592687
-SHA256: a6f20e02201d360e94006927af3049172522bac2267afb9224697e6c34527905
-Section: Tweaks
-Description: الأداة الرهيبة لتثبيت الادوات المدفوعة مجانا مع وظائف اضافية  مفيدة
-Author: Albasrawi
-Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
-Name: CyDown
-
 Package: sileoturkiye.carplay
 Version: 1.0.9k
 Architecture: iphoneos-arm
@@ -1373,5 +1357,6 @@ SHA1: 44baba65443588b58d6245dd03c674e5a6cd0f7c
 SHA256: cb10b6464b894918b6903064b4ef4bb6bdce14344874af6d3ced11dc7351af2f
 Section: Tweaks
 Description:  الأداة الرهيبة لتثبيت الادوات المدفوعة مجانا مع وظائف اضافية  مفيدة
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Author: Ali Albasrawi
 Name: CyDown
