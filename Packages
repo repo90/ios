@@ -312,7 +312,7 @@ Author: Albasrawi
 Installed-Size: 240
 Name: CColor
 
-Package: com.ericasadun.utilities 
+Package: com.ericasadun.utilities
 Version: 1:0.4.2
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -906,7 +906,7 @@ Section: Tweaks
 Description: Modify your icons أداة للتحكم بالايقونات وطريقة عرضها
 Author: Albasrawi
 Installed-Size: 3528
-Name: Boxy3 
+Name: Boxy3
 
 Package: com.restiveconch.actionbar
 Version: 1.3.7
@@ -1322,7 +1322,7 @@ MD5sum: e80aa36c982988bd06bfb7c010d08b83
 SHA1: 331dba78f199bcf988b6d43c01544615e0c5c648
 SHA256: 5fc211342035b3d58a0a0a8e0afe36f003bfbef292f40c381adbdc8da02c4891
 Section: System
-Description: أداة للتحكم  بشبكة الوايفاي والمتصلين معك على نفس الشبكة وامكانية عمل حظر لهم 
+Description: أداة للتحكم  بشبكة الوايفاي والمتصلين معك على نفس الشبكة وامكانية عمل حظر لهم
 Author: Albasrawi
 Installed-Size: 12848
 Name: Harpy
@@ -1342,3 +1342,36 @@ Description: delete all message in one tap أداة لحذف الرسائل من
 Author: Ali Albasrawi
 Installed-Size: 104
 Name: clearallmesg
+
+Package: com.cc.animatedweatherwidget
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, com.bingner.plutil, system-cmds
+Filename: ./debs/com.cc.animatedweatherwidget_1.5.deb
+Size: 13512
+MD5sum: 6c0b573672a6bfc1c5da214d0208d7e0
+SHA1: 3883a771984294def22e2bf313dcd16336c816e6
+SHA256: d72989050c1a8f87dc5405e5351e80162d5595ea5d15d22c08a1d84411eb091b
+Section: Tweaks
+Description: Animated weather in weather widget.
+Author: Ali Albasrawi
+Icon: https://i.imgur.com/PS2gtav.png
+Installed-Size: 328
+Name: AnimatedWeatherWidget
+
+Package: sileoturkiye.cydown
+Version: 7.0.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cydown
+Filename: ./debs/sileoturkiye.cydown_7.0.1.deb
+Size: 3549680
+MD5sum: 4f1f28692ff13f21f9b01d7d6e9f0838
+SHA1: 44baba65443588b58d6245dd03c674e5a6cd0f7c
+SHA256: cb10b6464b894918b6903064b4ef4bb6bdce14344874af6d3ced11dc7351af2f
+Section: Tweaks
+Description:  الأداة الرهيبة لتثبيت الادوات المدفوعة مجانا مع وظائف اضافية  مفيدة
+Author: Ali Albasrawi
+Name: CyDown BY ALI
