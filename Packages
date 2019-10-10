@@ -1326,3 +1326,19 @@ Description: أداة للتحكم  بشبكة الوايفاي والمتصلي
 Author: Albasrawi
 Installed-Size: 12848
 Name: Harpy
+
+Package: com.nalticed.clearallmesg
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs/com.albasrawi.clearallmesg_0.1.2.deb
+Size: 3646
+MD5sum: 6a73527541af5b67c2a49177dc0d023c
+SHA1: 9e7add93f325a0bf957544a07bb34ba18b1bab73
+SHA256: bd2932d089f2f7b94d3ef311c3118905a20adb7d0e0ac340b0d662d82fcc8559
+Section: Tweaks
+Description: delete all message in one tap أداة لحذف الرسائل من تطبيق الرسائل دفعة واحدة
+Author: Ali Albasrawi
+Installed-Size: 104
+Name: clearallmesg
