@@ -1360,3 +1360,77 @@ Description:  الأداة الرهيبة لتثبيت الادوات المدف
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Author: Ali Albasrawi
 Name: CyDown
+
+Package: com.abcydia.netcontrol
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: ./debs/com.abcydia.netcontrol_1.0.0-1.deb
+Size: 238040
+MD5sum: 3a30748b0fb2fa26967d94fb8d781fb1
+SHA1: 9f66038e1f6f2b0d4678528c5ca012b80c82ba00
+SHA256: 16b99b213edfc0c11588f3ce0aa422ffe9269c4d95127e427ad3a4cf0fa31768
+Section: Tweaks
+Description: 设置 App WiFi接入限制 Customize Cellular Data WiFi Networking Privileges
+Author: WZteam <admin@abcydia.com>
+Icon: file:///Library/PreferenceBundles/NetControl.bundle/abcydia@2x.png
+Installed-Size: 1415
+Name: NetControl ALI
+Priority: optional
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+Tag: purpose::extension, compatible::ios12
+dev: abcydia
+
+Package: com.downloadbar.downloadbar
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate
+Filename: ./debs/com.downloadbar.downloadbar_1.0.0.deb
+Size: 12652
+MD5sum: 67e6def5322c1ef3f235b7fadade2716
+SHA1: 65eb473a1a00843a14170003997f5bafbb998a43
+SHA256: ec505bd1737cd574fa4f2e6fdddb7b5444c21e4d64fb531500b6f383d0dc87c8
+Section: Tweaks
+Description: Spice up the app download process with a nice progress bar and percentage indicator
+Author: qwertyuiop1379
+Name: DownloadBar
+
+Package: com.matchstic.xenhtml
+Version: 1.0.1~release
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Filename: ./debs/com.matchstic.xenhtml_1.0.1_release.deb
+Size: 1528714
+MD5sum: 2a13bff5c06748584e7645ac6c66c3cc
+SHA1: 0d1f912c9f74cf980321c23e38a99c0382d2cd61
+SHA256: 6437b6553e30c1ee14035b75d319883655886487092a61b4bc459334a6f96931
+Section: System
+Description: Unified HTML rendering; lockscreen and homescreen
+Author: Albasrawi <aliiosapp@gmail.com>
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Name: Xen HTML
+Priority: optional
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+dev: Albasrawi <aliiosapp@gmail.com>
+
+Package: com.muirey03.flow
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1) | firmware (<< 12.0), ws.hbang.common (>= 1.11)
+Conflicts: me.nepeta.nereid, ch.mdaus.sylph, org.s1ris.spinxi
+Filename: ./debs/com.muirey03.flow_1.0.1.deb
+Size: 154556
+MD5sum: 6d8470eeb9921464c948562c3175157b
+SHA1: 3bb4ffbf6bbfc646da01420def9dc7a884dbc41e
+SHA256: 60c9a289eeb24d0a768060f6d1edfe5f2e4c8da17e8ca07fc6e0cc2190505c6b
+Section: Tweaks
+Description: Cover Flow like never before!
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/Flow.bundle/Icon-Large.png
+Installed-Size: 968
+Name: Flow
+
