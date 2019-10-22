@@ -1,5 +1,5 @@
 
-Package: com.Albasrawi.icone
+Package: com.arab-crack.icone
 Version: 2.3
 Architecture: iphoneos-arm
 Maintainer: Albasrawi
@@ -14,7 +14,7 @@ Author: Albasrawi
 Essential: yes
 Name: Albasrawi Icons
 
-Package: com.Albasrawi.mediabox
+Package: com.arab-crack.mediabox
 Version: 2.4.8
 Architecture: iphoneos-arm
 Maintainer: Albasrawi
@@ -31,7 +31,7 @@ Author: Ali
 Icon: https://i.ibb.co/z63zcRj/input-onlinepngtools.jpg
 Name: MediaBoxPlus
 
-Package: com.Albasrawi.AppCake6
+Package: com.arab-cydia.AppCake6
 Version: 6.0.8-1
 Architecture: iphoneos-arm
 Maintainer: Ali Albasrawi
@@ -50,7 +50,7 @@ Name: AppCake
 Pre-Depends: firmware (>= 10.0)
 Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
 
-Package: Albasrawi.cercube
+Package: sileoturkiye.cercube
 Version: 5.1.0k
 Architecture: iphoneos-arm
 Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.7~beta3), sileoturkiye.adblockplus
@@ -64,7 +64,7 @@ Section: Tweaks
 Description: YouTube'den videolar ile daha fazlasını indirin!
 Name: Cercube for YouTube
 
-Package: co.xrepo.Albasrawi.pasitheaios12
+Package: co.xrepo.mokadam.pasitheaios12
 Version: 2.1.4
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -84,7 +84,7 @@ Name: Pasithea ios10/11/12 Cracked
 Source: Awesome ClipBoard with crack 100%
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 
-Package: com.Albasrawi.anemone
+Package: com.anemonetheming.anemone
 Version: 2.1.8-2
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -108,7 +108,7 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
 dev: anemonetheming
 
-Package: com.Albasrawi.365scorescrazymind90
+Package: com.arab-cydia.365scorescrazymind90
 Version: 2.0-1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -124,7 +124,7 @@ Author: Albasrawi
 Name: 365Scores Hack
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 
-Package: com.Albasrawi.adan
+Package: com.arab-cydia.adan
 Version: 3.6.4-1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -139,7 +139,7 @@ Description: تطبيق مؤذن السعودية المدفوع في الاب �
 Author: Albasrawi
 Name: مؤذن السعودية ( Adan )
 
-Package: com.Albasrawi.antirevoke
+Package: com.arab-cydia.antirevoke
 Version: 0.0.1-1+debug-1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -157,7 +157,7 @@ Installed-Size: 136
 Name: Anti Revoke
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 
-Package: com.Albasrawi.betterccxiweather
+Package: com.arab-cydia.betterccxiweather
 Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -173,7 +173,7 @@ Author: Albasrawi
 Name: BetterCCXI (Weather Addon)
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 
-Package: com.Albasrawi.betterccxi
+Package: com.arab-cydia.betterccxi
 Version: 1.4.8-1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -189,7 +189,7 @@ Author: Albasrawi
 Name: BetterCCXI
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 
-Package: com.Albasrawi.bobbymoviebox
+Package: com.arab-cydia.bobbymoviebox
 Version: 3.2.4-1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -204,7 +204,7 @@ Author: Albasrawi
 Name: Bobby Movie Box
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 
-Package: com.Albasrawi.copysources
+Package: com.arab-cydia.copysources
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -223,7 +223,7 @@ Priority: optional
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
 
-Package: com.Albasrawi.sahra
+Package: com.arab-cydia.sahra
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -239,7 +239,7 @@ Author: Albasrawi
 Name: al-Sahra
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 
-Package: com.Albasrawi.weathervane
+Package: com.arab-cydia.weathervane
 Version: 1.1.0-1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -255,7 +255,7 @@ Author: Albasrawi
 Name: WeatherVane
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 
-Package: com.Albasrawi.appstoreplusplus
+Package: com.cokepokes.appstoreplusplus
 Version: 0.9.7
 Architecture: iphoneos-arm
 Maintainer: Albasrawi
@@ -276,7 +276,7 @@ Name: AppStore++
 Priority: optional
 dev:
 
-Package: com.Albasrawi.libcscolorpicker
+Package: com.creaturesurvive.libcscolorpicker
 Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -296,7 +296,7 @@ Pre-Depends: firmware (>= 7.0)
 Sileodepiction: https://repo.kenhtao.net/sileo-depiction/libcscolorpicker
 Tag: purpose::extension, compatible_min::iosiOS7
 
-Package: com.Albasrawi.ccolor
+Package: com.dpkg.ccolor
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -312,7 +312,7 @@ Author: Albasrawi
 Installed-Size: 240
 Name: CColor
 
-Package: com.Albasrawi.utilities
+Package: com.ericasadun.utilities
 Version: 1:0.4.2
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -329,7 +329,7 @@ Homepage: http://modmyi.com/info/ericautilities.php
 Name: Erica Utilities
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 
-Package: com.Albasrawi.powerselector11
+Package: com.ichitaso.powerselector11
 Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -351,7 +351,7 @@ Sponsor: Albasrawi <aliiosapp@gmail.com>
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 dev: ichitaso
 
-Package: com.Albasrawi.safeccmodules
+Package: com.jailbreak365.safeccmodules
 Version: 1.4-3
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -369,7 +369,7 @@ Name: CCModules
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 dev: jailbreak365
 
-Package: com.Albasrawi.mimport
+Package: com.julioverne.mimport
 Version: 0.0~beta34a
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -385,7 +385,7 @@ Author: Albasrawi
 Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
 Name: MImport Albasrawi
 
-Package: com.Albasrawi.pimport
+Package: com.julioverne.pimport
 Version: 0.0~beta3b
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -401,7 +401,7 @@ Author: Albasrawi
 Icon: file:///Library/PreferenceBundles/PImport.bundle/icon@2x.png
 Name: PImport Albasrawi
 
-Package: com.Albasrawi.ccsupport
+Package: com.opa334.ccsupport
 Version: 1.2-3
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -423,7 +423,7 @@ Sponsor: Albasrawi <aliiosapp@gmail.com>
 Tag: purpose::extension, compatible::ios11, compatible::ios12
 dev: opa334
 
-Package: com.Albasrawi.safariplus
+Package: com.opa334.safariplus
 Version: 1.7.5-3
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -443,7 +443,7 @@ Sponsor: Albasrawi <aliiosapp@gmail.com>
 Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 dev: opa334
 
-Package: com.Albasrawi.snowboard
+Package: com.spark.snowboard
 Version: 1.1.7
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -464,7 +464,7 @@ Name: SnowBoard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Tag: compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 
-Package: com.Albasrawi.floatydock
+Package: com.synnyg.floatydock
 Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -484,7 +484,7 @@ Sponsor: Albasrawi <aliiosapp@gmail.com>
 Tag: purpose::uikit, compatible::ios11, compatible::ios12
 dev: synnyg
 
-Package: com.Albasrawi.eztweaklist
+Package: com.thecomputerwhisperer.eztweaklist
 Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -502,7 +502,7 @@ Installed-Size: 140
 Name: EZTweakList
 Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
 
-Package: com.Albasrawi.filza
+Package: com.tigisoftware.filza
 Version: 3.7.0-18
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -519,7 +519,7 @@ Author: Albasrawi
 Installed-Size: 29668
 Name: Filza File Manager
 
-Package: com.Albasrawi.jerem10.nrc
+Package: com.yourepo.jerem10.nrc
 Version: 0.0.5
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -539,7 +539,7 @@ Sponsor: Albasrawi <aliiosapp@gmail.com>
 Tag: compatible::ios11
 dev: Ali
 
-Package: cydia.Albasrawi.icleanerpro10
+Package: cydia.kiiimo.org.icleanerpro10
 Version: 7.7.5k
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -558,7 +558,7 @@ Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro Cracked
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 
-Package: me.Albasrawi.translomatic
+Package: me.pulandres.translomatic
 Version: 1.2.10
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -575,7 +575,7 @@ Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
 Installed-Size: 976
 Name: Translomatic (arm64) Cracked
 
-Package: org.Albasrawi.phonecaller2
+Package: org.cydia.kiimo.phonecaller2
 Version: 2.0.1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -591,7 +591,7 @@ Installed-Size: 2524
 Name: PhoneCaller2
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 
-Package: ru.Albasrawi.adblockplus
+Package: ru.rejail.adblockplus
 Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -607,7 +607,7 @@ Installed-Size: 264
 Name: AdBlock ++
 Priority: optional
 
-Package: ru.Albasrawi.bioprotectxs
+Package: ru.rejail.bioprotectxs
 Version: 4.0-69
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -625,7 +625,7 @@ Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
 Installed-Size: 1348
 Name: BioProtect XS (iOS 12) Rus
 
-Package: ru.Albasrawi.cacheclearer
+Package: ru.rejail.cacheclearer
 Version: 0.1a
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -641,7 +641,7 @@ Author: Albasrawi <aliiosapp@gmail.com>
 Installed-Size: 72
 Name: CacheClearer
 
-Package: ru.Albasrawi.photomanager12
+Package: ru.rejail.photomanager12
 Version: 1.0.7-1+debug
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -657,7 +657,7 @@ Author: Frozen Penguin
 Installed-Size: 1448
 Name: PhotoManager (iOS 12) Rus
 
-Package: co.Albasrawi.nosubstitute
+Package: co.vexation.nosubstitute
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -678,7 +678,7 @@ Sponsor: Albasrawi <aliiosapp@gmail.com>
 Tag: purpose::extension, compatible::ios11
 dev: Albasrawi
 
-Package: com.Albasrawi.lpp
+Package: com.pulandres.lpp
 Version: 1.6.7
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -695,7 +695,7 @@ Author: Albasrawi
 Installed-Size: 42504
 Name: LockPlus Pro Cracked
 
-Package: ru.Albasrawi.libertylite
+Package: ru.rejail.libertylite
 Version: 0.2.10
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -713,7 +713,7 @@ Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
 Installed-Size: 476
 Name: Liberty Lite
 
-Package: com.Albasrawi.apptools
+Package: com.flex2areo.apptools
 Version: 1.6.0
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -733,7 +733,7 @@ Sponsor: Albasrawi <aliiosapp@gmail.com>
 Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
 dev: areo
 
-Package: it.Albasrawi.ft
+Package: it.dreamcode.ft
 Version: 0.0.6b2
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -754,7 +754,7 @@ Sponsor: Albasrawi <aliiosapp@gmail.com>
 Tag: purpose::extension, compatible::ios10, compatible::ios11
 dev: dreamcode
 
-Package: net.Albasrawi.midevice
+Package: net.dodgraphics.midevice
 Version: 1.0.0-3
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -770,7 +770,7 @@ Author: Albasrawi
 Installed-Size: 688
 Name: MiDevice
 
-Package: net.Albasrawi.audioexplorerplus
+Package: net.erike.audioexplorerplus
 Version: 2.7.1-2
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -790,7 +790,7 @@ Sponsor: Albasrawi
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
 dev: Ali
 
-Package: Albasrawi.appsyncunified
+Package: sileoturkiye.appsyncunified
 Version: 41.1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -808,7 +808,7 @@ Author: Albasrawi
 Name: AppSync Unified
 Provides: appsync
 
-Package: com.Albasrawi.angelblack
+Package: com.arab-cydia.angelblack
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -823,7 +823,7 @@ Author: Albasrawi
 Name: Angel Black
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 
-Package: com.Albasrawi.libnotifications
+Package: com.cokepokes.libnotifications
 Version: 0.2-2
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -843,7 +843,7 @@ Sponsor: Albasrawi <aliiosapp@gmail.com>
 Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 dev: Ali
 
-Package: com.Albasrawi.browserdefault
+Package: com.lpane.browserdefault
 Version: 1.9.7
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -859,7 +859,7 @@ Author: Albasrawi
 Installed-Size: 884
 Name: BrowserDefault
 
-Package: com.Albasrawi.cr4shed
+Package: com.muirey03.cr4shed
 Version: 3.0.1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -875,7 +875,7 @@ Author: Albasrawi
 Installed-Size: 536
 Name: Cr4shed
 
-Package: com.Albasrawi.nicenotes
+Package: com.muirey03.nicenotes
 Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -891,13 +891,13 @@ Author: Albasrawi
 Installed-Size: 327
 Name: NiceNotes
 
-Package: com.Albasrawi.boxy3
+Package: com.pulandres.boxy3
 Version: 3.6.2
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
 Depends: mobilesubstrate, preferenceloader, com.chpwn.iconsupport
 Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders
-Filename: ./debs/com.pulandres.boxy3_3.6.2.deb
+Filename: ./debs/com.Albasrawi.boxy3_3.6.2.deb
 Size: 2798974
 MD5sum: 7a22fe5792844889c0ee6939f70026de
 SHA1: f5cc8212fc15fcf19992754a9d1f8e8da95143b0
@@ -906,9 +906,9 @@ Section: Tweaks
 Description: Modify your icons أداة للتحكم بالايقونات وطريقة عرضها
 Author: Albasrawi
 Installed-Size: 3528
-Name: Boxy 3 (iOS 11 - 12) R
+Name: Boxy3
 
-Package: com.Albasrawi.actionbar
+Package: com.restiveconch.actionbar
 Version: 1.3.7
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -924,7 +924,7 @@ Author: Albasrawi
 Installed-Size: 416
 Name: ActionBar
 
-Package: me.Albasrawi.azinstaller
+Package: me.a1iraqi.azinstaller
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -939,7 +939,7 @@ Author: Albasrawi
 Icon: https://1.top4top.net/p_1359v7toi0.png
 Name: AZinstaller
 
-Package: ru.Albasrawi.colorbanners2
+Package: ru.rejail.colorbanners2
 Version: 1.2.4
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -958,7 +958,7 @@ Icon: file:///Library/PreferenceBundles/ColorBanners2Prefs.bundle/ColorBanners@3
 Installed-Size: 1268
 Name: ColorBanners 2 Rus
 
-Package: ru.Albasrawi.copypasta
+Package: ru.rejail.copypasta
 Version: 0.1.4
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -972,25 +972,9 @@ Section: Tweaks
 Description: أداة مفيدة لحفظ النصوص المنسوخة والرجوع اليها في اي وقت مع عمل اختصار في الكيبورد للصق  والنسخ
 Author: Albasrawi
 Installed-Size: 376
-Name: Copypasta Rus
+Name: Copypasta BY ALI
 
-Package: ru.Albasrawi.cydown
-Version: 7.0.0
-Architecture: iphoneos-arm
-Maintainer: Albasrawi <aliiosapp@gmail.com>
-Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Filename: ./debs/ru.rejail.cydown_7.0.0.deb
-Size: 2117920
-MD5sum: 44e54432342ccd0be72067f25da54661
-SHA1: 6b3effb77f1048f20847063007a2a99fea592687
-SHA256: a6f20e02201d360e94006927af3049172522bac2267afb9224697e6c34527905
-Section: Tweaks
-Description: الأداة الرهيبة لتثبيت الادوات المدفوعة مجانا مع وظائف اضافية  مفيدة
-Author: Albasrawi
-Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
-Name: CyDown
-
-Package: Albasrawi.carplay
+Package: sileoturkiye.carplay
 Version: 1.0.9k
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -1004,9 +988,9 @@ SHA256: 86bcc5b0c3ed7e33c40a1ebe22fe9eafabd16fbf945a701064f6024bca743224
 Section: Tweaks
 Description: تشغيل أي تطبيق في جهازك على شاشة CarPlay.
 Author: Albasrawi
-Name: CarBridge IQ
+Name: CarBridge BY ALI
 
-Package: ru.Albasrawi.snapper2
+Package: ru.rejail.snapper2
 Version: 2.2.1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -1023,7 +1007,7 @@ Author: Albasrawi
 Installed-Size: 1464
 Name: Snapper 2 IQ
 
-Package: com.Albasrawi.flipswitch
+Package: com.a3tweaks.flipswitch
 Version: 1.0.15
 Architecture: iphoneos-arm
 Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.5) | firmware (<< 7.0)
@@ -1044,7 +1028,7 @@ Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.ni
 Tag: purpose::extension, role::developer
 dev: Ali
 
-Package: com.Albasrawi.spaces
+Package: com.arab-cydia.spaces
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -1059,7 +1043,7 @@ Author: Albasrawi
 Name: Spaces
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 
-Package: com.Albasrawi.veno
+Package: com.arab-cydia.veno
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -1074,7 +1058,7 @@ Author: Albasrawi
 Name: Veno
 Sponsor: Albasrawi <aliiosapp@gmail.com>
 
-Package: com.Albasrawi.cosette
+Package: com.ikilledappl3.cosette
 Version: 1.0.2-1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -1091,7 +1075,7 @@ Author: Albasrawi
 Installed-Size: 1020
 Name: Cosette
 
-Package: com.Albasrawi.ccmodulespro
+Package: com.jailbreak365.ccmodulespro
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -1107,7 +1091,7 @@ Author: Albasrawi <aliiosapp@gmail.com>
 Installed-Size: 1484
 Name: CCModules Pro
 
-Package: com.Albasrawi.lotus
+Package: com.macciti.lotus
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -1123,7 +1107,7 @@ Author: Albasrawi <aliiosapp@gmail.com>
 Name: Lotus
 Sponsor: Albasrawi
 
-Package: com.Albasrawi.siliqua2
+Package: com.pulandres.siliqua2
 Version: 2.3.3
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -1140,7 +1124,7 @@ Installed-Size: 324
 Name: Siliqua 2
 
 
-Package: com.Albasrawi.sideloadmanager
+Package: com.rowl.sideloadmanager
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -1155,7 +1139,7 @@ Author: Albasrawi
 Installed-Size: 912
 Name: Sideload Manager
 
-Package: com.Albasrawi.successionrestore
+Package: com.samgisaninja.successionrestore
 Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -1176,7 +1160,7 @@ Sponsor: Albasrawi
 Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 dev: stgardner4
 
-Package: com.Albasrawi.libsparkapplist
+Package: com.spark.libsparkapplist
 Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -1191,7 +1175,7 @@ Author: Albasrawi
 Installed-Size: 596
 Name: libSparkAppList
 
-Package: com.Albasrawi.snowboard
+Package: com.spark.snowboard
 Version: 1.2.22~Beta1
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -1210,7 +1194,7 @@ Installed-Size: 3056
 Name: SnowBoard
 Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 
-Package: com.Albasrawi.elasticfolders
+Package: com.withertech.elasticfolders
 Version: 0.0.4-2
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -1225,7 +1209,7 @@ Description: Nice smooth customizable elastic Folder icons and background animat
 Author: Albasrawi
 Name: Elastic Folder Animations
 
-Package: com.Albasrawi.filzatm
+Package: com.withertech.filzatm
 Version: 0.0.5
 Architecture: iphoneos-arm
 Maintainer: Albasrawi <aliiosapp@gmail.com>
@@ -1322,7 +1306,131 @@ MD5sum: e80aa36c982988bd06bfb7c010d08b83
 SHA1: 331dba78f199bcf988b6d43c01544615e0c5c648
 SHA256: 5fc211342035b3d58a0a0a8e0afe36f003bfbef292f40c381adbdc8da02c4891
 Section: System
-Description: أداة للتحكم  بشبكة الوايفاي والمتصلين معك على نفس الشبكة وامكانية عمل حظر لهم 
+Description: أداة للتحكم  بشبكة الوايفاي والمتصلين معك على نفس الشبكة وامكانية عمل حظر لهم
 Author: Albasrawi
 Installed-Size: 12848
 Name: Harpy
+
+Package: com.nalticed.clearallmesg
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs/com.albasrawi.clearallmesg_0.1.2.deb
+Size: 3646
+MD5sum: 6a73527541af5b67c2a49177dc0d023c
+SHA1: 9e7add93f325a0bf957544a07bb34ba18b1bab73
+SHA256: bd2932d089f2f7b94d3ef311c3118905a20adb7d0e0ac340b0d662d82fcc8559
+Section: Tweaks
+Description: delete all message in one tap أداة لحذف الرسائل من تطبيق الرسائل دفعة واحدة
+Author: Ali Albasrawi
+Installed-Size: 104
+Name: clearallmesg
+
+Package: com.cc.animatedweatherwidget
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, com.bingner.plutil, system-cmds
+Filename: ./debs/com.cc.animatedweatherwidget_1.5.deb
+Size: 13512
+MD5sum: 6c0b573672a6bfc1c5da214d0208d7e0
+SHA1: 3883a771984294def22e2bf313dcd16336c816e6
+SHA256: d72989050c1a8f87dc5405e5351e80162d5595ea5d15d22c08a1d84411eb091b
+Section: Tweaks
+Description: Animated weather in weather widget.
+Author: Ali Albasrawi
+Icon: https://i.imgur.com/PS2gtav.png
+Installed-Size: 328
+Name: AnimatedWeatherWidget
+
+Package: sileoturkiye.cydown
+Version: 7.0.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cydown
+Filename: ./debs/sileoturkiye.cydown_7.0.1.deb
+Size: 3549680
+MD5sum: 4f1f28692ff13f21f9b01d7d6e9f0838
+SHA1: 44baba65443588b58d6245dd03c674e5a6cd0f7c
+SHA256: cb10b6464b894918b6903064b4ef4bb6bdce14344874af6d3ced11dc7351af2f
+Section: Tweaks
+Description:  الأداة الرهيبة لتثبيت الادوات المدفوعة مجانا مع وظائف اضافية  مفيدة
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Author: Ali Albasrawi
+Name: CyDown
+
+Package: com.abcydia.netcontrol
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: ./debs/com.abcydia.netcontrol_1.0.0-1.deb
+Size: 238040
+MD5sum: 3a30748b0fb2fa26967d94fb8d781fb1
+SHA1: 9f66038e1f6f2b0d4678528c5ca012b80c82ba00
+SHA256: 16b99b213edfc0c11588f3ce0aa422ffe9269c4d95127e427ad3a4cf0fa31768
+Section: Tweaks
+Description: 设置 App WiFi接入限制 Customize Cellular Data WiFi Networking Privileges
+Author: WZteam <admin@abcydia.com>
+Icon: file:///Library/PreferenceBundles/NetControl.bundle/abcydia@2x.png
+Installed-Size: 1415
+Name: NetControl ALI
+Priority: optional
+Sponsor: Albasrawi <aliiosapp@gmail.com>
+Tag: purpose::extension, compatible::ios12
+dev: abcydia
+
+Package: com.downloadbar.downloadbar
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate
+Filename: ./debs/com.downloadbar.downloadbar_1.0.0.deb
+Size: 12652
+MD5sum: 67e6def5322c1ef3f235b7fadade2716
+SHA1: 65eb473a1a00843a14170003997f5bafbb998a43
+SHA256: ec505bd1737cd574fa4f2e6fdddb7b5444c21e4d64fb531500b6f383d0dc87c8
+Section: Tweaks
+Description: Spice up the app download process with a nice progress bar and percentage indicator
+Author: qwertyuiop1379
+Name: DownloadBar
+
+Package: com.matchstic.xenhtml
+Version: 1.0.1~release
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Filename: ./debs/com.matchstic.xenhtml_1.0.1_release.deb
+Size: 1528714
+MD5sum: 2a13bff5c06748584e7645ac6c66c3cc
+SHA1: 0d1f912c9f74cf980321c23e38a99c0382d2cd61
+SHA256: 6437b6553e30c1ee14035b75d319883655886487092a61b4bc459334a6f96931
+Section: System
+Description: Unified HTML rendering; lockscreen and homescreen
+Author: Albasrawi <aliiosapp@gmail.com>
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Name: Xen HTML
+Priority: optional
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+dev: Albasrawi <aliiosapp@gmail.com>
+
+Package: com.muirey03.flow
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1) | firmware (<< 12.0), ws.hbang.common (>= 1.11)
+Conflicts: me.nepeta.nereid, ch.mdaus.sylph, org.s1ris.spinxi
+Filename: ./debs/com.muirey03.flow_1.0.1.deb
+Size: 154556
+MD5sum: 6d8470eeb9921464c948562c3175157b
+SHA1: 3bb4ffbf6bbfc646da01420def9dc7a884dbc41e
+SHA256: 60c9a289eeb24d0a768060f6d1edfe5f2e4c8da17e8ca07fc6e0cc2190505c6b
+Section: Tweaks
+Description: Cover Flow like never before!
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/Flow.bundle/Icon-Large.png
+Installed-Size: 968
+Name: Flow
+
