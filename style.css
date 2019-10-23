@@ -77,7 +77,7 @@ header .btn{
 .btn-outline:active,
 .btn-outline.active {
     color: black;
-    background:#f0e188;
+    background:#ffd381;
     border: solid 2.5px red;
 }
 
