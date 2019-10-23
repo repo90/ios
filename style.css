@@ -40,8 +40,8 @@ header .repo {
     }
 
     header .repo {
-        padding-top:20px;
-        font-size: 3.4em;
+        padding-top:30px;
+        font-size: 3.9em;
     }
 
     header .donation {
@@ -76,7 +76,7 @@ header .btn{
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    color: white;
+    color: black;
     background:#a3c1d5;
     border: solid 1.5px white;
 }
