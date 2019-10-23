@@ -10,7 +10,7 @@ body {
 header {
     text-align: center;
     background: none;
-    color: #eeeeee;
+    color: #e9be94;
 }
  background-url(212.jpg)
     background-size: cover;
@@ -86,7 +86,7 @@ header .btn{
 .btn-outline.active {
     color: white;
     background:#64260c;
-    border: solid 1.5px white;
+    border: solid 1.8px red;
 }
 
 
