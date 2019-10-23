@@ -11,7 +11,7 @@ header {
     text-align: center;
     background: none;
     color: #e9be94;
-    box-shadow: +3px 4px black;
+    
 }
  background-url(212.jpg)
     background-size: cover;
@@ -79,7 +79,6 @@ header .btn{
     background: transparent;
     transition: all 0.3s ease-in-out;
     margin-top: 15px;
-    box-shadow: +3px 3px black;
 }
 
 .btn-outline:hover,
