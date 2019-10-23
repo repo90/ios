@@ -63,3 +63,37 @@ Section: Tweaks
 Description: YouTube'den videolar ile daha fazlasını indirin!
 Name: Cercube for YouTube
 
+Package: com.matchstic.xenhtml
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox
+Filename: ./debs/com.matchstic.xenhtml_1.0.deb
+Size: 1527658
+MD5sum: 0577a30b0d856016d654e4e3d3dea2a4
+SHA1: bcabe181fccc12db927dfd6b320d2e5ef466863e
+SHA256: abda8eb774641dbc60b3e93b137855fde26680c3ea13973db3c7eedd85f431f0
+Section: System
+Description: Unified HTML rendering; lockscreen and homescreen
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Name: Xen HTML
+Priority: optional
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+SileoDepiction: https://xenpublic.incendo.ws/sileo/com.matchstic.xenhtml.json
+
+Package: sileoturkiye.cydown
+Version: 7.0.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cydown
+Filename: ./debs/sileoturkiye.cydown_7.0.1.deb
+Size: 3549680
+MD5sum: 4f1f28692ff13f21f9b01d7d6e9f0838
+SHA1: 44baba65443588b58d6245dd03c674e5a6cd0f7c
+SHA256: cb10b6464b894918b6903064b4ef4bb6bdce14344874af6d3ced11dc7351af2f
+Section: Tweaks
+Description: Cydia İndirme Yöneticisi ve Ekstra Özellikler!
+Author: Julioverne
+Name: CyDown 
