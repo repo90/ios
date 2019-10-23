@@ -11,6 +11,7 @@ header {
     text-align: center;
     background: none;
     color: #e9be94;
+    box-shadow: +3px 4px black;
 }
  background-url(212.jpg)
     background-size: cover;
