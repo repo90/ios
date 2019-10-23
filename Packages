@@ -1,17 +1,65 @@
-Package: com.shiarahmed.snapchat
-Version: 1.0
+Package: com.arab-crack.icone
+Version: 2.3
 Architecture: iphoneos-arm
-Maintainer: Shiar Ahmed
-Depends: mobilesubstrate
-Filename: ./debs/com.shiarahmed.snapchat_1.0_iphoneos-arm.deb
-Size: 6492
-MD5sum: d27915bc453a46d5797d64c1b532c54d
-SHA1: a9b44f076c259c050b48e5c6fc6dc01b623956d3
-SHA256: 1d36acc67cad7aff0dc43d3743baad0091062d5a7c91f9b4a94554941cd02f6f
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Shiar Ahmed
-Depiction: https://shiarahmed.github.io/test/depictions/?p=test
-Installed-Size: 84
-Name: Snapchat
-SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/snapchat.json
+Maintainer: Arab-Crack
+Filename: ./debs/com.arab-crack.icone_2.3_iphoneos-arm.deb
+Size: 3798
+MD5sum: f0a7df76c93822b38ad956345eeed615
+SHA1: 8aaaebb84d99dfb85ab850da38fce96b7e04a52d
+SHA256: 649751017789f676a0b5031c4f500795cd3bdccdef7e3a2bc9ad783cf56af54b
+Section: System
+Description: Officials Arab-Crack Icons
+Author: Arab-Crack
+Depiction: https://crack-arab.com/cydia/pack/icone
+Essential: yes
+Name: Arab-Crack Icons
+
+Package: com.arab-crack.mediabox
+Version: 2.4.8
+Architecture: iphoneos-arm
+Maintainer: Arab-Crack
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.pixel.mediabox
+Filename: ./debs/com.arab-crack.mediabox_2.4.8.deb
+Size: 319188
+MD5sum: ff222a0d18f3930ea936b8222312a48d
+SHA1: eaf87732f144885cff23e7721b75ee514e18776e
+SHA256: 42c18344e72589f015fad5daa2f210114e27bd3cf3bac1a5af0f050411f1e7aa
+Section: System
+Description: NO ADS , download here [ http://tiny.cc/MediaBox248 ]
+Author: DangerousPixel
+Depiction: https://crack-arab.com/cydia/pack/mediabox
+Icon: https://i.ibb.co/z63zcRj/input-onlinepngtools.jpg
+Name: MediaBoxPlus
+
+Package: com.arab-cydia.AppCake6
+Version: 6.0.8-1
+Architecture: iphoneos-arm
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Depends: appsync
+Filename: ./debs/com.arab-cydia.appcake6_6.0.8-1.deb
+Size: 20101252
+MD5sum: 82bc06b8bd524ea08e5b35f13da09806
+SHA1: 6021474d87c56a7d703fd35e415452eb681dcbae
+SHA256: 2fec063c22673ae9d50792d90e341b4f1cce0dfd530bae256fdb69e4d7731ab4
+Section: Supports IOS12.x
+Description: لتحميل التطبيقات المدفوعة والمكررة والالعاب مجاناً .
+Author: hotsjf
+Icon: file:///Applications/AppCake.app/icon57x57.png
+Name: AppCake
+Pre-Depends: firmware (>= 10.0)
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+
+Package: sileoturkiye.cercube
+Version: 5.1.0k
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.7~beta3), sileoturkiye.adblockplus
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, sileoturkiye.youtubetools, com.justinpetkovic.youtubetools
+Filename: ./debs/sileoturkiye.cercube_5.1.0k.deb
+Size: 14561848
+MD5sum: ada3381ca9c9ef5f5abdfe5fc39dcde3
+SHA1: a1987d5ad55f464fb4be22b25caf08f7e27e92a5
+SHA256: 3c7a3cb1f85359c0a3076d10ec6cab4a793f746a7efc7b9fc9ab720ed706739a
+Description: YouTube'den videolar ile daha fazlasını indirin!
+Name: Cercube for YouTube
+
