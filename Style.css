@@ -6,14 +6,16 @@ body {
     font-family: 'Aref Ruqaa',  sans-serif;
     overflow-x: hidden;
 }
- background-url(212.jpg)
-    background-size: cover;
-    
+
 header {
     text-align: center;
     background: none;
-    color: #fffafa;
+    color: #f4d7c3;
 }
+ background-url(212.jpg)
+    background-size: cover;
+
+
 
 header .intromsg {
     padding-top: 30px;
