@@ -97,3 +97,23 @@ Section: Tweaks
 Description: Cydia İndirme Yöneticisi ve Ekstra Özellikler!
 Author: Julioverne
 Name: CyDown 
+
+Package: com.spark.snowboard
+Version: 1.2.16~Beta1
+Architecture: iphoneos-arm
+Maintainer: Ali
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.spark.snowboard_1.2.16_Beta1.deb
+Size: 753312
+MD5sum: b6ed459bca99e948030e83c494c6ca0e
+SHA1: aa686fd8abad0ce4744de8534b980887f64d568b
+SHA256: fce0ccc3ca01ad8f43dd3572a23afdeb3fc6226d0e22abbb7060e4ad49c87bbe
+Section: Tweaks
+Description: Snowboard theming engine
+Author: Albasrawi
+Installed-Size: 3024
+Name: SnowBoard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+
