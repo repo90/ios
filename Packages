@@ -513,7 +513,7 @@ Size: 20101252
 MD5sum: 82bc06b8bd524ea08e5b35f13da09806
 SHA1: 6021474d87c56a7d703fd35e415452eb681dcbae
 SHA256: 2fec063c22673ae9d50792d90e341b4f1cce0dfd530bae256fdb69e4d7731ab4
-Section: Supports IOS12.x
+Section: Supports
 Description: لتحميل التطبيقات المدفوعة والمكررة والالعاب مجاناً .
 Author: Albasrawi
 Icon: file:///Applications/AppCake.app/icon57x57.png
@@ -883,3 +883,21 @@ Section: Tweaks
 Description: عرض شاشة الايفون على شاشة السيارة عبر carplay.
 Author: Albasrawi
 Name: CarBridge Ali
+
+Package: com.arab-cydia.reprovision
+Version: 0.4.2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer
+Filename: ./debs/com.arab-cydia.reprovision_0.4.2_iphoneos-arm.deb
+Size: 10573790
+MD5sum: 590c3005c34ebc87aa6e8c4ad872b8f3
+SHA1: e49694a9a846e5c36683930388a671fdf5c0e545
+SHA256: 9acdef597cba51ee36a27ee53ddbed836ae5dfa0e7d7ea679bca59e322d84f9e
+Section: System
+Description: تجديد شهادة التطبيقات المثبته لديك بشكل تلقائي اسبوعياً بدون الحاجة الى كمبيوتر
+Author: Albasrawi
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Name: ReProvision Ali
+Priority: optional
