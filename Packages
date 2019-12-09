@@ -414,3 +414,19 @@ Description: أداة لتهكير الموارد لبعض الالعاب
 Author: Albasrawi
 Installed-Size: 235
 Name: LocalIAPStore Ali
+
+Package: com.Ounikarim.Bionic
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 7.0), com.anemonetheming.anemone
+Filename: ./debs/com.ounikarim.bionic_1.7.1_iphoneos-arm.deb
+Size: 62986836
+MD5sum: f69bc55565d784e9afc3c257adf5acdb
+SHA1: 4b748ada48087b0be6092c7f7434c984b987bb78
+SHA256: cae6facb6e5c8583ab4226dd6c8621290dc726817a50b5a5598012a12e8efaf7
+Section: Themes
+Description: ثيم جميل
+Author: Albasrawi
+Icon: file:///Library/Themes/Bionic - Icons.theme/Icon.png
+Name: Bionic Ali
