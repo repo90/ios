@@ -13,7 +13,7 @@ Section: Tweaks
 Description: Colorize your Control Center
 Author: Ali
 Installed-Size: 440
-Name: Magma Pro Ali 
+Name: Magma Pro Ali
 
 Package: com.atwiiks.conditionalwifi4
 Version: 1.0.0
@@ -178,3 +178,100 @@ Description: The all-in-one tweak for WhatsApp Messenger
 Author: Albasrawi
 Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
 Name: Watusi 2 for WhatsApp Cracked Ali
+
+Package: ru.rejail.midevice
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker, applist
+Filename: ./debs/ru.rejail.midevice_2.0.0-1_iphoneos-arm.deb
+Size: 201298
+MD5sum: 9b9e9d565bc42865522f534c4bbb2a6c
+SHA1: c51afc91451224aa966d899ec070f5b7142029af
+SHA256: 647a2b9800a94e480c4fea332398b95fe374078b120c184d357b4f32e485617e
+Section: Tweaks
+Description: أداة لتعديل على الجهاز وترتيب الأيقونات وخصائص اخرى
+Author: Albasrawi
+Installed-Size: 748
+Name: MiDevice Ali
+
+Package: ru.rejail.photomanager12
+Version: 1.0.7-1+debug
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Filename: ./debs/ru.rejail.photomanager12_1.0.7-1+debug_iphoneos-arm.deb
+Size: 250426
+MD5sum: b47c9b5e61c11f41e7e12dabbe893090
+SHA1: cedd52f337d2d0c7e31244e26a1e8dfce46773a8
+SHA256: 2f201e2f51e4731b186e89f6d1ae73432a5324658745707e65d8c33070d8153a
+Section: Tweaks
+Description: أداة رائعة لأضافة بعض الخصائص مثل قفل الصور وغيرها
+Author: Albasrawi
+Installed-Size: 1383
+Name: PhotoManager (iOS 12) Ali
+
+Package: sileoturkiye.appstoreplusplus
+Version: 0.9.7
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces: com.cokepokes.appstoreplusplus
+Filename: ./debs/sileoturkiye.appstoreplusplus_0.9.7_iphoneos-arm.deb
+Size: 1316606
+MD5sum: b708a43b83d55d6cb9e3c8b0506584c1
+SHA1: d402ad64013b247ccf15c33aba56f403f41041d4
+SHA256: b2b2f63bf127f274656f02b24765e74674139492117a3109606f324bcf386d02
+Section: Tweaks
+Description: أداة مهمة ومفيدة لأرجاع نسخ التطبيقات الى نسخة قديمة
+Author: CokePokes
+Name: AppStore++ Ali
+Priority: optional
+
+Package: sileoturkiye.appsyncunified
+Version: 66.0
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 5.0), firmware (<= 13.3.1), mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Filename: ./debs/sileoturkiye.appsyncunified_66.0_iphoneos-arm.deb
+Size: 48066
+MD5sum: 1b36004980e92f05e140501ad3801f2c
+SHA1: 7c5a7dc1fbb63aefad1c8d52a6e1c91bb1e9980c
+SHA256: b4eb199ba97f87232a4907b7284db21e6dac871801f7eed5d101f084859d7e39
+Section: System
+Description: أداة لتثبيت التطبيقات من خارج متجر أبل
+Author: Albasrawi
+Name: AppSync Unified Ali
+Provides: appsync
+
+Package: sileoturkiye.bioprotectxs
+Version: 4.3-22k
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Filename: ./debs/sileoturkiye.bioprotectxs_4.3-22k_iphoneos-arm.deb
+Size: 774426
+MD5sum: 40b46573ab10be7976b01ce8082691be
+SHA1: 7e8fb1f947b952eb3fbc1d4ee018871c15be2994
+SHA256: 93500c54c0156c9359eb7378bed44fac46271f13ec8d74434e27a6139a1c6743
+Section: Tweaks
+Description: أداة لقفل التطبيقات والملفات والاعدادات بالبصمة
+Author: Elias Limneos
+Name: BioProtect XS Ali
+
+Package: sileoturkiye.cercube
+Version: 5.1.2k
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack, me.alfhaily.cercube, sileoturkiye.adblockplus, sileoturkiye.youtubetools, com.justinpetkovic.youtubetools
+Filename: ./debs/sileoturkiye.cercube_5.1.2k_iphoneos-arm.deb
+Size: 14606906
+MD5sum: b2b62310c5b5f41a7849d631d73dae93
+SHA1: 2ceed2a6f3b5a6a7473087bbd205892237d4ce42
+SHA256: ca2ad9b7c13ba28292e6e1cfb88941f3ffa7e3b016f11a840b38189f4a3ffa88
+Description: ألاداة المفضلة لدى اغلب الناس لاضافة خصائص لتطبيق يوتيوب ومنها التحميل و غيرها
+Name: Cercube for YouTube Ali
