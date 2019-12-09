@@ -263,3 +263,154 @@ Description: أداة لقفل التطبيقات والملفات والاعد�
 Author: Elias Limneos
 Name: BioProtect XS Ali
 
+Package: ru.rejail.bohemic
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/ru.rejail.bohemic_1.1.4_iphoneos-arm.deb
+Size: 36739900
+MD5sum: 40cfe19bd93886147ef71f20a00d9566
+SHA1: 42a5dce7bb7ddb5c70e96143804aa0f49279fc4a
+SHA256: 6ef66429264e355faab7ffadebe02b1e830e890e0b5feb0ce47820a644cbd805
+Section: Themes
+Description: Themes Bohemic. ثيم رائع
+Author: Ali Albasrawi
+Installed-Size: 42779
+Name: Bohemic Ali
+
+Package: ru.rejail.bubbles
+Version: 0.3.0b
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Conflicts: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
+Replaces: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
+Filename: ./debs/ru.rejail.bubbles_0.3.0b_iphoneos-arm.deb
+Size: 66934
+MD5sum: 35f8748f6badb5d3b78ba1864cc33cec
+SHA1: 83fbcd6ce1e4ffcf6428bb08db1a571bc5e97184
+SHA256: 296f522b7caa3e55af8b871888a5ee4ff415a8d4a216c4e887047fc3fa88dd91
+Section: Tweaks
+Description: أظهار الدردشات في تطبيق الرسائل بشكل جميل مع امكانية التخصيص
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://rejail.ru/depiction.php?file=bubbles
+Icon: file:///Library/PreferenceBundles/bubbles.bundle/SettingsIcon@2x
+Installed-Size: 316
+Name: bubbles Ali
+Priority: optional
+
+Package: ru.rejail.cacheclearer
+Version: 0.1a
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001)
+Filename: ./debs/ru.rejail.cacheclearer_0.1a_iphoneos-arm.deb
+Size: 6650
+MD5sum: b2d079d145dd20f805bd6c07bcba6101
+SHA1: a0a328c1c82a79232b048b94b82026fab9002bdd
+SHA256: cd54581c6c112ab88c5c67b22dfdc08d2ad0b532bafe74e15879f1c3844bc26c
+Section: Tweaks
+Description: أداة لازالة ملفات الكاش لأي تطبيق من الاعدادات و أستعادة ضبط التطبيق لتوفير مساحة التخزين
+Author: Albasrawi
+Installed-Size: 114
+Name: CacheClearer Ali
+
+Package: ru.rejail.copypasta
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debs/ru.rejail.copypasta_0.1.4_iphoneos-arm.deb
+Size: 56304
+MD5sum: eee5dfbfbd2f71cfe5609c3e74b6adeb
+SHA1: 7cb7b7bc4145f19b7a08d32a31e94362fc75a90f
+SHA256: 24f358bd81eb4f5ec5ffbd9c178a4a1db161f56a8259d8cb9f83380fd8aa202e
+Section: Tweaks
+Description: أداة حفظ النصوص المنسوخة والرجوع اليها في اي وقت
+Author: Albasrawi
+Installed-Size: 397
+Name: Copypasta Ali
+
+Package: ru.rejail.cydown
+Version: 7.0.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Filename: ./debs/ru.rejail.cydown_7.0.1_iphoneos-arm.deb
+Size: 2091188
+MD5sum: 844c355c98212bac91aa2ecd3f4bcf5d
+SHA1: 9e2144ed59fa17e5e522dc40f003e8d5fb899830
+SHA256: 5b27ce792fee3bcd4bd12ff08f22489b5d973ea783c7a03e3f8e1ce7c6bd3831
+Section: Tweaks
+Description: ألأداة الشهيرة والمعروفة لدى الجميع لتنزيل الادوات المدفوعة والمزيد من الخصائص
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Installed-Size: 9688
+Name: CyDown Ali
+
+Package: ru.rejail.gamegem
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 8.0)
+Filename: ./debs/ru.rejail.gamegem_1.5_iphoneos-arm.deb
+Size: 2859510
+MD5sum: 3775aa3e51d3dcd36989c311210145ff
+SHA1: 610c65319d85e079e58a2a048c877c3866cba2d3
+SHA256: 405dae3bbf16c65abad7e60c03f9c7c927c1dab21f9db5f92c400d3bc275b85c
+Section: Utilities
+Description: أداة تهكير الموارد للالعاب الاوفلاين
+Author: Albasrawi
+Installed-Size: 10271
+Name: GameGem Ali
+
+Package: ru.rejail.harpy
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: network-cmds
+Filename: ./debs/ru.rejail.harpy_2.0.1_iphoneos-arm.deb
+Size: 4915088
+MD5sum: 99c6af23c4bc693b7ac2cf84bb6a19aa
+SHA1: 0739e8dc30fd1061ee7b05c471cfadc50e99aef4
+SHA256: 41d0ea9eaaf103868c62d041eb9a92bd9d82533b44206d3d9d209b05d2b22037
+Section: System
+Description: أداة التحكم بالراوتر مع امكانية قطع الاتصال عن الاجهزة
+Author: Albasrawi
+Installed-Size: 12252
+Name: Harpy Ali
+
+Package: ru.rejail.libertylite
+Version: 0.2.10
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty
+Filename: ./debs/ru.rejail.libertylite_0.2.10_iphoneos-arm.deb
+Size: 46834
+MD5sum: 47d3c447c89a5e1ce1f20a79ae44ec67
+SHA1: 3f4087f71231eb550ab4b495dc92978f91bb87fc
+SHA256: 2e175e18549bcbcd0210edac99fa9c3f9ea93085fc0bfec5598f8d586d3aadfd
+Section: Tweaks
+Description: أداة أخفاء الجيلبريك عن التطبيقات
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Installed-Size: 453
+Name: Liberty Lite Ali
+
+Package: ru.rejail.localiapstore
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: ./debs/ru.rejail.localiapstore_1.4-2_iphoneos-arm.deb
+Size: 42276
+MD5sum: d8756358b3e102653fd654b4a61c03d5
+SHA1: df8ac2176f16a6b5aa208d803a6ada427e972a0b
+SHA256: 3e2747586ef95f381993c0ef0a5bf7fff18ee51461156b180ea9628a3a2ef5c3
+Section: Tweaks
+Description: أداة لتهكير الموارد لبعض الالعاب
+Author: Albasrawi
+Installed-Size: 235
+Name: LocalIAPStore Ali
