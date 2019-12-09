@@ -13,4 +13,168 @@ Section: Tweaks
 Description: Colorize your Control Center
 Author: Ali
 Installed-Size: 440
-Name: Magma Pro BA
+Name: Magma Pro Ali 
+
+Package: com.atwiiks.conditionalwifi4
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.atwiiks.conditionalwifi4_1.0.0_iphoneos-arm.deb
+Size: 8932
+MD5sum: 275d6efa85af967a4827606f07dcff86
+SHA1: a3ac1f194a621b2f2a61c12754c2f16aa675c6c8
+SHA256: 85e86de71eb938124c0bec2de0f0897a7c3618b62f9d8e81a6dab37588e429a3
+Section: Tweaks
+Description: Restrict certain apps from accessing wifi on iOS 11
+Author: Abasrawi
+Installed-Size: 128
+Name: ConditionalWiFi4 Ali
+
+Package: com.bytafont.bytafont3
+Version: 3.6-1kk
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 11), unzip, mobilesubstrate, com.bytafont.bytafonttm
+Conflicts: com.bytafont.bytafont2, com.ipr.bytafont
+Filename: ./debs/com.bytafont.bytafont3_3.6-1kk_iphoneos-arm.deb
+Size: 1025856
+MD5sum: 91e23eef123eacbc5d43a806623abdc4
+SHA1: 7a6bec6372dab383b10a922a4b340ebf91772e0f
+SHA256: 247c562810893a71ac73dd11484b0181aef955ba741ed1a0b199f95f02ac26c7
+Section: System
+Description: أداة لتغيير خط الايفون.
+Author: BytaFont.com
+Name: BytaFont 3 Ali
+
+Package: com.bytafont.bytafonttm
+Version: 3.6
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 11), com.bytafont.bytafont3, mobilesubstrate
+Filename: ./debs/com.bytafont.bytafonttm_3.6_iphoneos-arm.deb
+Size: 8952
+MD5sum: 7cc6578a1b01cb7098a573c9825a6cb1
+SHA1: 0e37f3d6e0906abe27a7febd4ec7e58bc520ffa9
+SHA256: 8f0d17a728f6f86c88b8951aab05e32ad5f3dba360d5ffd8a257e1b32d3d5fa1
+Section: Tweaks
+Description: أداة اضافية لأداة تغيير الخط.
+Author: BytaFont.com
+Name: BytaFont Tweak Mode Ali
+
+Package: com.foxfort.translomatic
+Version: 1.2.10
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools, com.foxfort.libfoxfortutils, com.rpetrich.rocketbootstrap (>= 1.0.3)
+Filename: ./debs/com.foxfort.translomatic_1.2.10_iphoneos-arm.deb
+Size: 188122
+MD5sum: bfde60473e8cb907f10c7c0e3c9f0c5f
+SHA1: eaa5b6c165ec07676ae2a3a7bf28185bea9b196e
+SHA256: 82d6de9b2291298dbfcf5fe2c32c822bb99163b6790092b223a70ecf9c868f2f
+Section: Tweaks
+Description: Quickly translate any text. أداة ترجمة سريعة عند تحديد اي نص من المتصفح او بعض التطبيقات
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+Installed-Size: 976
+Name: Translomatic Ali
+
+Package: com.i0sa.phonecaller2
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 7.0), com.rpetrich.rocketbootstrap (>= 1.0.7~), mobilesubstrate
+Filename: ./debs/com.i0sa.phonecaller2_2.0.1_iphoneos-arm.deb
+Size: 549092
+MD5sum: e42b52cdd66f0a66a17e217f24837ec4
+SHA1: 7325ff858b86d1d968ce29aab6314eb05bf217e2
+SHA256: 0a044a79dfde1e8a208208eaa13dc28e5a0c3e91862095fa0d1146b6f60145ee
+Section: Tweaks
+Description: Find out who's calling before answering
+Author: Ali
+Installed-Size: 2524
+Name: PhoneCaller2 Ali
+
+Package: com.julioverne.mimport
+Version: 0.0~beta35
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 6.0), unzip, unrar
+Filename: ./debs/com.julioverne.mimport_0.0_beta35_iphoneos-arm.deb
+Size: 1186564
+MD5sum: 0f37d68b42ae0f36971d83c87774ab9a
+SHA1: 83b0bf5fb72dd0672d1b49e654b01561f3976c98
+SHA256: 098bfce52bd5daed645ca0810db1a8ecbcb28795c9fee9439f965692767131eb
+Section: Tweaks
+Description: Media Importer Directly From Music App
+Author: Ali
+Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
+Name: MImport Ali
+
+Package: com.julioverne.pimport
+Version: 0.0~beta4
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./debs/com.julioverne.pimport_0.0_beta4_iphoneos-arm.deb
+Size: 636356
+MD5sum: b2cb48fd8b6fd8de49efb5876784743f
+SHA1: 1e288fb30578eef902e98a1444d0262f47ef611b
+SHA256: 0af43fb58f7c7c6f6678f29317d93b4bfbe66e7f3490ad0c52b95a366a602d6e
+Section: Tweaks
+Description: Photo Importer Directly From Photo App
+Author: Ali
+Icon: file:///Library/PreferenceBundles/PImport.bundle/icon@2x.png
+Name: PImport
+
+Package: com.pulandres.onlinenotify
+Version: 3.0.4
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.rpetrich.rocketbootstrap, com.pulandres.watools  (>= 2.1.9), sedfix  (>= 7.0)
+Conflicts: com.f0u4d.onlinenotifybeta, com.f0u4d.onlinenotify2, com.imokhles.waquickreply.bb, com.pulandres.whatshack, ru.rejail.whatshack, com.hackyouriphone.whatshack
+Filename: ./debs/com.pulandres.onlinenotify_3.0.4_iphoneos-arm.deb
+Size: 656818
+MD5sum: f1e189fbd8f46a4b9acbdb29dd6eeebf
+SHA1: fc54e000ec5c8ae6601803668e3897a377c5754e
+SHA256: 8e3bd88fb3c669dcdf94005d230fa6ba0503ae243abcf4bae8b7e9179fc8834d
+Section: Tweaks
+Description: Track you friends on WhatsApp Messenger!
+Author: Ali
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Name: OnlineNotify Cracked Ali
+
+Package: com.pulandres.watools
+Version: 2.1.10
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 8.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.f0u4d.watusitools, com.pulandres.whatshack, ru.rejail.whatshack, com.hackyouriphone.whatshack, updatejeje
+Replaces: com.f0u4d.watusitools
+Filename: ./debs/com.pulandres.watools_2.1.10_iphoneos-arm.deb
+Size: 13491690
+MD5sum: 6f832624cf4c92a0975a0557b80fb88e
+SHA1: 1ba60ebc0be7cc65b02f4fa2b5ff54a3f34da14a
+SHA256: 3f4d7d3b1b6ae2653b26899a144230f94757ae06ed9f5b0b4e51aca48125b829
+Section: System
+Description: Library for Watusi and WhatsApp tweaks
+Author: Albasrawi
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Name: WatusiTools Cracked Ali
+
+Package: com.pulandres.watusi2
+Version: 1.2.22
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap, applist, com.pulandres.watools, sedfix
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, ass.kiiimo.repo2, com.pulandres.whatshack, ru.rejail.whatshack, com.hackyouriphone.whatshack
+Filename: ./debs/com.pulandres.watusi2_1.2.22_iphoneos-arm.deb
+Size: 4777528
+MD5sum: 25d56170d7c58ec4b1705a18d69be727
+SHA1: 65aaaec25141010971a62f8520d07bedb2b9c8a8
+SHA256: 1110c3f2b8166d7d750eeb0117a85857c0f8ab7535408c458e903bd24ab7dc92
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Albasrawi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp Cracked Ali
