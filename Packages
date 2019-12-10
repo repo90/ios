@@ -605,7 +605,7 @@ Size: 12120
 MD5sum: e69aba00bcff2ccb5e8a8c9875f88fce
 SHA1: 731e71d741ae67dc9f75b0dc05fa8425d3137b1b
 SHA256: ec123d6aad411e9f539c276578da70d5a94bf74dd2e2cd167d95534e764749a9
-Section: Supports
+Section: Tweaks
 Description: الوصول السريع لشبكات الواي فاي واجهزة البلوتوث عن طريق مركز التحكم بضغطه مطوله
 Author: Albasrawi
 Name: WeatherVane Ali
@@ -970,7 +970,7 @@ Section: Tweaks
 Description: A powerful terminal app for iOS
 Author: Ali
 Icon: file:///Applications/NewTerm.app/AppIcon60x60@3x.png
-Name: NewTerm 2 (iOS 10–12-13)
+Name: NewTerm 2 (iOS 10–12-13) By Ali
 
 Package: com.yourepo.mohadu31.unsub
 Version: 0.1.9
@@ -986,7 +986,7 @@ SHA256: 34a3c860b0e0ac6ef00946e22a5f2025ab60659e73a2cc3e8253801032e95c9b
 Section: Tweaks
 Description: Disable tweak injection (Substrate/Substitute) in certain apps.
 Author: Ali
-Name: UnSub
+Name: UnSub By Ali 
 
 Package: me.pulandresk.dleasy
 Version: 92.7.5-1k
