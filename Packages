@@ -918,3 +918,157 @@ Description: Track and download your contacts latest profile and statuses update
 Author: Ali Albasrawi
 Icon: https://repo.pulandres.me/CydiaIcon.png
 Name: Stalky Cracked By Albasrawi
+
+Package: com.pulandres.3dtools
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Conflicts: me.pulandres.appaze
+Filename: ./debs/com.pulandres.3dtools_1.0.4_iphoneos-arm.deb
+Size: 1193274
+MD5sum: 6367d3ec79e49f93487c1b4c0fd44582
+SHA1: dd497099d7ba059bc562cdc4d105b6769844df7f
+SHA256: e31f84d11a60e3f2482a62710be3c063c47e5fdb1c7c57bef218be8f844ac3e4
+Section: Tweaks
+Description: Add helpful tools to your 3D touch menu!
+Author: Ali
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Installed-Size: 1917
+Name: 3DTools Cracked By Ali
+
+Package: com.synnyg.floatydock
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.chpwn.iconsupport, com.muirey03.iconsupportfix | firmware (<< 13.0)
+Filename: ./debs/com.synnyg.floatydock_2.0.1_iphoneos-arm.deb
+Size: 73844
+MD5sum: 7dad40660a6b31521b75591733be7886
+SHA1: 7b17ce13c0ecdb76e821d66fbdf4ad0c13797038
+SHA256: e51828cd48b7584b3407552a8f77f0db10cbb772dca8ba07e62b5ff1ed116ffd
+Section: Tweaks
+Description: iPad dock power, for all !
+Author: Ali
+Icon: file:///Library/PreferenceBundles/FloatyDockPrefs.bundle/icon@2x.png
+Installed-Size: 421
+Name: FloatyDock
+Tag: purpose::uikit, compatible::ios11, compatible::ios12, compatible::ios13
+
+Package: com.yourepo.mohadu31.newterm2
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm
+Filename: ./debs/com.yourepo.mohadu31.newterm2_2.2.1_iphoneos-arm.deb
+Size: 843916
+MD5sum: f7c5afc7b6a2a08fcfa22c2335bcd215
+SHA1: eba920cbb3512ccd53d0d436f7659a1468e66f0c
+SHA256: 0045e216e25cf32468c172da5ca9ca9b24236838f793f341352e789e934a0d3d
+Section: Tweaks
+Description: A powerful terminal app for iOS
+Author: Ali
+Icon: file:///Applications/NewTerm.app/AppIcon60x60@3x.png
+Name: NewTerm 2 (iOS 10–12-13)
+
+Package: com.yourepo.mohadu31.unsub
+Version: 0.1.9
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
+Filename: ./debs/com.yourepo.mohadu31.unsub_0.1.9_iphoneos-arm.deb
+Size: 41226
+MD5sum: f339edad2446823095541edda0de32fa
+SHA1: 8fe3e8f67150ef8477ea2a3313fda114cb25521d
+SHA256: 34a3c860b0e0ac6ef00946e22a5f2025ab60659e73a2cc3e8253801032e95c9b
+Section: Tweaks
+Description: Disable tweak injection (Substrate/Substitute) in certain apps.
+Author: Ali
+Name: UnSub
+
+Package: me.pulandresk.dleasy
+Version: 92.7.5-1k
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.ouraigua.jodebox
+Conflicts: me.ahmedbafkir.dleasy, me.pulandres.dleasy
+Replaces: sileoturkiye.dleasy
+Filename: ./debs/me.pulandresk.dleasy_92.7.5-1k_iphoneos-arm.deb
+Size: 3066496
+MD5sum: b8ed68dc436db69a8755e0f41779125a
+SHA1: d909ffe025833dcd8a5723c710f20b536bdab9ec
+SHA256: 337e8e34c19a0c486581507d6a0afcecb4051ef65f9c5de6a92c1eb7fe510779
+Section: Tweaks
+Description: لتحميل الصور والفيديوات من تطبيقات التواصل الاجتماعي !
+Author: Ali
+Name: DLEasy Cracked By Albasrawi
+
+Package: me.tomt000.copylog
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/me.tomt000.copylog_1.2.6_iphoneos-arm.deb
+Size: 1381604
+MD5sum: e44969a8dadb88e5ee92cbc2cc6c893a
+SHA1: 8fda715fa9fa556ae632cfc353f8af4b7d69275b
+SHA256: f78a4f607a500ac9b98f3f5ea65b914e84ba3aeaf9df91d043f25e44c74be822
+Section: Tweaks
+Description: Clipboard history manager for iOS!
+Author: Ali
+Installed-Size: 3676
+Name: CopyLog
+
+Package: org.thebigboss.dismissprogress
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 3.0), cydia (>= 1.1.19)
+Filename: ./debs/org.thebigboss.dismissprogress_1.0.3_iphoneos-arm.deb
+Size: 6030
+MD5sum: 23b3321aeab6d8efddf51918b013001a
+SHA1: f810aa48be46e6e2355bf075000312c41e7b9ee3
+SHA256: c8cff6ed98b629e0ecbd4138eb57f5aeba9a974e4d4d62edb2d6d2dff8e5854c
+Section: Tweaks
+Description: Dismiss Cydia'a installation window without closing cydia.
+Author: Ali
+Installed-Size: 150
+Name: DismissProgress
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+
+Package: ru.rejail.apptools
+Version: 1.6.0k
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/ru.rejail.apptools_1.6.0k_iphoneos-arm.deb
+Size: 609370
+MD5sum: 83236acf216735ba1715b5bb5eb46618
+SHA1: 9cac33fe72397b5398938f86315f979aa62c38db
+SHA256: 7367dd52221dd7f707a13c1d45c47f63139f73fce28b8e6ff0dcae26919c0601
+Section: Tweaks
+Description: خيارات عدة تظهر عند السحب للاعلى او الاسفل مثل عرض مسار التطبيق او اعادوة تسمية او ازالة الاشعارات وغيرها
+Author: Ali
+Icon: file:///Library/PreferenceBundles/AppTools.bundle/icon@2x.png
+Installed-Size: 1999
+Name: AppTools (11-12)
+
+Package: ru.rejail.audiorecorderxs
+Version: 3.0-78
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader,firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Replaces: net.limneos.audiorecorder, net.limneos.audiorecorderx,net.limneos.audiorecorderxs
+Filename: ./debs/ru.rejail.audiorecorderxs_3.deb
+Size: 2168598
+MD5sum: fece46b4c4784b08f2562e93970c9708
+SHA1: c21e453c9654dc6dec7caf7e757cfd7cd42aea21
+SHA256: e984702fd0b38615702fb2e3d72d605b8c6a4c803f197c595ea7a5248c26f474
+Section: Tweaks
+Description: تسجيل المكالمات من عدة تطبيقات والهاتف
+Author: Ali
+Installed-Size: 13174
+Name: AudioRecorder XS (iOS 12)
