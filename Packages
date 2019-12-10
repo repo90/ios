@@ -901,3 +901,20 @@ Author: Albasrawi
 Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 Name: ReProvision Ali
 Priority: optional
+
+Package: com.pulandres.stalky
+Version: 4.0.9
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.pulandres.watools, com.rpetrich.rocketbootstrap
+Conflicts: com.f0u4d.stalkybeta, com.pulandres.whatshack, ru.rejail.whatshack, com.hackyouriphone.whatshack
+Filename: ./debs/com.pulandres.stalky_4.0.9_iphoneos-arm.deb
+Size: 5290908
+MD5sum: 214262b27515b64bf53934d2128a77a6
+SHA1: 94933b88cf85b3d5274d059affd350a7fc7f9e0c
+SHA256: 3ea56e0c9ef7f78e648f9b3e8353f27fd6ebfe9698f18fffd4b1b48b8898cf38
+Section: Tweaks
+Description: Track and download your contacts latest profile and statuses updates on WhatsApp
+Author: Ali Albasrawi
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Name: Stalky Cracked By Albasrawi
