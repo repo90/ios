@@ -1087,7 +1087,7 @@ Section: Tweaks
 Description: Speed up animations
 Author: Albasrawi
 Installed-Size: 340
-Name: AnimationsBeFastPlus 12-11
+Name: AnimationsBeFastPlus 11-12
 
 Package: com.arab-cydia.betterccxiweather
 Version: 1.0.1-1
@@ -1099,7 +1099,7 @@ Size: 13992
 MD5sum: 42b5d73525f999663abf0df573c6bafd
 SHA1: 748b12cabac3c5d5ad519579d6e2207330b90ba6
 SHA256: dd1d7155f92c6c76c7377cc66cfbb200be236af0ccb65d7c19f8b7693da1dbce
-Section: Supports
+Section: Tweaks
 Description: اختصار جميل للطقس في مركز التحكم يتم تفعيله والتحكم به عبر اداة BetterCCXI.
 Author: Albasrawi
 Name: BetterCCXI (Weather Addon) 11-12
@@ -1115,9 +1115,8 @@ Size: 61516
 MD5sum: 60d353832673f82462a3b6ad2f34bc7f
 SHA1: c2affa6a96de3e81ac4f0a3a9900d3d95b2c718e
 SHA256: ddc532d6fb9ff5e06646b886ccf2823a8faeb3212fc9a38256672142d7e914fd
-Section: Supports
+Section: Tweaks
 Description: تغيير مظهر control cente
 Author: Albasrawi
 Name: BetterCCXI 11-12
 Sponsor: Ali <aliiosapp@gmail.com>
-
