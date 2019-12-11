@@ -1084,9 +1084,8 @@ Size: 238040
 MD5sum: 3a30748b0fb2fa26967d94fb8d781fb1
 SHA1: 9f66038e1f6f2b0d4678528c5ca012b80c82ba00
 SHA256: 16b99b213edfc0c11588f3ce0aa422ffe9269c4d95127e427ad3a4cf0fa31768
-Section: Tweaks
+Section: System
 Description: قطع النت عن تطبيق معين من اختيارك
 Author: Albasrawi
-Icon: file:///Library/PreferenceBundles/NetControl.bundle/abcydia@2x.png
 Installed-Size: 1415
-Name: NetControl By Albasrawi
+Name: NetControl APP
