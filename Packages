@@ -1089,3 +1089,19 @@ Description: قطع النت عن تطبيق معين من اختيارك
 Author: Albasrawi
 Installed-Size: 1415
 Name: NetControl APP
+
+Package: com.arab-cydia.365scorescrazymind90
+Version: 2.0-1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.365scorescrazymind90_2.0-1_iphoneos-arm.deb
+Size: 4244
+MD5sum: dacf7612711ca76966edb3d8d74c393d
+SHA1: bfefb8328fa424a64c2cf027b1bce5dbc29a5dad
+SHA256: ceb9905cd91d833669432ae7bb130829a63ef709bc25a8853c16d8f7506703e9
+Section: Apps Hack
+Description: ازالة الاعلانات من تطبيق 365Scores
+Author: Ali
+Name: 365Scores Hack By Ali
+Sponsor: Ali <aliiosapp@gmail.com>
