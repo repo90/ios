@@ -1073,22 +1073,6 @@ Author: Ali
 Name: 365Scores Hack By Ali
 Sponsor: Ali <aliiosapp@gmail.com>
 
-Package: com.adamseiter.animationsbefastplus
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
-Depends: mobilesubstrate, preferenceloader, applist
-Filename: ./debs/com.adamseiter.animationsbefastplus_1.1_iphoneos-arm.deb
-Size: 34910
-MD5sum: 8f41e3ac826ffc3385889bbc94140916
-SHA1: 93eddd04256aa9ba1a3ff2524b2650c53b50651e
-SHA256: 885707ed69598a840ef6325d880f952162d6fdfcf0dafa69fcc8aac5a0269917
-Section: Tweaks
-Description: Speed up animations
-Author: Albasrawi
-Installed-Size: 340
-Name: AnimationsBeFastPlus 11-12
-
 Package: com.arab-cydia.betterccxiweather
 Version: 1.0.1-1
 Architecture: iphoneos-arm
