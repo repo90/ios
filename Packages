@@ -1073,3 +1073,22 @@ Description: تسجيل المكالمات من عدة تطبيقات والها
 Author: Ali
 Installed-Size: 13174
 Name: AudioRecorder XS (iOS 12)
+
+Package: com.abcydia.netcontrol
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: ./debs/com.abcydia.netcontrol_1.0.0-1_iphoneos-arm.deb
+Size: 238040
+MD5sum: 3a30748b0fb2fa26967d94fb8d781fb1
+SHA1: 9f66038e1f6f2b0d4678528c5ca012b80c82ba00
+SHA256: 16b99b213edfc0c11588f3ce0aa422ffe9269c4d95127e427ad3a4cf0fa31768
+Section: Tweaks
+Description: قطع النت عن تطبيق معين من اختيارك
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/NetControl.bundle/abcydia@2x.png
+Installed-Size: 1415
+Name: NetControl By Albasrawi
+Priority: optional
+Tag: purpose::extension, compatible::ios12
