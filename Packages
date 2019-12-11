@@ -1073,23 +1073,51 @@ Author: Ali
 Name: 365Scores Hack By Ali
 Sponsor: Ali <aliiosapp@gmail.com>
 
-Package: com.abcydia.netcontrol
-Version: 1.0.0-1
+Package: com.adamseiter.animationsbefastplus
+Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: Albasrawi
-Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
-Filename: ./debs/com.abcydia.netcontrol_1.0.0-1_iphoneos-arm.deb
-Size: 238040
-MD5sum: 3a30748b0fb2fa26967d94fb8d781fb1
-SHA1: 9f66038e1f6f2b0d4678528c5ca012b80c82ba00
-SHA256: 16b99b213edfc0c11588f3ce0aa422ffe9269c4d95127e427ad3a4cf0fa31768
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.adamseiter.animationsbefastplus_1.1_iphoneos-arm.deb
+Size: 34910
+MD5sum: 8f41e3ac826ffc3385889bbc94140916
+SHA1: 93eddd04256aa9ba1a3ff2524b2650c53b50651e
+SHA256: 885707ed69598a840ef6325d880f952162d6fdfcf0dafa69fcc8aac5a0269917
 Section: Tweaks
-Description: 设置 App WiFi接入限制 Customize Cellular Data WiFi Networking Privileges
-Author: WZteam <admin@abcydia.com>
-Icon: file:///Library/PreferenceBundles/NetControl.bundle/abcydia@2x.png
-Installed-Size: 1415
-Name: NetControl 
-Priority: optional
-Sponsor: Ali
-Tag: purpose::extension, compatible::ios12
-dev: IQ
+Description: Speed up animations
+Author: Albasrawi
+Installed-Size: 340
+Name: AnimationsBeFastPlus 12-11
+
+Package: com.arab-cydia.betterccxiweather
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.arab-cydia.betterccxi | com.atwiiks.betterccxi
+Filename: ./debs/com.arab-cydia.betterccxiweather_1.0.1-1_iphoneos-arm.deb
+Size: 13992
+MD5sum: 42b5d73525f999663abf0df573c6bafd
+SHA1: 748b12cabac3c5d5ad519579d6e2207330b90ba6
+SHA256: dd1d7155f92c6c76c7377cc66cfbb200be236af0ccb65d7c19f8b7693da1dbce
+Section: Supports
+Description: اختصار جميل للطقس في مركز التحكم يتم تفعيله والتحكم به عبر اداة BetterCCXI.
+Author: Albasrawi
+Name: BetterCCXI (Weather Addon) 11-12
+Sponsor: Ali <aliiosapp@gmail.com>
+
+Package: com.arab-cydia.betterccxi
+Version: 1.4.8-1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debs/com.arab-cydia.betterccxi_1.4.8-1_iphoneos-arm.deb
+Size: 61516
+MD5sum: 60d353832673f82462a3b6ad2f34bc7f
+SHA1: c2affa6a96de3e81ac4f0a3a9900d3d95b2c718e
+SHA256: ddc532d6fb9ff5e06646b886ccf2823a8faeb3212fc9a38256672142d7e914fd
+Section: Supports
+Description: تغيير مظهر control cente
+Author: Albasrawi
+Name: BetterCCXI 11-12
+Sponsor: Ali <aliiosapp@gmail.com>
+
