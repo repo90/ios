@@ -972,23 +972,6 @@ Author: Ali
 Icon: file:///Applications/NewTerm.app/AppIcon60x60@3x.png
 Name: NewTerm 2 (iOS 10–12-13) By Ali
 
-Package: me.nepeta.unsub
-Version: 0.1.9
-Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
-Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
-Filename: ./debs/me.nepeta.unsub_0.1.9_iphoneos-arm.deb
-Size: 41206
-MD5sum: 7231014fd36383bc396dea91412b004e
-SHA1: b2a6a5b4b0c94edb180b2f6514abee94c5059165
-SHA256: 8b351a1835d8d2a8b519c0d360695e4da4286c265066d43f0c46880a5bb9a3d6
-Section: Tweaks
-Description: Disable tweak injection (Substrate/Substitute) in certain apps.
-Author: Ali
-Installed-Size: 624
-Name: UnSub By ALi
-
 Package: me.pulandresk.dleasy
 Version: 92.7.5-1k
 Architecture: iphoneos-arm
