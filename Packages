@@ -1104,3 +1104,71 @@ Description: تغيير مظهر control cente
 Author: Albasrawi
 Name: BetterCCXI 11-12
 Sponsor: Ali <aliiosapp@gmail.com>
+
+Package: com.foxfort.translomatic
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.0.10), com.foxfort.libfoxfortutils (>= 1.0.10), com.rpetrich.rocketbootstrap (>= 1.0.3), applist
+Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice
+Filename: ./debs/com.foxfort.translomatic_2.0.0_iphoneos-arm.deb
+Size: 3154940
+MD5sum: 5d4202b46e2586fc88e525a6c59579f5
+SHA1: d249eebfdc3dc9339960264e48ec0d42636286b9
+SHA256: 852c19390a6f1977961d763c8c8a3ee51705e8e1a7f681de942146877693215d
+Section: Tweaks
+Description: Quickly translate any text
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+Installed-Size: 5284
+Name: Translomatic 11-12-13
+
+Package: com.jannikcrack.glory
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/com.jannikcrack.glory_1.1.1_iphoneos-arm.deb
+Size: 12608312
+MD5sum: ccf5fec3ff02a0ea0711dc94c12cbff5
+SHA1: 5c0917da9d5f1b97d343fd1be35420b24bf37227
+SHA256: 2d07b347921608f7d5575ad7f7f176c55be4de2706d378cbbc59ae18634ca61f
+Section: Themes
+Description: A theme with beautiful icons!
+Author: Albasrawi
+Name: Glory
+
+Package: com.nrkvv.glocation
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Filename: ./debs/com.nrkvv.glocation_0.1.0_iphoneos-arm.deb
+Size: 59344
+MD5sum: 16487527078eee121f3d434b4d0ad498
+SHA1: 7d3188aa5b1ab50381259de265e143e3c044a7c0
+SHA256: 277b1082ce3cc66e63e21bc22861a2661067cbcd0ab9d30114c0d6001508bf3a
+Section: Tweaks
+Description: تغيير الموقع لخداع التطبيقات بالموقع الوهمي الجديد موافقة مع اغلب التطبيقات ومنها snapChat !!
+Author: Ali Albasrawi
+Icon: file:///Library/PreferenceBundles/gLocationPrefs.bundle/gLocation@2x.png
+Installed-Size: 528
+Name: gLocation By Albasrawi
+Tag: compatible::ios11, compatible::ios12
+
+Package: com.pulandres.watusi2
+Version: 1.2.23
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap, applist, com.pulandres.watools, sedfix
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, ass.kiiimo.repo2, com.pulandres.whatshack, ru.rejail.whatshack, com.hackyouriphone.whatshack
+Filename: ./debs/com.pulandres.watusi2_1.2.23_iphoneos-arm.deb
+Size: 4775994
+MD5sum: 3c6e5ac08e91ed82d9c8e4ac40945688
+SHA1: 3c4b82ed944a74e9f5e5b72dce9ed892eafb55ed
+SHA256: e190e7783ad942328206e660779b8a6644bcdbc7aa4d6378be3a04a3e0368a84
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Ali Albasrawi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp Cracked By Ali
