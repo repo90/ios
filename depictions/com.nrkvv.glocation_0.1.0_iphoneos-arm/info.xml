@@ -1,21 +1,21 @@
 <package>
-	<id>com.shiarahmed.snapchat</id>
-	<name>Snapchat</name>
-	<version>1.0</version>
+	<id>com.nrkvv.glocation_0.1.0_iphoneos-arm</id>
+	<name>glocation</name>
+	<version>0.1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0</miniOS>
-			<maxiOS>12.4</maxiOS>
+			<miniOS>11</miniOS>
+			<maxiOS>13</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Snapchat tweak</shortDescription>
+	<shortDescription>test tweak</shortDescription>
 	<descriptionlist>
-		<description>Snapchat test</description>
-		<description>Supports iOS 10.0 - 12.4</description>
+		<description>Ali test</description>
+		<description>Supports iOS 11 - 13</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
