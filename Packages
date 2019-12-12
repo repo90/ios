@@ -1174,3 +1174,26 @@ Description: أداة لأضافة خصائص للواتساب يمكنك من �
 Author: Ali Albasrawi
 Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
 Name: Watusi 2 for WhatsApp Cracked By Ali
+
+Package: com.creaturecoding.shuffle
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.creaturecoding.shuffle_1.0.5_iphoneos-arm.deb
+Size: 179348
+MD5sum: 70f4f105fe98ce1b88c2bad1a9fa2a88
+SHA1: 25775b2032982cfa6f8836b9ee5d51b58c8cdf68
+SHA256: a811848b6a55e713b7ad00711bf444b239d7b1770b8dc9a9d55022fb17a8bbd8
+Section: Tweaks
+Depiction: https://repo90.github.io/ios/depictions/?p=com.creaturecoding.shuffle_1.0.5_iphoneos-arm
+Description: Mix up your preferences
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Installed-Size: 1408
+Name: shuffle By Albasrawi
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+
+Tag: purpose::extension, compatible_min::iosiOS10

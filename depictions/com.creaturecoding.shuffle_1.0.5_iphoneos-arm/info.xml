@@ -1,0 +1,25 @@
+<package>
+	<id>com.creaturecoding.shuffle_1.0.5_iphoneos-arm</id>
+	<name>shuffle</name>
+	<version>1.0.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+			<maxiOS>13</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>test tweak</shortDescription>
+	<descriptionlist>
+		<description>مجانية وظيفتها تمكنك من تعطيل الادوات من الاعدادات و عرض السورس مع امكانية نسخه وتمكنك من ترتيب اعدادات الجهاز </description>
+		<description>Supports iOS 12 - 13</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
