@@ -17,7 +17,7 @@
 		<description>Ali test</description>
 		<description>Supports iOS 11 - 13</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>cydia.jpg</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
