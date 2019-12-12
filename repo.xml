@@ -4,9 +4,11 @@
 			<name>Follow me on facebook</name>
 			<url>https://www.facebook.com/AliAlbasrawi</url>
 			<iconclass>fa fa-facebook</iconclass>
-			<name>Follow me on SnapChat</name>
-			<url>https://www.snapchat.com/add/alialbasrawi_iq</url>
-			<iconclass>fa fa-snapchat</iconclass>
+		</link>
+		<link>
+		  <name>Follow me on SnapChat</name>
+		  <url>https://www.snapchat.com/add/alialbasrawi_iq</url>
+		  <iconclass>fa fa-snapchat</iconclass>
 		</link>
 	</footerlinks>
 </repo>
