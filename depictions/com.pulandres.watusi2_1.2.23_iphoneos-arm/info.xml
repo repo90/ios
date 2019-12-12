@@ -12,9 +12,9 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>أداة لأضافة خصائص للواتساب يمكنك من خلالها من ايقاف الظهور ومزايا عديدة</shortDescription>
+	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>Ali test</description>
+		<description>أداة لأضافة خصائص للواتساب يمكنك من خلالها من ايقاف الظهور ومزايا عديدة</description>
 		<description>Supports iOS 12 - 13</description>
 	</descriptionlist>
 	<screenshots>cydia.jpg</screenshots>
