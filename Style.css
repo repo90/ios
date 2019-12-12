@@ -73,9 +73,9 @@ header .btn{
 }
 
 .btn-outline {
-    color:#ffd916;
+    color:#f4f4f4;
     font-size: 1.4em;
-    border: solid 2.7px #fbbf4c;
+    border: solid 2.7px #e9be94;
     background: transparent;
     transition: all 0.3s ease-in-out;
     margin-top: 15px;
