@@ -1,0 +1,26 @@
+<package>
+	<id>com.nrkvv.glocation_0.1.0_iphoneos-arm</id>
+	<name>glocation</name>
+	<version>0.1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11</miniOS>
+			<maxiOS>13</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>test tweak</shortDescription>
+	<descriptionlist>
+		<description>A tool to hide your site from programs and determine an imaginary site according to your choice</description>
+		<description>أداة مفيدة لتغيير الموقع لخداع التطبيقات بموقعك الوهمي ومتوافقة مع اغلب التطبيقات </description>
+		<description>Supports iOS 11 - 13</description>
+	</descriptionlist>
+	<screenshots>cydia.jpg</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
