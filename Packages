@@ -1215,3 +1215,21 @@ Description: Take charge of your Control Center!
 Author: Ali
 Installed-Size: 2864
 Name: Sareth By Albasrawi
+
+Package: com.creaturecoding.switcherradii
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate
+Filename: ./debs/com.creaturecoding.switcherradii_1.0.2_iphoneos-arm.deb
+Size: 3024
+MD5sum: abe8960cd227e12eef9fd566d590e7cb
+SHA1: b8c167845310c6e7657fe9fc9d0c0484088ea458
+SHA256: d633f2c4d4c3ea079626758f068b3e024974274c453e1394c3e3800cb752a427
+Section: Tweaks
+Description: rounded cards in the app switcher.
+Author: Ali
+Depiction: https://repo90.github.io/ios/depictions/com.creaturecoding.switcherradii/index.html
+Installed-Size: 200
+Name: switcherRadii
+Tag: Albasrawi
