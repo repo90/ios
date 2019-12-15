@@ -106,6 +106,7 @@ MD5sum: 0f37d68b42ae0f36971d83c87774ab9a
 SHA1: 83b0bf5fb72dd0672d1b49e654b01561f3976c98
 SHA256: 098bfce52bd5daed645ca0810db1a8ecbcb28795c9fee9439f965692767131eb
 Section: Tweaks
+Depiction: https://repo90.github.io/ios/depictions/?p=com.julioverne.mimport_0.0_beta35_iphoneos-arm
 Description: Media Importer Directly From Music App
 Author: Ali
 Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
@@ -1215,39 +1216,3 @@ Description: Take charge of your Control Center!
 Author: Ali
 Installed-Size: 2864
 Name: Sareth By Albasrawi
-
-Package: com.creaturecoding.switcherradii
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: Albasrawi
-Depends: mobilesubstrate
-Filename: ./debs/com.creaturecoding.switcherradii_1.0.2_iphoneos-arm.deb
-Size: 3024
-MD5sum: abe8960cd227e12eef9fd566d590e7cb
-SHA1: b8c167845310c6e7657fe9fc9d0c0484088ea458
-SHA256: d633f2c4d4c3ea079626758f068b3e024974274c453e1394c3e3800cb752a427
-Section: Tweaks
-Description: rounded cards in the app switcher.
-Author: Ali
-Depiction: https://repo90.github.io/ios/depictions/com.creaturecoding.switcherradii/index.html
-Installed-Size: 200
-Name: switcherRadii
-Tag: Albasrawi
-
-Package: com.xtm3x.noblur
-Version: 1.7
-Architecture: iphoneos-arm
-Maintainer: Albasrawi
-Depends: mobilesubstrate
-Conflicts: com.xtm3x.noblurlite
-Filename: ./debs/com.xtm3x.noblur_1.7_iphoneos-arm.deb
-Size: 2708
-MD5sum: b667b1153ad3c630c2344ffaf82912af
-SHA1: ff51c3fac7a14dd264471bed08abae70f58b0159
-SHA256: 5d18212c5f7b28fc976fae21b9cddf116c4720e01d581c635847a717c3ecf246
-Section: Tweaks
-Description: Remove blurs from UI elements system-wide
-Author: Wilson Styres <wilson@styres.me>
-Depiction: https://repo90.github.io/ios/depictions/com.xtm3x.noblur/
-Installed-Size: 104
-Name: NoBlur By Ali 
