@@ -1197,22 +1197,3 @@ Installed-Size: 1408
 Name: shuffle By Albasrawi
 Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
 Tag: purpose::extension, compatible_min::iosiOS10
-
-Package: com.ikilledappl3.sareth
-Version: 1.0.8-1
-Architecture: iphoneos-arm
-Maintainer: Albasrawi
-Depends: mobilesubstrate, ws.hbang.common, me.nepeta.libcolorpicker, firmware (>= 12.0)
-Conflicts: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
-Replaces: com.ikilledappl3.ccwallcustomizer2, com.ikilledappl3.colormyccmodules
-Filename: ./debs/com.ikilledappl3.sareth_1.0.8-1_iphoneos-arm.deb
-Size: 2449270
-MD5sum: a75dde227e4757a5018e222325be2eb7
-SHA1: acd388acb37579183fc68aae67c2983182c5ae70
-SHA256: 4deff03e6a3133feb56630a343daac24ffacc3851df09882d9d04ddbbbaded0d
-Section: Tweaks
-Depiction: https://repo90.github.io/ios/depictions/?p=com.ikilledappl3.sareth_1.0.8-1_iphoneos-arm
-Description: Take charge of your Control Center!
-Author: Ali
-Installed-Size: 2864
-Name: Sareth By Albasrawi
