@@ -5,11 +5,5 @@
 			<url>https://twitter.com/AliAlbasrawi90</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
-		<link>
-			<name>Follow me on facebook</name>
-			<url>https://www.facebook.com/AliAlbasrawi</url>
-			<iconclass>fa fa-facebook</iconclass>
-		</link>
-	</link>
 	</footerlinks>
 </repo>
