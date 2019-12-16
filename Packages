@@ -1150,7 +1150,7 @@ MD5sum: 16487527078eee121f3d434b4d0ad498
 SHA1: 7d3188aa5b1ab50381259de265e143e3c044a7c0
 SHA256: 277b1082ce3cc66e63e21bc22861a2661067cbcd0ab9d30114c0d6001508bf3a
 Section: Tweaks
-Depiction: https://repo90.github.io/ios/depictions/?p=com.nrkvv.glocation_0.1.0_iphoneos-arm
+Depiction: https://repo90.github.io/1/
 Description: تغيير الموقع لخداع التطبيقات بالموقع الوهمي الجديد موافقة مع اغلب التطبيقات ومنها snapChat !!
 Author: Ali Albasrawi
 Icon: file:///Library/PreferenceBundles/gLocationPrefs.bundle/gLocation@2x.png
