@@ -18,7 +18,7 @@
 		<description>أداة مفيدة لتغيير الموقع لخداع التطبيقات بموقعك الوهمي ومتوافقة مع اغلب التطبيقات </description>
 		<description>Supports iOS 11 - 13</description>
 	</descriptionlist>
-	<screenshots>depictions\com.nrkvv.glocation_0.1.0_iphoneos-arm\screenshots\cydia.png</screenshots>
+	<screenshots>../depictions/com.nrkvv.glocation_0.1.0_iphoneos-arm/cydia.png</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
