@@ -1197,3 +1197,20 @@ Installed-Size: 1408
 Name: shuffle By Albasrawi
 Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
 Tag: purpose::extension, compatible_min::iosiOS10
+
+Package: me.nepeta.relocate
+Version: 0.1.11
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7)
+Filename: ./debs/me.nepeta.relocate_0.1.11_iphoneos-arm.deb
+Size: 94710
+MD5sum: 483ee6149e539ce31afffa59c8880528
+SHA1: 20514330acd718cf95b8ffb3816f6c1660f7fe65
+SHA256: ad5798646107102dfde09f29d83689703fffda0985472dfad2862663e8ec50df
+Section: Tweaks
+Depiction: https://repo90.github.io/1/
+Description: Minimalist GPS spoofer (free)
+Author: Ali
+Installed-Size: 552
+Name: Relocate By Albasrawi
