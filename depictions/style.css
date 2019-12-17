@@ -20,7 +20,7 @@ html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
 }
 
 html.can-touch .link-item:active{ /* disable hover effect when input is touch */
-    background-color: #f5f5f5;
+    background-color: #feeeed;
 }
 
 .fa {
@@ -49,7 +49,7 @@ h1 {
   margin: 0 auto;
   background: rgba(255,255,255,0.2);
   padding: 35px;
-  border: 2px solid #fff;
+  border: 2px solid #15111d;
   border-radius: 20px/50px;
   background-clip: padding-box;
   text-align: center;
