@@ -54,7 +54,7 @@ h1 {
 }
 .social-menu ul li .fa {
     color: #000000;
-    font-size: 25px;
+    font-size: 31px;
     line-height: 50px;
     transition: .5s;
 }
@@ -78,7 +78,6 @@ h1 {
 }
 .social-menu ul li:nth-child(1) a:hover {
     background-color: #3b5999;
-    size: 66px;
 }
 .social-menu ul li:nth-child(2) a:hover {
     background-color: #55acee;
