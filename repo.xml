@@ -13,6 +13,12 @@
 			<iconclass>fa fa-facebook</iconclass>
 		</link>
 	</footerlinks>
-
+	<footerlinks>
+		<link>
+			<name>Follow me on snapchat</name>
+			<url>https://www.snapchat.com/add/alialbasrawi_iq</url>
+			<iconclass>fa fa-snapchat</iconclass>
+		</link>
+	</footerlinks>
 
 </repo>
