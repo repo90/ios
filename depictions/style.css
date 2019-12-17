@@ -45,10 +45,10 @@ h1 {
 }
 
 .box {
-  width: 40%;
+  width: 11%;
   margin: 0 auto;
   background: rgba(255,255,255,0.2);
-  padding: 35px;
+  padding: 15px;
   border: 2px solid #15111d;
   border-radius: 20px/50px;
   background-clip: padding-box;
@@ -59,14 +59,14 @@ h1 {
   font-size: 1em;
   padding: 10px;
   color: #fff;
-  border: 2px solid #06D85F;
+  border: 2px solid #2b0e0e;
   border-radius: 20px/50px;
   text-decoration: none;
   cursor: pointer;
   transition: all 0.3s ease-out;
 }
 .button:hover {
-  background: #06D85F;
+  background: #f6f4e4;
 }
 
 .overlay {
@@ -111,7 +111,7 @@ h1 {
   color: #333;
 }
 .popup .close:hover {
-  color: #06D85F;
+  color: #9c2622;
 }
 .popup .content {
   max-height: 30%;
