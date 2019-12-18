@@ -1,24 +1,8 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/AliAlbasrawi90</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<name> للأسئلة والأستفسار راسلوني</name>
+			<url></url>
 		</link>
 	</footerlinks>
-	<footerlinks>
-		<link>
-			<name>Follow me on facebook</name>
-			<url>https://www.facebook.com/AliAlbasrawi</url>
-			<iconclass>fa fa-facebook</iconclass>
-		</link>
-	</footerlinks>
-	<footerlinks>
-		<link>
-			<name>Follow me on snapchat</name>
-			<url>https://www.snapchat.com/add/alialbasrawi_iq</url>
-			<iconclass>fa fa-snapchat</iconclass>
-		</link>
-	</footerlinks>
-
 </repo>
