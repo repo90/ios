@@ -1,0 +1,25 @@
+<package>
+	<id>com.p2kdev.letmedecline_1.0_iphoneos-arm</id>
+	<name>letmedecline</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11</miniOS>
+			<maxiOS>13</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>A simple tweaks to always show the accept/decline buttons when receiving a call</description>
+		<description>Supports iOS 11 - 12</description>
+	</descriptionlist>
+	<screenshots>cydia.jpg</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

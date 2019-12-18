@@ -1256,7 +1256,7 @@ Name: OnlineNotify Cracked By Albasrawi
 Package: net.erike.audioexplorerplus
 Version: 2.7.2-1
 Architecture: iphoneos-arm
-Maintainer: Ali 
+Maintainer: Ali
 Depends: firmware (>= 4.0), applist, com.ouraigua.jodebox, com.rpetrich.rocketbootstrap
 Filename: ./debs/net.erike.audioexplorerplus_2.7.2-1_iphoneos-arm.deb
 Size: 1086450
@@ -1274,3 +1274,70 @@ Sponsor: Ali Albasrawi
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 
 
+Package: com.midnightchips.ldRun
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Filename: ./debs/com.midnightchips.ldrun_0.0.4_iphoneos-arm.deb
+Size: 3490
+MD5sum: 19a2fc4ff5f211f006c633c74941fd57
+SHA1: a103a8a055fa42458810fd3e4851960b0ff1b59e
+SHA256: 2fc1bcf5edf361abdb90dba515452556a0aa40dcb88e43ac0e4127d73e7192bc
+Section: System
+Depiction: https://repo90.github.io/ios/depictions/?p=com.midnightchips.ldrun_0.0.4_iphoneos-arm
+Description: A binary to run ldrestart as root.
+Author: Albasrawi
+Installed-Size: 132
+Name: ldRun
+Tag: role::hacker
+
+Package: com.p2kdev.letmedecline
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.letmedecline_1.0_iphoneos-arm.deb
+Size: 2570
+MD5sum: ce23ef6f842a61af3e08788854c28304
+SHA1: f46dc73d9cbeba87b02ad3e7ba2775a1f89c8a52
+SHA256: 4e028842ef195703af751ab957d5a4de023306e1361c96164484140482b24101
+Section: Tweaks
+Depiction: https://repo90.github.io/ios/depictions/?p=com.p2kdev.letmedecline_1.0_iphoneos-arm
+Description: This tweak will show the Accept/Decline buttons when the phone is locked!
+Author: Albasrawi
+Installed-Size: 136
+Name: LetMeDecline
+
+Package: com.pulandres.nicesirigold
+Version: 5.2
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.12)
+Filename: ./debs/com.pulandres.nicesirigold_5.2_iphoneos-arm.deb
+Size: 1225048
+MD5sum: a26295dae5682d6660acee7375be050f
+SHA1: 77736f9a1747fdd9fe29370da2e617c36201db67
+SHA256: b41ca55724446969da6e3a1d700fbe4a194dd1f3e63e83e056e7d05ef1f8e84e
+Section: Tweaks
+Depiction: https://repo90.github.io/ios/depictions/?p=com.pulandres.nicesirigold_5.2_iphoneos-arm
+Description: Please Siri, be more nice!
+Author: Albasrawi
+Installed-Size: 1564
+Name: NiceSiri [Gold] By Albasrawi
+
+Package: ru.rejail.missioncontrol
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.midnightchips.ldrun, applist, ws.hbang.common
+Filename: ./debs/ru.rejail.missioncontrol_1.1.3_iphoneos-arm.deb
+Size: 640786
+MD5sum: 47d08f6d8165efa7df3704420faf7c52
+SHA1: c50815e105c2d57922909ebf037dfd5b6fa8d879
+SHA256: 55e4f4fc0eb74796ac27897a81c35ecde386c4b24b0fea894b06891be7df2842
+Section: Tweaks
+Depiction: https://repo90.github.io/ios/depictions/?p=ru.rejail.missioncontrol_1.1.3_iphoneos-arm
+Description: اضافات لمركز التحكم
+Author: Albasrawi
+Installed-Size: 7463
+Name: MissionControl By Albasrawi
