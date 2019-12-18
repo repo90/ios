@@ -41,7 +41,7 @@ h1 {
 }
 .social-menu ul {
     position: absolute;
-    top: 15%;
+    top: 21%;
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 0;
@@ -92,3 +92,14 @@ h1 {
     background-color: #15ff00;
 }
 
+
+.box {
+  width: 30%;
+  margin: 0 auto;
+  background: rgba(255,255,255,0.2);
+  padding: 35px;
+  border: 2px solid #fff;
+  border-radius: 20px/50px;
+  background-clip: padding-box;
+  text-align: center;
+}
