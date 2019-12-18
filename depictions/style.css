@@ -148,7 +148,7 @@ h1 {
 }
 .social-menu ul {
     position: absolute;
-    top: 280%;
+    top: 240%;
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 0;
