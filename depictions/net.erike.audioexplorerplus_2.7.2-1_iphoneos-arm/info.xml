@@ -1,0 +1,25 @@
+<package>
+	<id>net.erike.audioexplorerplus_2.7.2-1_iphoneos-arm</id>
+	<name>audioexplorerplus/name>
+	<version>2.7.2-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11</miniOS>
+			<maxiOS>13</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>test tweak</shortDescription>
+	<descriptionlist>
+		<description>أداة لأدارة الصوتيات داخل الجهاز وسحبها لتغيير نغمة الايفون</description>
+		<description>Supports iOS 11 - 13</description>
+	</descriptionlist>
+	<screenshots>cydia.jpg</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

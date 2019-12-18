@@ -1252,3 +1252,25 @@ Description: Track you friends on WhatsApp Messenger!
 Author: Albasrawi
 Icon: https://repo.pulandres.me/CydiaIcon.png
 Name: OnlineNotify Cracked By Albasrawi
+
+Package: net.erike.audioexplorerplus
+Version: 2.7.2-1
+Architecture: iphoneos-arm
+Maintainer: Ali 
+Depends: firmware (>= 4.0), applist, com.ouraigua.jodebox, com.rpetrich.rocketbootstrap
+Filename: ./debs/net.erike.audioexplorerplus_2.7.2-1_iphoneos-arm.deb
+Size: 1086450
+MD5sum: 4daa73b57ef4e6a6ec4ec3ba964cffda
+SHA1: f7041e74f0131de1822f989f4bd18e556822c38b
+SHA256: 1dcf3d9a485fffa3603a5d5e544870fa75c02b521c5c734c644bfc85265d3de7
+Section: Multimedia
+Depiction: https://repo90.github.io/ios/depictions/?p=net.erike.audioexplorerplus_2.7.2-1_iphoneos-arm
+Description: find & use audio from your device files
+Author: Albasrawi
+Icon: file:///Applications/AudioExplorer+.app/Icon.png
+Installed-Size: 3612
+Name: AudioExplorer+ By Albasrawi
+Sponsor: Ali Albasrawi
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+
+
