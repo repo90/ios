@@ -1341,3 +1341,22 @@ Description: اضافات لمركز التحكم
 Author: Albasrawi
 Installed-Size: 7463
 Name: MissionControl By Albasrawi
+
+Package: bz.jed.tweakcompatible
+Version: 0.1.5
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/bz.jed.tweakcompatible_0.1.5_iphoneos-arm.deb
+Size: 54016
+MD5sum: 0a90d6021ba05aa5f67c60274c8d69b7
+SHA1: de79c31d1d26788d60e4a1e473e3153d2933f5d3
+SHA256: d10cb06e4da3281ed89906ac84656996b98f52c98c743a22f303fcdad3297b7e
+Section: Tweaks
+Depiction: https://repo90.github.io/ios/depictions/?p=bz.jed.tweakcompatible_0.1.5_iphoneos-arm
+Description: Adds a way to check tweak compatibility in cydia
+Author: Ali Albasrawi
+Icon: file:///Library/PreferenceBundles/tweakCompatible_prefs.bundle/icon@2x.png
+Installed-Size: 292
+Name: tweakCompatible By Ali
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
