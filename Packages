@@ -128,58 +128,6 @@ Author: Ali
 Icon: file:///Library/PreferenceBundles/PImport.bundle/icon@2x.png
 Name: PImport
 
-Package: com.pulandres.onlinenotify
-Version: 3.0.4
-Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.rpetrich.rocketbootstrap, com.pulandres.watools  (>= 2.1.9), sedfix  (>= 7.0)
-Conflicts: com.f0u4d.onlinenotifybeta, com.f0u4d.onlinenotify2, com.imokhles.waquickreply.bb, com.pulandres.whatshack, ru.rejail.whatshack, com.hackyouriphone.whatshack
-Filename: ./debs/com.pulandres.onlinenotify_3.0.4_iphoneos-arm.deb
-Size: 656818
-MD5sum: f1e189fbd8f46a4b9acbdb29dd6eeebf
-SHA1: fc54e000ec5c8ae6601803668e3897a377c5754e
-SHA256: 8e3bd88fb3c669dcdf94005d230fa6ba0503ae243abcf4bae8b7e9179fc8834d
-Section: Tweaks
-Description: Track you friends on WhatsApp Messenger!
-Author: Ali
-Icon: https://repo.pulandres.me/CydiaIcon.png
-Name: OnlineNotify Cracked Ali
-
-Package: com.pulandres.watools
-Version: 2.1.10
-Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
-Depends: firmware (>= 8.0), darwintools
-Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.f0u4d.watusitools, com.pulandres.whatshack, ru.rejail.whatshack, com.hackyouriphone.whatshack, updatejeje
-Replaces: com.f0u4d.watusitools
-Filename: ./debs/com.pulandres.watools_2.1.10_iphoneos-arm.deb
-Size: 13491690
-MD5sum: 6f832624cf4c92a0975a0557b80fb88e
-SHA1: 1ba60ebc0be7cc65b02f4fa2b5ff54a3f34da14a
-SHA256: 3f4d7d3b1b6ae2653b26899a144230f94757ae06ed9f5b0b4e51aca48125b829
-Section: System
-Description: Library for Watusi and WhatsApp tweaks
-Author: Albasrawi
-Icon: https://repo.pulandres.me/CydiaIcon.png
-Name: WatusiTools Cracked Ali
-
-Package: com.pulandres.watusi2
-Version: 1.2.22
-Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap, applist, com.pulandres.watools, sedfix
-Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, ass.kiiimo.repo2, com.pulandres.whatshack, ru.rejail.whatshack, com.hackyouriphone.whatshack
-Filename: ./debs/com.pulandres.watusi2_1.2.22_iphoneos-arm.deb
-Size: 4777528
-MD5sum: 25d56170d7c58ec4b1705a18d69be727
-SHA1: 65aaaec25141010971a62f8520d07bedb2b9c8a8
-SHA256: 1110c3f2b8166d7d750eeb0117a85857c0f8ab7535408c458e903bd24ab7dc92
-Section: Tweaks
-Description: The all-in-one tweak for WhatsApp Messenger
-Author: Albasrawi
-Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
-Name: Watusi 2 for WhatsApp Cracked Ali
-
 Package: ru.rejail.midevice
 Version: 2.0.0-1
 Architecture: iphoneos-arm
