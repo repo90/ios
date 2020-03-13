@@ -48,3 +48,23 @@ Author: Ali
 Icon: file:///Library/PreferenceBundles/AppTools.bundle/icon@2x.png
 Installed-Size: 1999
 Name: AppTools (11-12)
+
+Package: ru.rejail.cercube
+Version: 5.1.10k
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap, ru.rejail.adblockplus
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Filename: ./debs/ru.rejail.cercube_5.1.10k_iphoneos-arm.deb
+Size: 8397966
+MD5sum: af4b52bc258ca04bfb5c518bdec7aabb
+SHA1: e6d1efe8f183389b95985474cc822e74cc129e4c
+SHA256: d55a13d027cc57a2496e7b633d819daf7fffa6f9e58595613ae0ad630201a14b
+Section: Tweaks
+Description: أداة لأضافة خصائص متعددة لتطبيق اليوتيوب منها تحميل الفيديوات بعدة صيغ مع امكانية نقلها للصور والموسيقى
+Author: Majd Alfhaily
+Depiction: https://repo90.github.io/ios/depictions/?p=me.ru.rejail.cercube_5.1.10k_iphoneos-arm
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Installed-Size: 33587
+Name: Cercube for YouTube By Albasrawi
+Priority: optional
