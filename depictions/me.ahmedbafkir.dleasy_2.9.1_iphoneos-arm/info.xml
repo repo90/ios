@@ -1,7 +1,7 @@
 <package>
-	<id>com.ichitaso.powerselector11_1.2.6_iphoneos-arm</id>
-	<name>powerselector11</name>
-	<version>1.2.6</version>
+	<id>me.ahmedbafkir.dleasy_2.9.1_iphoneos-arm</id>
+	<name>dleasy</name>
+	<version>2.9.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11</miniOS>
@@ -14,7 +14,7 @@
 	</dependencies>
 	<shortDescription>tweak</shortDescription>
 	<descriptionlist>
-		<description>أداة لأضافة خصائص الريسبنغ والريستارت وغيرها الى مركز التحكم الاداة مفيدة يجب تثبيتها</description>
+		<description>أداة تنزيل الفيديوات من اغلب مواقع التواصل واليوتيوب تدعم اخر اصدارات للتطبيقات</description>
 		<description>Supports iOS 11 - 13</description>
 	</descriptionlist>
 	<screenshots>cydia.jpg</screenshots>

@@ -1,7 +1,7 @@
 <package>
-	<id>com.ichitaso.powerselector11_1.2.6_iphoneos-arm</id>
-	<name>powerselector11</name>
-	<version>1.2.6</version>
+	<id>me.nepeta.relocate_0.1.11_iphoneos-arm</id>
+	<name>relocate</name>
+	<version>0.1.11</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11</miniOS>
@@ -14,7 +14,7 @@
 	</dependencies>
 	<shortDescription>tweak</shortDescription>
 	<descriptionlist>
-		<description>أداة لأضافة خصائص الريسبنغ والريستارت وغيرها الى مركز التحكم الاداة مفيدة يجب تثبيتها</description>
+		<description>أداة لخداع التطبيقات بموقعك الوهمي حيث تستطيع ان تغيير موقعك الى اي دولة </description>
 		<description>Supports iOS 11 - 13</description>
 	</descriptionlist>
 	<screenshots>cydia.jpg</screenshots>

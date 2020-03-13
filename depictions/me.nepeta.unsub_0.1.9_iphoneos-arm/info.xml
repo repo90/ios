@@ -1,7 +1,7 @@
 <package>
-	<id>me.pulandresk.dleasy_92.7.5-1k_iphoneos-arm</id>
-	<name>dleasy</name>
-	<version>92.7.5-1k</version>
+	<id>me.nepeta.unsub_0.1.9_iphoneos-arm</id>
+	<name>unsub</name>
+	<version>0.1.9</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11</miniOS>
@@ -14,10 +14,10 @@
 	</dependencies>
 	<shortDescription>tweak</shortDescription>
 	<descriptionlist>
-		<description>الأداة المعروفة لدى الجميع والرائعة في خصائصها لتنزيل الفيديو والصور من تطبيقات التواصل الاجتماعي </description>
+		<description>لأخفاء الجيلبريك عن التطبيقات</description>
 		<description>Supports iOS 11 - 13</description>
 	</descriptionlist>
-	<screenshots> cydia.jpg </screenshots>
+	<screenshots>cydia.jpg</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
