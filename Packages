@@ -62,7 +62,7 @@ SHA1: e6d1efe8f183389b95985474cc822e74cc129e4c
 SHA256: d55a13d027cc57a2496e7b633d819daf7fffa6f9e58595613ae0ad630201a14b
 Section: Tweaks
 Description: أداة لأضافة خصائص متعددة لتطبيق اليوتيوب منها تحميل الفيديوات بعدة صيغ مع امكانية نقلها للصور والموسيقى
-Author: Majd Alfhaily
+Author: Albasrawi
 Depiction: https://repo90.github.io/ios/depictions/?p=me.ru.rejail.cercube_5.1.10k_iphoneos-arm
 Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
 Installed-Size: 33587
