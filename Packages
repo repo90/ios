@@ -1,16 +1,16 @@
-Package: me.nepeta.relocate
-Version: 0.1.11
+Package: sileoturkiye.bioprotectxs
+Version: 4.3-22k
 Architecture: iphoneos-arm
-Maintainer: Ali <aliiosapp@gmail.com>
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7)
-Filename: ./debs/me.nepeta.relocate_0.1.11_iphoneos-arm.deb
-Size: 94710
-MD5sum: 483ee6149e539ce31afffa59c8880528
-SHA1: 20514330acd718cf95b8ffb3816f6c1660f7fe65
-SHA256: ad5798646107102dfde09f29d83689703fffda0985472dfad2862663e8ec50df
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Filename: ./debs/sileoturkiye.bioprotectxs_4.3-22k_iphoneos-arm.deb
+Size: 774426
+MD5sum: 40b46573ab10be7976b01ce8082691be
+SHA1: 7e8fb1f947b952eb3fbc1d4ee018871c15be2994
+SHA256: 93500c54c0156c9359eb7378bed44fac46271f13ec8d74434e27a6139a1c6743
 Section: Tweaks
-Depiction: https://repo90.github.io/ios1/depictions/?p=me.nepeta.relocate_0.1.11_iphoneos-arm
-Description: Minimalist GPS spoofer (free)
-Author: Ali
-Installed-Size: 552
-Name: Relocate
+Description: أداة لقفل التطبيقات والملفات والاعدادات بالبصمة
+Author: Elias Limneos
+Name: BioProtect XS Ali
+
