@@ -1,0 +1,1254 @@
+Package: com.noisyflake.magmapro
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: ALi Albasrawi
+Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker
+Conflicts: com.noisyflake.magma
+Filename: ./debs/com.noisyflake.magmapro_1.4.1_iphoneos-arm.deb
+Size: 58010
+MD5sum: e21ffb019976e35739dfd63ea5486d71
+SHA1: 14ffe11d1ccc00a94c4c86e5a6200298ba06d5be
+SHA256: 944668fadace345810ea103101c0a46d1a7f994143f55f1d0487bd0f76fadc80
+Section: Tweaks
+Description: Colorize your Control Center
+Author: Ali
+Installed-Size: 440
+Name: Magma Pro Ali
+
+Package: com.atwiiks.conditionalwifi4
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.atwiiks.conditionalwifi4_1.0.0_iphoneos-arm.deb
+Size: 8932
+MD5sum: 275d6efa85af967a4827606f07dcff86
+SHA1: a3ac1f194a621b2f2a61c12754c2f16aa675c6c8
+SHA256: 85e86de71eb938124c0bec2de0f0897a7c3618b62f9d8e81a6dab37588e429a3
+Section: Tweaks
+Description: Restrict certain apps from accessing wifi on iOS 11
+Author: Abasrawi
+Installed-Size: 128
+Name: ConditionalWiFi4 Ali
+
+Package: com.bytafont.bytafont3
+Version: 3.6-1kk
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 11), unzip, mobilesubstrate, com.bytafont.bytafonttm
+Conflicts: com.bytafont.bytafont2, com.ipr.bytafont
+Filename: ./debs/com.bytafont.bytafont3_3.6-1kk_iphoneos-arm.deb
+Size: 1025856
+MD5sum: 91e23eef123eacbc5d43a806623abdc4
+SHA1: 7a6bec6372dab383b10a922a4b340ebf91772e0f
+SHA256: 247c562810893a71ac73dd11484b0181aef955ba741ed1a0b199f95f02ac26c7
+Section: System
+Description: أداة لتغيير خط الايفون.
+Author: BytaFont.com
+Name: BytaFont 3 Ali
+
+Package: com.bytafont.bytafonttm
+Version: 3.6
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 11), com.bytafont.bytafont3, mobilesubstrate
+Filename: ./debs/com.bytafont.bytafonttm_3.6_iphoneos-arm.deb
+Size: 8952
+MD5sum: 7cc6578a1b01cb7098a573c9825a6cb1
+SHA1: 0e37f3d6e0906abe27a7febd4ec7e58bc520ffa9
+SHA256: 8f0d17a728f6f86c88b8951aab05e32ad5f3dba360d5ffd8a257e1b32d3d5fa1
+Section: Tweaks
+Description: أداة اضافية لأداة تغيير الخط.
+Author: BytaFont.com
+Name: BytaFont Tweak Mode Ali
+
+Package: com.foxfort.translomatic
+Version: 1.2.10
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools, com.foxfort.libfoxfortutils, com.rpetrich.rocketbootstrap (>= 1.0.3)
+Filename: ./debs/com.foxfort.translomatic_1.2.10_iphoneos-arm.deb
+Size: 188122
+MD5sum: bfde60473e8cb907f10c7c0e3c9f0c5f
+SHA1: eaa5b6c165ec07676ae2a3a7bf28185bea9b196e
+SHA256: 82d6de9b2291298dbfcf5fe2c32c822bb99163b6790092b223a70ecf9c868f2f
+Section: Tweaks
+Description: Quickly translate any text. أداة ترجمة سريعة عند تحديد اي نص من المتصفح او بعض التطبيقات
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+Installed-Size: 976
+Name: Translomatic Ali
+
+Package: com.i0sa.phonecaller2
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 7.0), com.rpetrich.rocketbootstrap (>= 1.0.7~), mobilesubstrate
+Filename: ./debs/com.i0sa.phonecaller2_2.0.1_iphoneos-arm.deb
+Size: 549092
+MD5sum: e42b52cdd66f0a66a17e217f24837ec4
+SHA1: 7325ff858b86d1d968ce29aab6314eb05bf217e2
+SHA256: 0a044a79dfde1e8a208208eaa13dc28e5a0c3e91862095fa0d1146b6f60145ee
+Section: Tweaks
+Description: Find out who's calling before answering
+Author: Ali
+Installed-Size: 2524
+Name: PhoneCaller2 Ali
+
+Package: com.julioverne.mimport
+Version: 0.0~beta35
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 6.0), unzip, unrar
+Filename: ./debs/com.julioverne.mimport_0.0_beta35_iphoneos-arm.deb
+Size: 1186564
+MD5sum: 0f37d68b42ae0f36971d83c87774ab9a
+SHA1: 83b0bf5fb72dd0672d1b49e654b01561f3976c98
+SHA256: 098bfce52bd5daed645ca0810db1a8ecbcb28795c9fee9439f965692767131eb
+Section: Tweaks
+Depiction: https://repo90.github.io/ios/depictions/?p=com.julioverne.mimport_0.0_beta35_iphoneos-arm
+Description: Media Importer Directly From Music App
+Author: Ali
+Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
+Name: MImport Ali
+
+Package: com.julioverne.pimport
+Version: 0.0~beta4
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./debs/com.julioverne.pimport_0.0_beta4_iphoneos-arm.deb
+Size: 636356
+MD5sum: b2cb48fd8b6fd8de49efb5876784743f
+SHA1: 1e288fb30578eef902e98a1444d0262f47ef611b
+SHA256: 0af43fb58f7c7c6f6678f29317d93b4bfbe66e7f3490ad0c52b95a366a602d6e
+Section: Tweaks
+Description: Photo Importer Directly From Photo App
+Author: Ali
+Icon: file:///Library/PreferenceBundles/PImport.bundle/icon@2x.png
+Name: PImport
+
+Package: com.pulandres.onlinenotify
+Version: 3.0.4
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.rpetrich.rocketbootstrap, com.pulandres.watools  (>= 2.1.9), sedfix  (>= 7.0)
+Conflicts: com.f0u4d.onlinenotifybeta, com.f0u4d.onlinenotify2, com.imokhles.waquickreply.bb, com.pulandres.whatshack, ru.rejail.whatshack, com.hackyouriphone.whatshack
+Filename: ./debs/com.pulandres.onlinenotify_3.0.4_iphoneos-arm.deb
+Size: 656818
+MD5sum: f1e189fbd8f46a4b9acbdb29dd6eeebf
+SHA1: fc54e000ec5c8ae6601803668e3897a377c5754e
+SHA256: 8e3bd88fb3c669dcdf94005d230fa6ba0503ae243abcf4bae8b7e9179fc8834d
+Section: Tweaks
+Description: Track you friends on WhatsApp Messenger!
+Author: Ali
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Name: OnlineNotify Cracked Ali
+
+Package: com.pulandres.watools
+Version: 2.1.10
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 8.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.f0u4d.watusitools, com.pulandres.whatshack, ru.rejail.whatshack, com.hackyouriphone.whatshack, updatejeje
+Replaces: com.f0u4d.watusitools
+Filename: ./debs/com.pulandres.watools_2.1.10_iphoneos-arm.deb
+Size: 13491690
+MD5sum: 6f832624cf4c92a0975a0557b80fb88e
+SHA1: 1ba60ebc0be7cc65b02f4fa2b5ff54a3f34da14a
+SHA256: 3f4d7d3b1b6ae2653b26899a144230f94757ae06ed9f5b0b4e51aca48125b829
+Section: System
+Description: Library for Watusi and WhatsApp tweaks
+Author: Albasrawi
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Name: WatusiTools Cracked Ali
+
+Package: com.pulandres.watusi2
+Version: 1.2.22
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap, applist, com.pulandres.watools, sedfix
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, ass.kiiimo.repo2, com.pulandres.whatshack, ru.rejail.whatshack, com.hackyouriphone.whatshack
+Filename: ./debs/com.pulandres.watusi2_1.2.22_iphoneos-arm.deb
+Size: 4777528
+MD5sum: 25d56170d7c58ec4b1705a18d69be727
+SHA1: 65aaaec25141010971a62f8520d07bedb2b9c8a8
+SHA256: 1110c3f2b8166d7d750eeb0117a85857c0f8ab7535408c458e903bd24ab7dc92
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Albasrawi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp Cracked Ali
+
+Package: ru.rejail.midevice
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker, applist
+Filename: ./debs/ru.rejail.midevice_2.0.0-1_iphoneos-arm.deb
+Size: 201298
+MD5sum: 9b9e9d565bc42865522f534c4bbb2a6c
+SHA1: c51afc91451224aa966d899ec070f5b7142029af
+SHA256: 647a2b9800a94e480c4fea332398b95fe374078b120c184d357b4f32e485617e
+Section: Tweaks
+Description: أداة لتعديل على الجهاز وترتيب الأيقونات وخصائص اخرى
+Author: Albasrawi
+Installed-Size: 748
+Name: MiDevice Ali
+
+Package: ru.rejail.photomanager12
+Version: 1.0.7-1+debug
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Filename: ./debs/ru.rejail.photomanager12_1.0.7-1+debug_iphoneos-arm.deb
+Size: 250426
+MD5sum: b47c9b5e61c11f41e7e12dabbe893090
+SHA1: cedd52f337d2d0c7e31244e26a1e8dfce46773a8
+SHA256: 2f201e2f51e4731b186e89f6d1ae73432a5324658745707e65d8c33070d8153a
+Section: Tweaks
+Description: أداة رائعة لأضافة بعض الخصائص مثل قفل الصور وغيرها
+Author: Albasrawi
+Installed-Size: 1383
+Name: PhotoManager (iOS 12) Ali
+
+Package: sileoturkiye.appstoreplusplus
+Version: 0.9.7
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces: com.cokepokes.appstoreplusplus
+Filename: ./debs/sileoturkiye.appstoreplusplus_0.9.7_iphoneos-arm.deb
+Size: 1316606
+MD5sum: b708a43b83d55d6cb9e3c8b0506584c1
+SHA1: d402ad64013b247ccf15c33aba56f403f41041d4
+SHA256: b2b2f63bf127f274656f02b24765e74674139492117a3109606f324bcf386d02
+Section: Tweaks
+Description: أداة مهمة ومفيدة لأرجاع نسخ التطبيقات الى نسخة قديمة
+Author: CokePokes
+Name: AppStore++ Ali
+Priority: optional
+
+Package: sileoturkiye.appsyncunified
+Version: 66.0
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 5.0), firmware (<= 13.3.1), mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Filename: ./debs/sileoturkiye.appsyncunified_66.0_iphoneos-arm.deb
+Size: 48066
+MD5sum: 1b36004980e92f05e140501ad3801f2c
+SHA1: 7c5a7dc1fbb63aefad1c8d52a6e1c91bb1e9980c
+SHA256: b4eb199ba97f87232a4907b7284db21e6dac871801f7eed5d101f084859d7e39
+Section: System
+Description: أداة لتثبيت التطبيقات من خارج متجر أبل
+Author: Albasrawi
+Name: AppSync Unified Ali
+Provides: appsync
+
+Package: sileoturkiye.bioprotectxs
+Version: 4.3-22k
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Filename: ./debs/sileoturkiye.bioprotectxs_4.3-22k_iphoneos-arm.deb
+Size: 774426
+MD5sum: 40b46573ab10be7976b01ce8082691be
+SHA1: 7e8fb1f947b952eb3fbc1d4ee018871c15be2994
+SHA256: 93500c54c0156c9359eb7378bed44fac46271f13ec8d74434e27a6139a1c6743
+Section: Tweaks
+Description: أداة لقفل التطبيقات والملفات والاعدادات بالبصمة
+Author: Elias Limneos
+Name: BioProtect XS Ali
+
+Package: ru.rejail.bohemic
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/ru.rejail.bohemic_1.1.4_iphoneos-arm.deb
+Size: 36739900
+MD5sum: 40cfe19bd93886147ef71f20a00d9566
+SHA1: 42a5dce7bb7ddb5c70e96143804aa0f49279fc4a
+SHA256: 6ef66429264e355faab7ffadebe02b1e830e890e0b5feb0ce47820a644cbd805
+Section: Themes
+Description: Themes Bohemic. ثيم رائع
+Author: Ali Albasrawi
+Installed-Size: 42779
+Name: Bohemic Ali
+
+Package: ru.rejail.bubbles
+Version: 0.3.0b
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Conflicts: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
+Replaces: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
+Filename: ./debs/ru.rejail.bubbles_0.3.0b_iphoneos-arm.deb
+Size: 66934
+MD5sum: 35f8748f6badb5d3b78ba1864cc33cec
+SHA1: 83fbcd6ce1e4ffcf6428bb08db1a571bc5e97184
+SHA256: 296f522b7caa3e55af8b871888a5ee4ff415a8d4a216c4e887047fc3fa88dd91
+Section: Tweaks
+Description: أظهار الدردشات في تطبيق الرسائل بشكل جميل مع امكانية التخصيص
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://rejail.ru/depiction.php?file=bubbles
+Icon: file:///Library/PreferenceBundles/bubbles.bundle/SettingsIcon@2x
+Installed-Size: 316
+Name: bubbles Ali
+Priority: optional
+
+Package: ru.rejail.cacheclearer
+Version: 0.1a
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001)
+Filename: ./debs/ru.rejail.cacheclearer_0.1a_iphoneos-arm.deb
+Size: 6650
+MD5sum: b2d079d145dd20f805bd6c07bcba6101
+SHA1: a0a328c1c82a79232b048b94b82026fab9002bdd
+SHA256: cd54581c6c112ab88c5c67b22dfdc08d2ad0b532bafe74e15879f1c3844bc26c
+Section: Tweaks
+Description: أداة لازالة ملفات الكاش لأي تطبيق من الاعدادات و أستعادة ضبط التطبيق لتوفير مساحة التخزين
+Author: Albasrawi
+Installed-Size: 114
+Name: CacheClearer Ali
+
+Package: ru.rejail.copypasta
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Filename: ./debs/ru.rejail.copypasta_0.1.4_iphoneos-arm.deb
+Size: 56304
+MD5sum: eee5dfbfbd2f71cfe5609c3e74b6adeb
+SHA1: 7cb7b7bc4145f19b7a08d32a31e94362fc75a90f
+SHA256: 24f358bd81eb4f5ec5ffbd9c178a4a1db161f56a8259d8cb9f83380fd8aa202e
+Section: Tweaks
+Description: أداة حفظ النصوص المنسوخة والرجوع اليها في اي وقت
+Author: Albasrawi
+Installed-Size: 397
+Name: Copypasta Ali
+
+Package: ru.rejail.cydown
+Version: 7.0.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Filename: ./debs/ru.rejail.cydown_7.0.1_iphoneos-arm.deb
+Size: 2091188
+MD5sum: 844c355c98212bac91aa2ecd3f4bcf5d
+SHA1: 9e2144ed59fa17e5e522dc40f003e8d5fb899830
+SHA256: 5b27ce792fee3bcd4bd12ff08f22489b5d973ea783c7a03e3f8e1ce7c6bd3831
+Section: Tweaks
+Description: ألأداة الشهيرة والمعروفة لدى الجميع لتنزيل الادوات المدفوعة والمزيد من الخصائص
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Installed-Size: 9688
+Name: CyDown Ali
+
+Package: ru.rejail.gamegem
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 8.0)
+Filename: ./debs/ru.rejail.gamegem_1.5_iphoneos-arm.deb
+Size: 2859510
+MD5sum: 3775aa3e51d3dcd36989c311210145ff
+SHA1: 610c65319d85e079e58a2a048c877c3866cba2d3
+SHA256: 405dae3bbf16c65abad7e60c03f9c7c927c1dab21f9db5f92c400d3bc275b85c
+Section: Utilities
+Description: أداة تهكير الموارد للالعاب الاوفلاين
+Author: Albasrawi
+Installed-Size: 10271
+Name: GameGem Ali
+
+Package: ru.rejail.harpy
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: network-cmds
+Filename: ./debs/ru.rejail.harpy_2.0.1_iphoneos-arm.deb
+Size: 4915088
+MD5sum: 99c6af23c4bc693b7ac2cf84bb6a19aa
+SHA1: 0739e8dc30fd1061ee7b05c471cfadc50e99aef4
+SHA256: 41d0ea9eaaf103868c62d041eb9a92bd9d82533b44206d3d9d209b05d2b22037
+Section: System
+Description: أداة التحكم بالراوتر مع امكانية قطع الاتصال عن الاجهزة
+Author: Albasrawi
+Installed-Size: 12252
+Name: Harpy Ali
+
+Package: ru.rejail.libertylite
+Version: 0.2.10
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty
+Filename: ./debs/ru.rejail.libertylite_0.2.10_iphoneos-arm.deb
+Size: 46834
+MD5sum: 47d3c447c89a5e1ce1f20a79ae44ec67
+SHA1: 3f4087f71231eb550ab4b495dc92978f91bb87fc
+SHA256: 2e175e18549bcbcd0210edac99fa9c3f9ea93085fc0bfec5598f8d586d3aadfd
+Section: Tweaks
+Description: أداة أخفاء الجيلبريك عن التطبيقات
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Installed-Size: 453
+Name: Liberty Lite Ali
+
+Package: ru.rejail.localiapstore
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: ./debs/ru.rejail.localiapstore_1.4-2_iphoneos-arm.deb
+Size: 42276
+MD5sum: d8756358b3e102653fd654b4a61c03d5
+SHA1: df8ac2176f16a6b5aa208d803a6ada427e972a0b
+SHA256: 3e2747586ef95f381993c0ef0a5bf7fff18ee51461156b180ea9628a3a2ef5c3
+Section: Tweaks
+Description: أداة لتهكير الموارد لبعض الالعاب
+Author: Albasrawi
+Installed-Size: 235
+Name: LocalIAPStore Ali
+
+Package: com.Ounikarim.Bionic
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 7.0), com.anemonetheming.anemone
+Filename: ./debs/com.ounikarim.bionic_1.7.1_iphoneos-arm.deb
+Size: 62986836
+MD5sum: f69bc55565d784e9afc3c257adf5acdb
+SHA1: 4b748ada48087b0be6092c7f7434c984b987bb78
+SHA256: cae6facb6e5c8583ab4226dd6c8621290dc726817a50b5a5598012a12e8efaf7
+Section: Themes
+Description: ثيم جميل
+Author: Albasrawi
+Icon: file:///Library/Themes/Bionic - Icons.theme/Icon.png
+Name: Bionic Ali
+
+Package: com.anemonetheming.anemone
+Version: 2.1.8-2
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, pincrush
+Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, com.codethemed.iconbundles, com.idd.iconomatic
+Filename: ./debs/com.anemonetheming.anemone_2.1.8-2.deb
+Size: 1857818
+MD5sum: 528a922eb2c41c23c0240c53b685a18d
+SHA1: cdb3f85a2fac3dd8fd0fc05647e6e58fe4573c84
+SHA256: ea2200f6e0e93a1d5b7ee53bcbf46e5b6700a7706ecbf71842426df51a8ee6a0
+Section: Tweaks
+Description: An awesome theme manager!
+Author: Albasrawi
+Icon: file:///Applications/Anemone.app/icon.png
+Installed-Size: 8112
+Name: Anemone Ali
+Priority: optional
+Provides: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, org.coolstar.customclock, com.codethemed.iconbundles, com.idd.iconomatic
+Sponsor: Ali <aliiosapp@gmail.com>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+dev: anemonetheming
+
+Package: com.arab-crack.mediabox
+Version: 2.4.8
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.pixel.mediabox
+Filename: ./debs/com.arab-crack.mediabox_2.4.8.deb
+Size: 319188
+MD5sum: ff222a0d18f3930ea936b8222312a48d
+SHA1: eaf87732f144885cff23e7721b75ee514e18776e
+SHA256: 42c18344e72589f015fad5daa2f210114e27bd3cf3bac1a5af0f050411f1e7aa
+Section: System
+Description: NO ADS
+Author: Albasrawi
+Icon: https://i.ibb.co/z63zcRj/input-onlinepngtools.jpg
+Name: MediaBoxPlus Ali
+
+Package: com.arab-cydia.angelblack
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Filename: ./debs/com.arab-cydia.angelblack_1.2.deb
+Size: 3764098
+MD5sum: 444faff959a6bfba215764f6b2e755a7
+SHA1: 85d12d9e6d2d1964d2f71ffa92357b0ee7f9e6d3
+SHA256: 087b4fe24fb37898cce498d3a9a66173082a9249d2f5606379634e57a565b3fe
+Section: Themes
+Description: THEME
+Author: Albasrawi
+Name: Angel Black Ali
+
+Package: com.arab-cydia.antirevoke
+Version: 0.0.1-1+debug-1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.antirevoke_0.0.1-1+debug-1.deb
+Size: 3418
+MD5sum: 4a2933f42b8ba47092d6c559d5af7830
+SHA1: a20e59735393165405f8b5c8d3559d5900c5b6b5
+SHA256: 2b3257b5fd66b141f2cded39e70d6a0223b71f0966b0ec1c40662d4233c98020
+Section: System
+Description: لاحاجه لتحقق من ملف شهادة التطبيقات او اعادة توقيع التطبيق قبل انتهاء الـ 7 ايام
+ ( لايوجد اعدادات للاداة )
+Author: 180
+Installed-Size: 136
+Name: Anti Revoke Ali
+
+Package: com.arab-cydia.AppCake6
+Version: 6.0.8-1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: appsync
+Filename: ./debs/com.arab-cydia.appcake6_6.0.8-1.deb
+Size: 20101252
+MD5sum: 82bc06b8bd524ea08e5b35f13da09806
+SHA1: 6021474d87c56a7d703fd35e415452eb681dcbae
+SHA256: 2fec063c22673ae9d50792d90e341b4f1cce0dfd530bae256fdb69e4d7731ab4
+Section: Supports
+Description: لتحميل التطبيقات المدفوعة والمكررة والالعاب مجاناً .
+Author: Albasrawi
+Icon: file:///Applications/AppCake.app/icon57x57.png
+Name: AppCake Ali
+Pre-Depends: firmware (>= 10.0)
+
+Package: com.arab-cydia.bobbymoviebox
+Version: 3.2.4-1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Filename: ./debs/com.arab-cydia.bobbymoviebox_3.2.4-1.deb
+Size: 7178182
+MD5sum: 9224f9ee6432df2a2bacc32a94908a68
+SHA1: b8472b3da693c8b039e221b7e50de4bf67dcc3da
+SHA256: 311282a4484c65a22d3fe3701b1f12ca39551468c22f75a42b938e3b851734c6
+Section: Applications
+Description: اقوى تطبيق لمشاهدة احدث الافلام والمسلسلات
+Author: Albasrawi
+Name: Bobby Movie Box Ali
+
+Package: com.arab-cydia.copysources
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.arab-cydia.copysources_1.0-1.deb
+Size: 15360
+MD5sum: b149e5e6231b478d7ef593c30a4fc16e
+SHA1: 473b31f8cd8969ba154cc00450946b8e8df5c499
+SHA256: 4d715f99315b8b64f2985c759bf448c97837d11f5e69fc2752253f410ef65b0c
+Section: Tweak
+Description: نسخ أو مشاركة السورسات الخاصة بك من داخل السيديا
+Author: Albasrawi
+Installed-Size: 124
+Name: CopySources Ali
+Priority: optional
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+
+Package: com.arab-cydia.sahra
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.sahra_1.0-1.deb
+Size: 8831990
+MD5sum: a8c4a729b837c79e3e33272bc4e83511
+SHA1: 8e63f544228bcf0d3f1074aead5ba2fbc43d4d25
+SHA256: 050815e6e1d590096e4c48eb76b187a39ea9dd70e4283a3c2cefff5b5002d4c1
+Section: Applications
+Description: تطبيق السهرة المدفوع لمشاهدة الافلام والقنوات الرياضية
+Author: Albasrawi
+Name: al-Sahra Ali
+
+Package: com.arab-cydia.spaces
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Filename: ./debs/com.arab-cydia.spaces_1.1.deb
+Size: 2595476
+MD5sum: 7af00916bffc4d4ca22e2e979aa1da3f
+SHA1: 3d6c2d882cfad4800c297ed1bcbef454caef3552
+SHA256: 13366d63a5353fa60773a06443ddcbde981b2814ac0f8b7121820440b186a1f0
+Section: Themes
+Description: THEME
+Author: Albasrawi
+Name: Spaces Ali
+
+Package: com.arab-cydia.veno
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Filename: ./debs/com.arab-cydia.veno_1.0.deb
+Size: 2393312
+MD5sum: d156d7d987606da6b3e075b3853d861f
+SHA1: b782002c0bf55fb29dd0cc99176430731d02d28f
+SHA256: 366e7b7d11d70da4887bebc126477ed2fe47bdecc8c3b76c002166076d5e6740
+Section: Themes
+Description: THEME
+Author: Albasrawi
+Name: Veno Ali
+
+Package: com.arab-cydia.weathervane
+Version: 1.1.0-1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.weathervane_1.1.0-1.deb
+Size: 12120
+MD5sum: e69aba00bcff2ccb5e8a8c9875f88fce
+SHA1: 731e71d741ae67dc9f75b0dc05fa8425d3137b1b
+SHA256: ec123d6aad411e9f539c276578da70d5a94bf74dd2e2cd167d95534e764749a9
+Section: Tweaks
+Description: الوصول السريع لشبكات الواي فاي واجهزة البلوتوث عن طريق مركز التحكم بضغطه مطوله
+Author: Albasrawi
+Name: WeatherVane Ali
+
+Package: com.dpkg.ccolor
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.dpkg.ccolor_1.0-1.deb
+Size: 22916
+MD5sum: eb956ff21dbab17dbbda77b6d0cbc4e4
+SHA1: 574defa5f836348dc7c6465c01b091cc6afdda70
+SHA256: 46aaa85c891a0e597eab3368d05c52180089db70ebde8308583de4af39da699e
+Section: Tweaks
+Description: Custom CC background color.
+Author: Albasrawi
+Installed-Size: 240
+Name: CColor Ali
+
+Package: com.ericasadun.utilities
+Version: 1:0.4.2
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Filename: ./debs/com.ericasadun.utilities_0.4.2.deb
+Size: 55410
+MD5sum: 89a3bb9791c2deee6f530773089ee43d
+SHA1: b57904d5171e56cd559c798d277ccf9f8d45c556
+SHA256: 4e8e98895576e985be5a50070c96403a2ce2b577eb2267649853686a2ad99f56
+Section: Utilities
+Description: A collection of command-line utilities for various purposes.
+Author: Albasrawi
+Name: Erica Utilities Ali
+
+Package: com.ichitaso.powerselector11
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/com.ichitaso.powerselector11_1.2.1.deb
+Size: 192916
+MD5sum: d1e53297bfbb14674eccf854eea7f7b5
+SHA1: 7f18f282f983f9ce45a50e658d0f1cc81bf4fe5a
+SHA256: a3ce4b5e1ae43870b6dd54811ccadd292394cba6f280004ce4fe0a3c1a10effe
+Section: Utilities
+Description: The power supply relation of a device is operated.
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Installed-Size: 1712
+Name: PowerSelector (iOS 11 & 12) Ali
+Pre-Depends: firmware (>= 11.0)
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+
+Package: com.jailbreak365.ccmodulespro
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.opa334.ccsupport (>= 1.2.1), ws.hbang.common
+Filename: ./debs/com.jailbreak365.ccmodulespro_1.0.0.deb
+Size: 89244
+MD5sum: ea2630f898af202dc67f7234d40581e0
+SHA1: 6a6534feadea7299823f4a838069f45b0ff9f738
+SHA256: e7ea2c3d12a6e23428230ed315f760900c3ad08884474bd8248df872873db21f
+Section: Tweaks
+Description: Increase the usability of your control center.
+Author: Albasrawi
+Installed-Size: 1484
+Name: CCModules Pro Ali
+
+Package: com.jailbreak365.safeccmodules
+Version: 1.4-3
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/com.jailbreak365.safeccmodules_1.4-3.deb
+Size: 1118058
+MD5sum: 8d1a3e4aa22fc7e202f9a4bd31782edf
+SHA1: 6969ec4aab57e24711b90df7fd5c1128cc1c9006
+SHA256: 88d8f780da26286c30eaf56631466a4dd50ca9736f1fbe06b7b0476dbff9a20c
+Section: Addons (ControlCenter)
+Description: More control center modules for iOS 11/12
+Author: Albasrawi
+Installed-Size: 4721
+Name: CCModules Ali
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+
+Package: com.muirey03.cr4shed
+Version: 3.0.1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1) | firmware (<< 12.0), com.cokepokes.libnotifications (>= 0.2-2), cy+cpu.arm64 | cy+cpu.arm64e
+Filename: ./debs/com.muirey03.cr4shed_3.0.1.deb
+Size: 56714
+MD5sum: 2c117d8baa1af4c2ca29f3a14876fbf4
+SHA1: 208796877544dfd9ec620043df2b19e305a914de
+SHA256: e122f57cee3725b0d27f321d62486c0163a2b3b676d7d55134d4a05d287740c5
+Section: Tweaks
+Description: More useful crash logs
+Author: Albasrawi
+Installed-Size: 536
+Name: Cr4shed Ali
+
+Package: com.muirey03.nicenotes
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>=1.1), preferenceloader
+Filename: ./debs/com.muirey03.nicenotes_1.0.4.deb
+Size: 64428
+MD5sum: 6fec2e7848290053e280cf96ec02fbe0
+SHA1: cc59d240ecbc8b6fe2a08b620b43e9365c74c302
+SHA256: b64f8828b2a7bb5857330ae39046acabe4bd2c7027ed933a1af8f91f8f8a8058
+Section: Tweaks
+Description: التعديل على تطبيق الملاحظات وتخصيص الالوان حسب رغبتك
+Author: Albasrawi
+Installed-Size: 327
+Name: NiceNotes Ali
+
+Package: com.opa334.ccsupport
+Version: 1.2-3
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Filename: ./debs/com.opa334.ccsupport_1.2-3.deb
+Size: 35506
+MD5sum: 5bdf900d2f1e3f7b8dca06696892ef8a
+SHA1: 869427d61a45e0f6bf9803628aa0555e630d0fa8
+SHA256: fd79a3b14797b0ed8b3e3eebbcb71f51e446a374307990f2ed58b3fb5982e04a
+Section: Tweaks
+Description: Support tweak for CC modules!
+Author: Albasrawi
+Installed-Size: 203
+Name: CCSupport
+Provides: com.ioscreatix.silo
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+
+Package: com.opa334.safariplus
+Version: 1.7.5-3
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.opa334.safariplus_1.7.5-3.deb
+Size: 987126
+MD5sum: c88eab51ca984946b369d3de56dc17f6
+SHA1: 0ded27f6c9ecc9c43bc99bd4e549a88cd14c362f
+SHA256: 3c9b46e45701c3db38c0992504683be3b1b023c345d589801af26938d3c2f5c2
+Section: Tweaks
+Description: Various enhancements to Safari!
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png
+Installed-Size: 4622
+Name: Safari Plus Ali
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+
+Package: com.pulandres.boxy3
+Version: 3.6.2
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.chpwn.iconsupport
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders
+Filename: ./debs/com.pulandres.boxy3_3.6.2.deb
+Size: 2798974
+MD5sum: 7a22fe5792844889c0ee6939f70026de
+SHA1: f5cc8212fc15fcf19992754a9d1f8e8da95143b0
+SHA256: 474743dd177bf768a859ccf64d8f2df03495909f64d2aee79f4d019e0e5acc74
+Section: Tweaks
+Description: Modify your icons
+Author: Albasrawi
+Installed-Size: 3528
+Name: Boxy 3 (iOS 11 - 12) Ali
+
+Package: com.synnyg.floatydock
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.chpwn.iconsupport, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.synnyg.floatydock_1.5.deb
+Size: 70024
+MD5sum: db13005a1d18ce08fd0eb0383072c1ff
+SHA1: 8f2d226db7d59921cafe3ab350fb788e572f493f
+SHA256: 6bd905a786d0cf8e8b3fd59f2f8842538c3184730530bdd2b103032c8d445d23
+Section: Tweaks
+Description: iPad dock power, for all !
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/FloatyDockPrefs.bundle/icon@2x.png
+Installed-Size: 412
+Name: FloatyDock Ali
+Tag: purpose::uikit, compatible::ios11, compatible::ios12
+
+Package: com.yourepo.jerem10.nrc
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 7.0), com.anemonetheming.anemone
+Filename: ./debs/com.yourepo.jerem10.nrc_0.0.5.deb
+Size: 2447674
+MD5sum: 1f0560f44b99bc27f6115267d39f1c8c
+SHA1: b00b7395d86c3b071619759ae1def19d72dfdeb5
+SHA256: 53d4628ac5eb4597bd26dfe994688646356a0bbc2caec6f0412c830c50829e6c
+Section: Themes
+Description: Thème Sombre au icon arrondie ( Marche avec Anemone )
+Author: Albasrawi
+Installed-Size: 10912
+Name: NrC Ali
+Priority: optional
+Tag: compatible::ios11
+
+Package: me.a1iraqi.azinstaller
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Filename: ./debs/me.a1iraqi.azinstaller_1.0.deb
+Size: 7787160
+MD5sum: 580409f40f5bd713623311bafeed19d4
+SHA1: 72404421b44166ac2dc4f75fe4dc93d918fb60b5
+SHA256: 38d8b44ecac75e9b4afed9e7302da5b6ea024a0c206ff2b2c8b4d4f8b7b1437e
+Section: Tweaks
+Description: install Application without Computer
+Author: Albasrawi
+Icon: https://1.top4top.net/p_1359v7toi0.png
+Name: AZinstaller Ali
+
+Package: ru.rejail.colorbanners2
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5.000), org.thebigboss.libcolorpicker (>= 1.1)
+Conflicts: com.golddavid.colorbanners, com.golddavid.colorbanners-cb, com.golddavid.colorbanners2
+Replaces: com.golddavid.colorbanners, com.golddavid.colorbanners-cb, com.golddavid.colorbanners2
+Filename: ./debs/ru.rejail.colorbanners2_1.2.4.deb
+Size: 730240
+MD5sum: 7079fe37847aa3430a9c5f1a6fa58e87
+SHA1: 6cb5338f6dcab553293f6d497658ec3d28dcd17c
+SHA256: 02782a4eb90aafc4b4d4f719150e241ee788b62047031294a1ad9bc833c69f27
+Section: Tweaks
+Description: تخصيص الوان حسب رغبتك
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/ColorBanners2Prefs.bundle/ColorBanners@3x.png
+Installed-Size: 1268
+Name: ColorBanners 2 Ali
+
+Package: ru.rejail.snapper2
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debs/ru.rejail.snapper2_2.2.1.deb
+Size: 408772
+MD5sum: 756a49c6aa29f2623aed667a711f6c26
+SHA1: c56ba3563867aded6da34479d4fb5271c5ae80fa
+SHA256: a24a8656bddd9f3410f590e19f7ca7b1618cb5fa139cd7af97991f780d17e974
+Section: Tweaks
+Description: قص صورة في أي مكان من شاشة الايفون
+Author: Albasrawi
+Installed-Size: 1464
+Name: Snapper 2 Ali
+
+Package: sileoturkiye.carplay
+Version: 1.0.9k
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap (>> 1.0.6) | mobilesubstrate (>= 99.0), preferenceloader, ws.hbang.common, ldid
+Conflicts: com.eason.carplay, com.eason.carplay.ios11, ch.ringwald.hidsupport, com.modmyi.boxy3, com.irepo.boxy3
+Filename: ./debs/sileoturkiye.carplay_1.0.9k.deb
+Size: 3322942
+MD5sum: ac5d1c9466d7b83b87b64fa07036a02c
+SHA1: 0d286540e54d9368d4a6c3b7a2d8d644a33a9ff4
+SHA256: 86bcc5b0c3ed7e33c40a1ebe22fe9eafabd16fbf945a701064f6024bca743224
+Section: Tweaks
+Description: عرض شاشة الايفون على شاشة السيارة عبر carplay.
+Author: Albasrawi
+Name: CarBridge Ali
+
+Package: com.arab-cydia.reprovision
+Version: 0.4.2
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer
+Filename: ./debs/com.arab-cydia.reprovision_0.4.2_iphoneos-arm.deb
+Size: 10573790
+MD5sum: 590c3005c34ebc87aa6e8c4ad872b8f3
+SHA1: e49694a9a846e5c36683930388a671fdf5c0e545
+SHA256: 9acdef597cba51ee36a27ee53ddbed836ae5dfa0e7d7ea679bca59e322d84f9e
+Section: System
+Description: تجديد شهادة التطبيقات المثبته لديك بشكل تلقائي اسبوعياً بدون الحاجة الى كمبيوتر
+Author: Albasrawi
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Name: ReProvision Ali
+Priority: optional
+
+Package: com.pulandres.stalky
+Version: 4.0.9
+Architecture: iphoneos-arm
+Maintainer: Albasrawi <aliiosapp@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.pulandres.watools, com.rpetrich.rocketbootstrap
+Conflicts: com.f0u4d.stalkybeta, com.pulandres.whatshack, ru.rejail.whatshack, com.hackyouriphone.whatshack
+Filename: ./debs/com.pulandres.stalky_4.0.9_iphoneos-arm.deb
+Size: 5290908
+MD5sum: 214262b27515b64bf53934d2128a77a6
+SHA1: 94933b88cf85b3d5274d059affd350a7fc7f9e0c
+SHA256: 3ea56e0c9ef7f78e648f9b3e8353f27fd6ebfe9698f18fffd4b1b48b8898cf38
+Section: Tweaks
+Description: Track and download your contacts latest profile and statuses updates on WhatsApp
+Author: Ali Albasrawi
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Name: Stalky Cracked By Albasrawi
+
+Package: com.pulandres.3dtools
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Conflicts: me.pulandres.appaze
+Filename: ./debs/com.pulandres.3dtools_1.0.4_iphoneos-arm.deb
+Size: 1193274
+MD5sum: 6367d3ec79e49f93487c1b4c0fd44582
+SHA1: dd497099d7ba059bc562cdc4d105b6769844df7f
+SHA256: e31f84d11a60e3f2482a62710be3c063c47e5fdb1c7c57bef218be8f844ac3e4
+Section: Tweaks
+Description: Add helpful tools to your 3D touch menu!
+Author: Ali
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Installed-Size: 1917
+Name: 3DTools Cracked By Ali
+
+Package: com.synnyg.floatydock
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.chpwn.iconsupport, com.muirey03.iconsupportfix | firmware (<< 13.0)
+Filename: ./debs/com.synnyg.floatydock_2.0.1_iphoneos-arm.deb
+Size: 73844
+MD5sum: 7dad40660a6b31521b75591733be7886
+SHA1: 7b17ce13c0ecdb76e821d66fbdf4ad0c13797038
+SHA256: e51828cd48b7584b3407552a8f77f0db10cbb772dca8ba07e62b5ff1ed116ffd
+Section: Tweaks
+Description: iPad dock power, for all !
+Author: Ali
+Icon: file:///Library/PreferenceBundles/FloatyDockPrefs.bundle/icon@2x.png
+Installed-Size: 421
+Name: FloatyDock
+Tag: purpose::uikit, compatible::ios11, compatible::ios12, compatible::ios13
+
+Package: com.yourepo.mohadu31.newterm2
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm
+Filename: ./debs/com.yourepo.mohadu31.newterm2_2.2.1_iphoneos-arm.deb
+Size: 843916
+MD5sum: f7c5afc7b6a2a08fcfa22c2335bcd215
+SHA1: eba920cbb3512ccd53d0d436f7659a1468e66f0c
+SHA256: 0045e216e25cf32468c172da5ca9ca9b24236838f793f341352e789e934a0d3d
+Section: Tweaks
+Description: A powerful terminal app for iOS
+Author: Ali
+Icon: file:///Applications/NewTerm.app/AppIcon60x60@3x.png
+Name: NewTerm 2 (iOS 10–12-13) By Ali
+
+Package: me.pulandresk.dleasy
+Version: 92.7.5-1k
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.ouraigua.jodebox
+Conflicts: me.ahmedbafkir.dleasy, me.pulandres.dleasy
+Replaces: sileoturkiye.dleasy
+Filename: ./debs/me.pulandresk.dleasy_92.7.5-1k_iphoneos-arm.deb
+Size: 3066496
+MD5sum: b8ed68dc436db69a8755e0f41779125a
+SHA1: d909ffe025833dcd8a5723c710f20b536bdab9ec
+SHA256: 337e8e34c19a0c486581507d6a0afcecb4051ef65f9c5de6a92c1eb7fe510779
+Section: Tweaks
+Depiction: https://repo90.github.io/ios/depictions/?p=me.pulandresk.dleasy_92.7.5-1k_iphoneos-arm
+Description: لتحميل الصور والفيديوات من تطبيقات التواصل الاجتماعي !
+Author: Ali
+Name: DLEasy Cracked By Albasrawi
+
+Package: me.tomt000.copylog
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/me.tomt000.copylog_1.2.6_iphoneos-arm.deb
+Size: 1381604
+MD5sum: e44969a8dadb88e5ee92cbc2cc6c893a
+SHA1: 8fda715fa9fa556ae632cfc353f8af4b7d69275b
+SHA256: f78a4f607a500ac9b98f3f5ea65b914e84ba3aeaf9df91d043f25e44c74be822
+Section: Tweaks
+Description: Clipboard history manager for iOS!
+Author: Ali
+Installed-Size: 3676
+Name: CopyLog
+
+Package: org.thebigboss.dismissprogress
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, firmware (>= 3.0), cydia (>= 1.1.19)
+Filename: ./debs/org.thebigboss.dismissprogress_1.0.3_iphoneos-arm.deb
+Size: 6030
+MD5sum: 23b3321aeab6d8efddf51918b013001a
+SHA1: f810aa48be46e6e2355bf075000312c41e7b9ee3
+SHA256: c8cff6ed98b629e0ecbd4138eb57f5aeba9a974e4d4d62edb2d6d2dff8e5854c
+Section: Tweaks
+Description: Dismiss Cydia'a installation window without closing cydia.
+Author: Ali
+Installed-Size: 150
+Name: DismissProgress
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+
+Package: ru.rejail.apptools
+Version: 1.6.0k
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/ru.rejail.apptools_1.6.0k_iphoneos-arm.deb
+Size: 609370
+MD5sum: 83236acf216735ba1715b5bb5eb46618
+SHA1: 9cac33fe72397b5398938f86315f979aa62c38db
+SHA256: 7367dd52221dd7f707a13c1d45c47f63139f73fce28b8e6ff0dcae26919c0601
+Section: Tweaks
+Description: خيارات عدة تظهر عند السحب للاعلى او الاسفل مثل عرض مسار التطبيق او اعادوة تسمية او ازالة الاشعارات وغيرها
+Author: Ali
+Icon: file:///Library/PreferenceBundles/AppTools.bundle/icon@2x.png
+Installed-Size: 1999
+Name: AppTools (11-12)
+
+Package: ru.rejail.audiorecorderxs
+Version: 3.0-78
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader,firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Replaces: net.limneos.audiorecorder, net.limneos.audiorecorderx,net.limneos.audiorecorderxs
+Filename: ./debs/ru.rejail.audiorecorderxs_3.deb
+Size: 2168598
+MD5sum: fece46b4c4784b08f2562e93970c9708
+SHA1: c21e453c9654dc6dec7caf7e757cfd7cd42aea21
+SHA256: e984702fd0b38615702fb2e3d72d605b8c6a4c803f197c595ea7a5248c26f474
+Section: Tweaks
+Description: تسجيل المكالمات من عدة تطبيقات والهاتف
+Author: Ali
+Installed-Size: 13174
+Name: AudioRecorder XS (iOS 12)
+
+Package: com.arab-cydia.365scorescrazymind90
+Version: 2.0-1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.365scorescrazymind90_2.0-1_iphoneos-arm.deb
+Size: 4244
+MD5sum: dacf7612711ca76966edb3d8d74c393d
+SHA1: bfefb8328fa424a64c2cf027b1bce5dbc29a5dad
+SHA256: ceb9905cd91d833669432ae7bb130829a63ef709bc25a8853c16d8f7506703e9
+Section: Apps Hack
+Description: ازالة الاعلانات من تطبيق 365Scores
+Author: Ali
+Name: 365Scores Hack By Ali
+Sponsor: Ali <aliiosapp@gmail.com>
+
+Package: com.arab-cydia.betterccxiweather
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.arab-cydia.betterccxi | com.atwiiks.betterccxi
+Filename: ./debs/com.arab-cydia.betterccxiweather_1.0.1-1_iphoneos-arm.deb
+Size: 13992
+MD5sum: 42b5d73525f999663abf0df573c6bafd
+SHA1: 748b12cabac3c5d5ad519579d6e2207330b90ba6
+SHA256: dd1d7155f92c6c76c7377cc66cfbb200be236af0ccb65d7c19f8b7693da1dbce
+Section: Tweaks
+Description: اختصار جميل للطقس في مركز التحكم يتم تفعيله والتحكم به عبر اداة BetterCCXI.
+Author: Albasrawi
+Name: BetterCCXI (Weather Addon) 11-12
+Sponsor: Ali <aliiosapp@gmail.com>
+
+Package: com.arab-cydia.betterccxi
+Version: 1.4.8-1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debs/com.arab-cydia.betterccxi_1.4.8-1_iphoneos-arm.deb
+Size: 61516
+MD5sum: 60d353832673f82462a3b6ad2f34bc7f
+SHA1: c2affa6a96de3e81ac4f0a3a9900d3d95b2c718e
+SHA256: ddc532d6fb9ff5e06646b886ccf2823a8faeb3212fc9a38256672142d7e914fd
+Section: Tweaks
+Description: تغيير مظهر control cente
+Author: Albasrawi
+Name: BetterCCXI 11-12
+Sponsor: Ali <aliiosapp@gmail.com>
+
+Package: com.foxfort.translomatic
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.0.10), com.foxfort.libfoxfortutils (>= 1.0.10), com.rpetrich.rocketbootstrap (>= 1.0.3), applist
+Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice
+Filename: ./debs/com.foxfort.translomatic_2.0.0_iphoneos-arm.deb
+Size: 3154940
+MD5sum: 5d4202b46e2586fc88e525a6c59579f5
+SHA1: d249eebfdc3dc9339960264e48ec0d42636286b9
+SHA256: 852c19390a6f1977961d763c8c8a3ee51705e8e1a7f681de942146877693215d
+Section: Tweaks
+Description: Quickly translate any text
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+Installed-Size: 5284
+Name: Translomatic 11-12-13
+
+Package: com.jannikcrack.glory
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/com.jannikcrack.glory_1.1.1_iphoneos-arm.deb
+Size: 12608312
+MD5sum: ccf5fec3ff02a0ea0711dc94c12cbff5
+SHA1: 5c0917da9d5f1b97d343fd1be35420b24bf37227
+SHA256: 2d07b347921608f7d5575ad7f7f176c55be4de2706d378cbbc59ae18634ca61f
+Section: Themes
+Description: A theme with beautiful icons!
+Author: Albasrawi
+Name: Glory
+
+Package: com.nrkvv.glocation
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Filename: ./debs/com.nrkvv.glocation_0.1.0_iphoneos-arm.deb
+Size: 59344
+MD5sum: 16487527078eee121f3d434b4d0ad498
+SHA1: 7d3188aa5b1ab50381259de265e143e3c044a7c0
+SHA256: 277b1082ce3cc66e63e21bc22861a2661067cbcd0ab9d30114c0d6001508bf3a
+Section: Tweaks
+Depiction: https://repo90.github.io/ios/depictions/?p=com.nrkvv.glocation_0.1.0_iphoneos-arm
+Description: تغيير الموقع لخداع التطبيقات بالموقع الوهمي الجديد موافقة مع اغلب التطبيقات ومنها snapChat !!
+Author: Ali Albasrawi
+Icon: file:///Library/PreferenceBundles/gLocationPrefs.bundle/gLocation@2x.png
+Installed-Size: 528
+Name: gLocation By Albasrawi
+Tag: compatible::ios11, compatible::ios12
+
+Package: com.pulandres.watusi2
+Version: 1.2.23
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap, applist, com.pulandres.watools, sedfix
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, ass.kiiimo.repo2, com.pulandres.whatshack, ru.rejail.whatshack, com.hackyouriphone.whatshack
+Filename: ./debs/com.pulandres.watusi2_1.2.23_iphoneos-arm.deb
+Size: 4775994
+MD5sum: 3c6e5ac08e91ed82d9c8e4ac40945688
+SHA1: 3c4b82ed944a74e9f5e5b72dce9ed892eafb55ed
+SHA256: e190e7783ad942328206e660779b8a6644bcdbc7aa4d6378be3a04a3e0368a84
+Section: Tweaks
+Depiction: https://repo90.github.io/ios/depictions/?p=com.pulandres.watusi2_1.2.23_iphoneos-arm
+Description: أداة لأضافة خصائص للواتساب يمكنك من خلالها من ايقاف الظهور ومزايا عديدة
+Author: Ali Albasrawi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 for WhatsApp Cracked By Ali
+
+Package: com.creaturecoding.shuffle
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.creaturecoding.shuffle_1.0.5_iphoneos-arm.deb
+Size: 179348
+MD5sum: 70f4f105fe98ce1b88c2bad1a9fa2a88
+SHA1: 25775b2032982cfa6f8836b9ee5d51b58c8cdf68
+SHA256: a811848b6a55e713b7ad00711bf444b239d7b1770b8dc9a9d55022fb17a8bbd8
+Section: Tweaks
+Depiction: https://repo90.github.io/ios/depictions/?p=com.creaturecoding.shuffle_1.0.5_iphoneos-arm
+Description: Mix up your preferences
+Author: Albasrawi
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Installed-Size: 1408
+Name: shuffle By Albasrawi
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Tag: purpose::extension, compatible_min::iosiOS10
+
+Package: me.nepeta.relocate
+Version: 0.1.11
+Architecture: iphoneos-arm
+Maintainer: Albasrawi
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7)
+Filename: ./debs/me.nepeta.relocate_0.1.11_iphoneos-arm.deb
+Size: 94710
+MD5sum: 483ee6149e539ce31afffa59c8880528
+SHA1: 20514330acd718cf95b8ffb3816f6c1660f7fe65
+SHA256: ad5798646107102dfde09f29d83689703fffda0985472dfad2862663e8ec50df
+Section: Tweaks
+Depiction: https://repo90.github.io/1/
+Description: Minimalist GPS spoofer (free)
+Author: Ali
+Installed-Size: 552
+Name: Relocate By Albasrawi
+
+Package: com.ichitaso.powerselector11
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Filename: ./debs/com.ichitaso.powerselector11_1.2.6_iphoneos-arm.deb
+Size: 204154
+MD5sum: c00cc4066ef34eb5e3171025d98e9ca1
+SHA1: 8407b8619d3af49b34ee6b7b110ba626d8f62164
+SHA256: 0871d3222d1922530490e35c0085ca5d94a47837a952875ecaff543827337cde
+Section: Tweaks
+Description: The power supply relation of a device is operated.
+Author: Ali
+Installed-Size: 1860
+Name: PowerSelector By Albasrawi
+Pre-Depends: firmware (>= 11.0)
+Sponsor: Albasrawi
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+
+Package: com.pulandres.onlinenotify
+Version: 3.0.6
+Architecture: iphoneos-arm
+Maintainer: Ali <aliiosapp@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.rpetrich.rocketbootstrap, com.pulandres.watools  (>= 2.1.9), sedfix  (>= 7.0)
+Conflicts: com.f0u4d.onlinenotifybeta, com.f0u4d.onlinenotify2, com.imokhles.waquickreply.bb, com.pulandres.whatshack, ru.rejail.whatshack, com.hackyouriphone.whatshack
+Filename: ./debs/com.pulandres.onlinenotify_3.0.6_iphoneos-arm.deb
+Size: 677572
+MD5sum: 8531e7865bd8a5fea362c30bdf3ff66c
+SHA1: e7e2c416c10a5236ef12dd4d26921b6913559a61
+SHA256: d8977eeb6e10712279f126cbddefe26f6b8f5a8e861adc0fb6f76027b6e7bd3c
+Section: Tweaks
+Description: Track you friends on WhatsApp Messenger!
+Author: Albasrawi
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Name: OnlineNotify Cracked By Albasrawi
