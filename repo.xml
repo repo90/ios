@@ -1,4 +1,19 @@
 <repo>
 	<footerlinks>
+		<link>
+			<name>Find me on Twitter</name>
+			<url>https://twitter.com/alialbasrawi90</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Send me an email</name>
+			<url>aliiosapp@gmail.com</url>
+			<iconclass>fa fa-envelope-open</iconclass>
+		</link>
+		<link>
+	    <name>Buy me a coffee/beer</name>
+	    <url>https://www.paypal.me/</url>
+			<iconclass>fa fa-paypal</iconclass>
+	  </link>
 	</footerlinks>
 </repo>
